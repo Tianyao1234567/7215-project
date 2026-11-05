@@ -21,10 +21,15 @@ if ($LASTEXITCODE -ne 0) {
  & $gh release create $Tag --repo $Repo --target $commit --title 'Member04 original YOLOv8n baseline 2026-11-05' --notes-file (Join-Path $root '.runtime\github_publication\release_notes.md') --draft
  if ($LASTEXITCODE -ne 0) { throw 'Draft release creation failed' }
 }
+$releaseListText=& $gh api "repos/$Repo/releases?per_page=100"
+if ($LASTEXITCODE -ne 0) { throw 'Draft release lookup failed' }
+$matches=@(($releaseListText | ConvertFrom-Json) | Where-Object { $_.tag_name -eq $Tag })
+if ($matches.Count -ne 1) { throw 'Expected exactly one matching release' }
+$releaseId=$matches[0].id
 $list=@($manifest.image_assets)+@($manifest.handoff_asset)+@([pscustomobject]@{name='SHA256SUMS.txt';bytes=(Get-Item -LiteralPath (Join-Path $assets 'SHA256SUMS.txt')).Length;sha256=(Get-FileHash -LiteralPath (Join-Path $assets 'SHA256SUMS.txt') -Algorithm SHA256).Hash.ToLowerInvariant()})
 $completed=0
 foreach ($asset in $list) {
- $metadata=& $gh api "repos/$Repo/releases/tags/$Tag"
+ $metadata=& $gh api "repos/$Repo/releases/$releaseId"
  if ($LASTEXITCODE -ne 0) { throw 'Release inspection failed' }
  $release=$metadata | ConvertFrom-Json
  $existing=@($release.assets | Where-Object { $_.name -eq $asset.name })
@@ -41,7 +46,7 @@ foreach ($asset in $list) {
  }
  $completed++;Write-State 'uploaded' $asset.name $completed
 }
-$metadata=& $gh api "repos/$Repo/releases/tags/$Tag"
+$metadata=& $gh api "repos/$Repo/releases/$releaseId"
 if ($LASTEXITCODE -ne 0) { throw 'Final release inspection failed' }
 $release=$metadata | ConvertFrom-Json
 $verified=@()
@@ -64,3 +69,4 @@ if ($LASTEXITCODE -ne 0) { throw 'Publication receipt commit failed' }
 Push-Main
 Write-State 'complete' '' $completed
 Write-Output "PUBLISHED https://github.com/$Repo/releases/tag/$Tag"
+

@@ -1,0 +1,93 @@
+{
+  "release_id": 435361433,
+  "quarantined_images": 48,
+  "test_used": false,
+  "source_commit": "c7f8442ab5f4d07bc8a2540b72acaee68005088e",
+  "repository": "https://github.com/Tianyao1234567/7215-project",
+  "verified_assets": [
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-001-of-008.zip",
+      "expected_sha256": "1c8219d9dcec1448e227be42ea4bf6d89684f3438bce5a83c33eea561d5f82f2",
+      "bytes": 733739639,
+      "name": "dataset-images-001-of-008.zip",
+      "id": 713815336,
+      "server_digest": "sha256:1c8219d9dcec1448e227be42ea4bf6d89684f3438bce5a83c33eea561d5f82f2"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-002-of-008.zip",
+      "expected_sha256": "8b14f747087fce3c623a0a2df1ca6d1e0a56540f6b7cf52a4f95f9878bee427c",
+      "bytes": 733895205,
+      "name": "dataset-images-002-of-008.zip",
+      "id": 713825984,
+      "server_digest": "sha256:8b14f747087fce3c623a0a2df1ca6d1e0a56540f6b7cf52a4f95f9878bee427c"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-003-of-008.zip",
+      "expected_sha256": "41fb724a8dfab45727db1d2a1f9bfd8005f2f94758e517bcdee94361b2751fbc",
+      "bytes": 732160811,
+      "name": "dataset-images-003-of-008.zip",
+      "id": 713829024,
+      "server_digest": "sha256:41fb724a8dfab45727db1d2a1f9bfd8005f2f94758e517bcdee94361b2751fbc"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-004-of-008.zip",
+      "expected_sha256": "107865333292e7ebebe62dfb357650b2f0a60aa518c50401986b751d5c60a69d",
+      "bytes": 733663808,
+      "name": "dataset-images-004-of-008.zip",
+      "id": 713831270,
+      "server_digest": "sha256:107865333292e7ebebe62dfb357650b2f0a60aa518c50401986b751d5c60a69d"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-005-of-008.zip",
+      "expected_sha256": "242c3f3d112c3e4f438328c89c3b62566471577913a83ad747da738517ec5de2",
+      "bytes": 733192925,
+      "name": "dataset-images-005-of-008.zip",
+      "id": 713833830,
+      "server_digest": "sha256:242c3f3d112c3e4f438328c89c3b62566471577913a83ad747da738517ec5de2"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-006-of-008.zip",
+      "expected_sha256": "6a9cc571978cf4be82e8a6a3707b237534656561541a41dba25be1145bacb627",
+      "bytes": 730400314,
+      "name": "dataset-images-006-of-008.zip",
+      "id": 713836252,
+      "server_digest": "sha256:6a9cc571978cf4be82e8a6a3707b237534656561541a41dba25be1145bacb627"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-007-of-008.zip",
+      "expected_sha256": "d5025583a0767f92244b4dbd21e521e0c5a01560710cf42c2cecf9e5a7bb27f1",
+      "bytes": 732557628,
+      "name": "dataset-images-007-of-008.zip",
+      "id": 713838946,
+      "server_digest": "sha256:d5025583a0767f92244b4dbd21e521e0c5a01560710cf42c2cecf9e5a7bb27f1"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/dataset-images-008-of-008.zip",
+      "expected_sha256": "00de7a177cf3cfd787ffce014d68806991ff893ffb852bc9132500c9455427d1",
+      "bytes": 663442039,
+      "name": "dataset-images-008-of-008.zip",
+      "id": 713842277,
+      "server_digest": "sha256:00de7a177cf3cfd787ffce014d68806991ff893ffb852bc9132500c9455427d1"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/IDAT7215_Member04_Baseline_20261105.zip",
+      "expected_sha256": "22f4aaf1ebceb2797f0fbef2e588709129f64357c1e37e780b1f8b83a1bfa497",
+      "bytes": 43827232,
+      "name": "IDAT7215_Member04_Baseline_20261105.zip",
+      "id": 713844993,
+      "server_digest": "sha256:22f4aaf1ebceb2797f0fbef2e588709129f64357c1e37e780b1f8b83a1bfa497"
+    },
+    {
+      "url": "https://github.com/Tianyao1234567/7215-project/releases/download/untagged-d7c6e4dc1ade84b65d15/SHA256SUMS.txt",
+      "expected_sha256": "bd8b9c98e5926b23e49962fa20d35a1abe0d14585048e24a1462f764d65c525e",
+      "bytes": 883,
+      "name": "SHA256SUMS.txt",
+      "id": 713845356,
+      "server_digest": "sha256:bd8b9c98e5926b23e49962fa20d35a1abe0d14585048e24a1462f764d65c525e"
+    }
+  ],
+  "status": "published",
+  "release_url": "https://github.com/Tianyao1234567/7215-project/releases/tag/member04-baseline-20261105",
+  "image_count": 1761,
+  "published_China": "2026-11-05T23:22:54.1192962+08:00"
+}

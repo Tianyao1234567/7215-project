@@ -1,0 +1,13 @@
+{
+  "quarantine_preserved": 48,
+  "historic_archive": "deliverables/history/IDAT7215_Member04_Baseline_before_GitHub_20261105.zip",
+  "training_model_identity_unchanged": true,
+  "test_used": false,
+  "data_tool_regressions_passed": 13,
+  "image_assets": 8,
+  "portable_YAML_and_model_paths": true,
+  "safe_extraction_probe_passed": true,
+  "images_SHA256_checked": 1761,
+  "status": "passed",
+  "frozen_CSV_SHA256": "ced1c4f7741e07be5bee21565d90fad6ffada852d0fc4a60843f19eea9124fab"
+}

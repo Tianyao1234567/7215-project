@@ -7,8 +7,8 @@
   "handoff_asset": {
     "name": "IDAT7215_Member04_Baseline_20261105.zip",
     "url": "https://github.com/Tianyao1234567/7215-project/releases/download/member04-baseline-20261105/IDAT7215_Member04_Baseline_20261105.zip",
-    "bytes": 43827233,
-    "sha256": "34f7617492c83ca60df91f9039e7511caf4908b562a03dd7a0ca1364d3515379",
+    "bytes": 43827232,
+    "sha256": "22f4aaf1ebceb2797f0fbef2e588709129f64357c1e37e780b1f8b83a1bfa497",
     "entries": 1824
   },
   "image_assets": [

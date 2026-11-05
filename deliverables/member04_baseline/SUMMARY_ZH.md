@@ -34,8 +34,8 @@
 - 正式run：[训练目录](../../baseline/runs/yolov8n_newjson_from_official_20261105_213549/)，含training.log、results.csv、weights/best.pt、weights/last.pt。
 - [机器可读验证指标](validation_metrics.json)、[本部分英文报告](baseline_report.md)、[约300词方法正文](baseline_method_300words.md)。
 - [436词个人贡献草稿](personal_contribution.md)、[两页PPT](member04_baseline_slides.pptx)、[讲稿](presentation_notes.md)。
-- [图表](figures/)、[五类及错误预测](../../deliverables/member04_baseline/predictions/)、[三号数据说明](DATA_REVIEW_MEMBER03.md)。
-- 完整审计：[reports/new_json_20261105](../new_json_20261105/)。记录中的旧机器绝对路径属于实验来源，当前运行入口按克隆后的仓库根目录解析。
+- [图表](plots/)、[五类及错误预测](../../deliverables/member04_baseline/predictions/)、[三号数据说明](DATA_REVIEW_MEMBER03.md)。
+- 完整审计：[reports/new_json_20261105](../../reports/new_json_20261105/)。记录中的旧机器绝对路径属于实验来源，当前运行入口按克隆后的仓库根目录解析。
 
 ## 分工交接
 

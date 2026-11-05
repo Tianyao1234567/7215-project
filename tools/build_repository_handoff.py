@@ -9,6 +9,9 @@ PRIVATE={'course_requirements_verified.json'}
 def main():
     for name in ['SUMMARY_ZH.md','DATA_REVIEW_MEMBER03.md','quarantine_48.csv','conflict_group_comparison.json']:
         shutil.copy2(ROOT/'reports/member04'/name,OUT/name)
+        if name=='SUMMARY_ZH.md':
+            content=(OUT/name).read_text(encoding='utf-8-sig').replace('(figures/)','(plots/)').replace('(../new_json_20261105/)','(../../reports/new_json_20261105/)')
+            (OUT/name).write_text(content,encoding='utf-8')
     (OUT/'REPOSITORY.md').write_text('''# Repository and report entry
 
 Repository: https://github.com/Tianyao1234567/7215-project
@@ -52,3 +55,4 @@ The handoff ZIP contains the current code/model/results/report material. Directo
     (ASSETS.parent/'release_notes.md').write_text(notes,encoding='utf-8')
     print(json.dumps({'handoff_MB':round(asset['bytes']/1e6,2),'images':1761,'image_parts':len(images['assets']),'zip_crc':'passed','best_sha256':manifest['trained_best_sha256'],'manifest':str(ROOT/'PUBLICATION_MANIFEST.json')},indent=2))
 if __name__=='__main__':main()
+

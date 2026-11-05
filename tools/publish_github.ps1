@@ -23,9 +23,9 @@ if ($LASTEXITCODE -ne 0) {
 }
 $releaseListText=& $gh api "repos/$Repo/releases?per_page=100"
 if ($LASTEXITCODE -ne 0) { throw 'Draft release lookup failed' }
-$matches=@(($releaseListText | ConvertFrom-Json) | Where-Object { $_.tag_name -eq $Tag })
-if ($matches.Count -ne 1) { throw 'Expected exactly one matching release' }
-$releaseId=$matches[0].id
+$matchingReleases=@(($releaseListText | ConvertFrom-Json) | Where-Object { $_.tag_name -eq $Tag })
+if ($matchingReleases.Count -ne 1) { throw 'Expected exactly one matching release' }
+$releaseId=$matchingReleases[0].id
 $list=@($manifest.image_assets)+@($manifest.handoff_asset)+@([pscustomobject]@{name='SHA256SUMS.txt';bytes=(Get-Item -LiteralPath (Join-Path $assets 'SHA256SUMS.txt')).Length;sha256=(Get-FileHash -LiteralPath (Join-Path $assets 'SHA256SUMS.txt') -Algorithm SHA256).Hash.ToLowerInvariant()})
 $completed=0
 foreach ($asset in $list) {
@@ -69,4 +69,5 @@ if ($LASTEXITCODE -ne 0) { throw 'Publication receipt commit failed' }
 Push-Main
 Write-State 'complete' '' $completed
 Write-Output "PUBLISHED https://github.com/$Repo/releases/tag/$Tag"
+
 

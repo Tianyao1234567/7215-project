@@ -19,3 +19,6 @@
 | references.md | 本部分引用来源 |
 
 实际权重和完整预测位于../../deliverables/member04_baseline，原始正式run位于../../baseline/runs。全组展示安排与最终提交由原分工负责，本目录只陈述四号已完成且有证据的部分。
+
+发布记录：[GitHub发布回执](GITHUB_PUBLICATION_RECEIPT.json)核对10个远端资产的大小与SHA256；[发布前复核](PUBLICATION_VERIFICATION.json)记录冻结数据和模型身份；[临时包清理](PUBLISH_CACHE_CLEANUP.json)记录上传后删除的生成分包。正式图片和48张隔离备份均保留。
+

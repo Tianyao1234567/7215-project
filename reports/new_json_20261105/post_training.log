@@ -1,0 +1,83 @@
+Ultralytics YOLOv8.2.103 🚀 Python-3.10.11 torch-2.0.1+cu117 CUDA:0 (NVIDIA GeForce RTX 3080 Laptop GPU, 8192MiB)
+Model summary (fused): 168 layers, 3,006,623 parameters, 0 gradients, 8.1 GFLOPs
+
+val: Scanning D:\Desktop\7215\project\datasets\current\labels\val.cache... 171 images, 0 backgrounds, 0 corrupt: 100%|██████████| 171/171 [00:00<?, ?it/s]
+val: Scanning D:\Desktop\7215\project\datasets\current\labels\val.cache... 171 images, 0 backgrounds, 0 corrupt: 100%|██████████| 171/171 [00:00<?, ?it/s]
+
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):   0%|          | 0/11 [00:00<?, ?it/s]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):   9%|▉         | 1/11 [00:01<00:11,  1.20s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  18%|█▊        | 2/11 [00:02<00:10,  1.12s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  27%|██▋       | 3/11 [00:03<00:08,  1.10s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  36%|███▋      | 4/11 [00:04<00:07,  1.12s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  45%|████▌     | 5/11 [00:05<00:06,  1.08s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  55%|█████▍    | 6/11 [00:06<00:05,  1.10s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  64%|██████▎   | 7/11 [00:07<00:04,  1.15s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  73%|███████▎  | 8/11 [00:08<00:03,  1.09s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  82%|████████▏ | 9/11 [00:09<00:02,  1.09s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):  91%|█████████ | 10/11 [00:11<00:01,  1.09s/it]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 11/11 [00:11<00:00,  1.01it/s]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 11/11 [00:11<00:00,  1.07s/it]
+                   all        171        229      0.932       0.94      0.955        0.6
+              Cracking         42         50          1      0.969      0.995      0.681
+        Layer_shifting         30         30      0.966          1      0.993      0.699
+          Off_platform          9          9       0.79      0.841       0.86       0.44
+             Stringing         41         48      0.957      0.979       0.97       0.77
+               Warping         49         92      0.948      0.913      0.955      0.412
+Speed: 0.3ms preprocess, 4.1ms inference, 0.0ms loss, 0.5ms postprocess per image
+Results saved to [1mD:\Desktop\7215\project\baseline\runs\yolov8n_newjson_from_official_20261105_213549\independent_validation[0m
+{
+  "validation": {
+    "metrics/precision(B)": 0.9321617815763465,
+    "metrics/recall(B)": 0.9404915499674376,
+    "metrics/mAP50(B)": 0.9546503929469721,
+    "metrics/mAP50-95(B)": 0.6003364119035427,
+    "fitness": 0.6357678100078856
+  },
+  "per_class": [
+    {
+      "class_id": 0,
+      "name": "Cracking",
+      "precision": 1.0,
+      "recall": 0.9694487886412279,
+      "mAP50": 0.995,
+      "mAP50_95": 0.6808886259916886
+    },
+    {
+      "class_id": 1,
+      "name": "Layer_shifting",
+      "precision": 0.9655227470165764,
+      "recall": 1.0,
+      "mAP50": 0.9930645161290321,
+      "mAP50_95": 0.6986567574859524
+    },
+    {
+      "class_id": 2,
+      "name": "Off_platform",
+      "precision": 0.7903819854759071,
+      "recall": 0.8407988162684243,
+      "mAP50": 0.8598269230769232,
+      "mAP50_95": 0.44000027066456704
+    },
+    {
+      "class_id": 3,
+      "name": "Stringing",
+      "precision": 0.9572340514035621,
+      "recall": 0.9791666666666666,
+      "mAP50": 0.9699666666666663,
+      "mAP50_95": 0.7704570388616546
+    },
+    {
+      "class_id": 4,
+      "name": "Warping",
+      "precision": 0.9476701239856867,
+      "recall": 0.9130434782608695,
+      "mAP50": 0.9553938588622385,
+      "mAP50_95": 0.4116793665138512
+    }
+  ],
+  "errors_at_conf025": {
+    "true_positive_boxes": 221,
+    "false_positive_boxes": 23,
+    "false_negative_boxes": 8
+  }
+}

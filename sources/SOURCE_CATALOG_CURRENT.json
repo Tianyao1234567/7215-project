@@ -1,0 +1,43 @@
+{
+  "updated_China": "2026-11-05T22:20:03+08:00",
+  "current_data": "D:\\Desktop\\7215\\project\\datasets\\current\\data.yaml",
+  "all_original_train_json": "D:\\Desktop\\7215\\project\\datasets\\annotation_source\\json",
+  "quarantine": "D:\\Desktop\\7215\\project\\datasets\\quarantine",
+  "historical_catalog": "SOURCE_CATALOG.json is a preserved pre-cleanup inventory, not the current data entry.",
+  "reference_models": [
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\best.onnx",
+      "bytes": 12777098
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\best.pt",
+      "bytes": 6496298
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\best_pre.onnx",
+      "bytes": 12268458
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\best_pre.pt",
+      "bytes": 6238762
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\config.yaml",
+      "bytes": 263
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\label.txt",
+      "bytes": 58
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\prepare_yolo.py",
+      "bytes": 2276
+    },
+    {
+      "path": "sources\\member_02\\reference_models\\pre_train_model\\pt2onnx.py",
+      "bytes": 290
+    }
+  ],
+  "course_documents": "D:\\Desktop\\7215\\project\\sources\\shared\\course",
+  "cleanup": "D:\\Desktop\\7215\\project\\reports\\new_json_20261105\\cleanup_record.json"
+}

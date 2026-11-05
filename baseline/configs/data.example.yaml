@@ -1,0 +1,12 @@
+# EXAMPLE ONLY. Member 3 must supply the real dataset and confirm class order.
+# path is resolved relative to this YAML file by our scripts.
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Cracking
+  1: Layer_shifting
+  2: Off_platform
+  3: Stringing
+  4: Warping

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "About_IDAT7215.pdf",
+    "pages": 15,
+    "chars": 3895,
+    "sha256": "d798fd5818b0494fa98633348f39b212700c5f15b0d58c4ad9a4776557c59e8b",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Guidelines on Group Formation.pdf",
+    "pages": 1,
+    "chars": 632,
+    "sha256": "ab32c20a00a5440189bb946df3237ed95dcd981438891991f0c11878ba79ee37",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week2-1_Numpy.pdf",
+    "pages": 44,
+    "chars": 10810,
+    "sha256": "54fda8550662711c43c05b7168b5c94552d981ff2025faaaef31b133eb40557b",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week2-2_Matplot.pdf",
+    "pages": 18,
+    "chars": 2826,
+    "sha256": "cabbcee626417d0b31f28e610028c82981be59256d9ca9de772520a2bebd85e7",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week2-3_SciPy.pdf",
+    "pages": 24,
+    "chars": 5811,
+    "sha256": "be1ba3c39178a28fcb452fa66c55a406cc2ba433abe1aa494aeb0aa6c14771c8",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week2-4_Pandas.pdf",
+    "pages": 36,
+    "chars": 7914,
+    "sha256": "0f48f17561a24bacff0015b4284be2e8a40e626531c119a2f0018ab73bff4315",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week_1_1_Introduction_Programming.pdf",
+    "pages": 33,
+    "chars": 7931,
+    "sha256": "3de3d49c0b6fa54841dd012efe83c048b54eaa78dff9c21637ffaf3388601e52",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week_1_2_Python_Fundamentals.pdf",
+    "pages": 43,
+    "chars": 8100,
+    "sha256": "1d9a85dbc2a848a7dc78ec7b5dfc015dcf0ab361487be8004797ec17a2a761e2",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week_3_1_Intro to AI.pdf",
+    "pages": 76,
+    "chars": 23341,
+    "sha256": "f11724309d8415a874c5c42207b686e3c8d212a4d9a21dea287227d78d744dcc",
+    "YOLO_mentions": 0
+  },
+  {
+    "name": "Week_3_2_Expert_System.pdf",
+    "pages": 69,
+    "chars": 21916,
+    "sha256": "e23696f42e92012805a8c12ba535f908fcb044d4725674d693e4ecff21b1e452",
+    "YOLO_mentions": 0
+  }
+]

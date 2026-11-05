@@ -1,0 +1,1013 @@
+{
+  "items": [
+    {
+      "name": "ce06ea442551f5f469241e58a2538114.jpg",
+      "path": "/7215/ce06ea442551f5f469241e58a2538114.jpg",
+      "library_file_id": "libfile_d47a2d141c448191978c8b2da6e1588d",
+      "bytes": 66639
+    },
+    {
+      "name": "pre_train_model(1)(1).zip",
+      "path": "/7215/pre_train_model(1)(1).zip",
+      "library_file_id": "libfile_664b5a51620c819187a500b1cba6cc2f",
+      "bytes": 33257076
+    },
+    {
+      "name": "prepare_data(1)(1).py",
+      "path": "/7215/prepare_data(1)(1).py",
+      "library_file_id": "libfile_60279383543481919c8d083995e4c7f0",
+      "bytes": 1241
+    },
+    {
+      "name": "split_manifest(1)(1).py",
+      "path": "/7215/split_manifest(1)(1).py",
+      "library_file_id": "libfile_898d9f27685c81918f811f46eaf880b5",
+      "bytes": 900
+    },
+    {
+      "name": "check_label(1)(1).py",
+      "path": "/7215/check_label(1)(1).py",
+      "library_file_id": "libfile_d54e9c1c13908191aa4113f7c5026288",
+      "bytes": 1766
+    },
+    {
+      "name": "HANDOFF.md",
+      "path": "/7215/HANDOFF.md",
+      "library_file_id": "libfile_5bb531ac3c188191851d0d7b6eecd6aa",
+      "bytes": 22143
+    },
+    {
+      "name": "pre_train_model(1).zip",
+      "path": "/7215/pre_train_model(1).zip",
+      "library_file_id": "libfile_3d8bfe387ed881919be70bb32ca04199",
+      "bytes": 33257076
+    },
+    {
+      "name": "2666bc2f79e886dfb875097d3851674c.jpg",
+      "path": "/7215/2666bc2f79e886dfb875097d3851674c.jpg",
+      "library_file_id": "libfile_53bc0eae105481918de4497f006b1fa1",
+      "bytes": 66639
+    },
+    {
+      "name": "split_manifest(1).py",
+      "path": "/7215/split_manifest(1).py",
+      "library_file_id": "libfile_2c36cf8249408191830e9471f315ed90",
+      "bytes": 900
+    },
+    {
+      "name": "check_label(1).py",
+      "path": "/7215/check_label(1).py",
+      "library_file_id": "libfile_6a1f7fd3e3e481918d340862fcbc54cb",
+      "bytes": 1766
+    },
+    {
+      "name": "prepare_data(1).py",
+      "path": "/7215/prepare_data(1).py",
+      "library_file_id": "libfile_5c3191b85084819197642c88477722da",
+      "bytes": 1241
+    },
+    {
+      "name": "IMG_9981.png",
+      "path": "/7215/IMG_9981.png",
+      "library_file_id": "libfile_a398300ad70c8191af459658ea025844",
+      "bytes": 831242
+    },
+    {
+      "name": "IMG_9982.png",
+      "path": "/7215/IMG_9982.png",
+      "library_file_id": "libfile_bd8673b473f48191b89ffa61ba10ab6a",
+      "bytes": 570114
+    },
+    {
+      "name": "IMG_9983.png",
+      "path": "/7215/IMG_9983.png",
+      "library_file_id": "libfile_cea5abe0466c8191aca51c2b5130f45b",
+      "bytes": 583454
+    },
+    {
+      "name": "IDAT7215_Topic3_八人分工与交接表(1).pdf",
+      "path": "/7215/IDAT7215_Topic3_八人分工与交接表(1).pdf",
+      "library_file_id": "libfile_d05b0818e78881919003375ad01f7774",
+      "bytes": 259004
+    },
+    {
+      "name": "image(4).png",
+      "path": "/7215/image(4).png",
+      "library_file_id": "libfile_bca48a203ed88191bdd9c67fe53a158d",
+      "bytes": 15784
+    },
+    {
+      "name": "image(3).png",
+      "path": "/7215/image(3).png",
+      "library_file_id": "libfile_3a2fca6c12a88191b7a10c0fa434812f",
+      "bytes": 12985
+    },
+    {
+      "name": "image(2).png",
+      "path": "/7215/image(2).png",
+      "library_file_id": "libfile_c86f2524e4808191b6ac07dd22a97dfe",
+      "bytes": 19491
+    },
+    {
+      "name": "image(1).png",
+      "path": "/7215/image(1).png",
+      "library_file_id": "libfile_69c3d7cbe6b48191bff4dbce3d160d77",
+      "bytes": 29019
+    },
+    {
+      "name": "image.png",
+      "path": "/7215/image.png",
+      "library_file_id": "libfile_55a7e009954c8191b1cc622c8c5ac25e",
+      "bytes": 49542
+    },
+    {
+      "name": "lecture3_2_page31.png",
+      "path": "/7215/lecture3_2_page31.png",
+      "library_file_id": "libfile_593df326b9c08191a6e3715c0c78f4a6",
+      "bytes": 136417
+    },
+    {
+      "name": "lecture3_2_page5.png",
+      "path": "/7215/lecture3_2_page5.png",
+      "library_file_id": "libfile_c7f951d03ffc81918cec1fd7405602e5",
+      "bytes": 110852
+    },
+    {
+      "name": "lecture1_2_page26(1).png",
+      "path": "/7215/lecture1_2_page26(1).png",
+      "library_file_id": "libfile_731b9ac862088191b4fea34aea0603c3",
+      "bytes": 113746
+    },
+    {
+      "name": "pandas_lecture_page_24.png",
+      "path": "/7215/pandas_lecture_page_24.png",
+      "library_file_id": "libfile_5e3aaa78811c8191aedafe25aa8d0cb3",
+      "bytes": 125554
+    },
+    {
+      "name": "lec1_2_page38_break.png",
+      "path": "/7215/lec1_2_page38_break.png",
+      "library_file_id": "libfile_423bb56f9d6c8191ac1aa519a01b3b27",
+      "bytes": 300774
+    },
+    {
+      "name": "lec1_2_p13_arithmetic(2).png",
+      "path": "/7215/lec1_2_p13_arithmetic(2).png",
+      "library_file_id": "libfile_90ba36d4cc6c819199634849150c8173",
+      "bytes": 74032
+    },
+    {
+      "name": "lec1_2_p13_arithmetic(1).png",
+      "path": "/7215/lec1_2_p13_arithmetic(1).png",
+      "library_file_id": "libfile_f59426f11d7881918454fa2428f4ca40",
+      "bytes": 74032
+    },
+    {
+      "name": "lecture1_2_page26.png",
+      "path": "/7215/lecture1_2_page26.png",
+      "library_file_id": "libfile_a734adcbb79881919f1489488e3e1581",
+      "bytes": 113746
+    },
+    {
+      "name": "lec1_2_p13_arithmetic.png",
+      "path": "/7215/lec1_2_p13_arithmetic.png",
+      "library_file_id": "libfile_a579c58d36508191b0ccf928662bef81",
+      "bytes": 74032
+    },
+    {
+      "name": "lecture1-2_page41_try_except.png",
+      "path": "/7215/lecture1-2_page41_try_except.png",
+      "library_file_id": "libfile_edb03ca547c48191876e9346d8e9c937",
+      "bytes": 169511
+    },
+    {
+      "name": "lecture1-2_page7.png",
+      "path": "/7215/lecture1-2_page7.png",
+      "library_file_id": "libfile_02d72dafd9c48191beff35eaf51febc1",
+      "bytes": 93765
+    },
+    {
+      "name": "IDAT 7215-MidTerm_Answer.pdf",
+      "path": "/7215/IDAT 7215-MidTerm_Answer.pdf",
+      "library_file_id": "libfile_5451aff891fc8191842cd420e0e4b6cc",
+      "bytes": 463300
+    },
+    {
+      "name": "q4_original(2).png",
+      "path": "/7215/q4_original(2).png",
+      "library_file_id": "libfile_c4cc83b61bcc8191ab12a96fa214f4cf",
+      "bytes": 76836
+    },
+    {
+      "name": "q3_step3_4(2).png",
+      "path": "/7215/q3_step3_4(2).png",
+      "library_file_id": "libfile_ccc87fa95d00819190db674d7bd0f857",
+      "bytes": 44439
+    },
+    {
+      "name": "q3_step2(2).png",
+      "path": "/7215/q3_step2(2).png",
+      "library_file_id": "libfile_5a85024d5d4481918dcdde8bd35c442f",
+      "bytes": 28569
+    },
+    {
+      "name": "q3_step1(2).png",
+      "path": "/7215/q3_step1(2).png",
+      "library_file_id": "libfile_e84f3579a8188191be5136f26659ae3c",
+      "bytes": 38642
+    },
+    {
+      "name": "q3_original(2).png",
+      "path": "/7215/q3_original(2).png",
+      "library_file_id": "libfile_d0100792f444819192d06bbb91380960",
+      "bytes": 31239
+    },
+    {
+      "name": "q4_original(1).png",
+      "path": "/7215/q4_original(1).png",
+      "library_file_id": "libfile_e9fc01e03cc48191bbd5c3bd4a578034",
+      "bytes": 76836
+    },
+    {
+      "name": "q3_step3_4(1).png",
+      "path": "/7215/q3_step3_4(1).png",
+      "library_file_id": "libfile_dfaaffedfdbc8191a55a137190153233",
+      "bytes": 44439
+    },
+    {
+      "name": "q3_step2(1).png",
+      "path": "/7215/q3_step2(1).png",
+      "library_file_id": "libfile_75f1e6aa51a08191b4ccd9e4b9189583",
+      "bytes": 28569
+    },
+    {
+      "name": "q3_step1(1).png",
+      "path": "/7215/q3_step1(1).png",
+      "library_file_id": "libfile_ce67ab5ab5148191bf88b3e95cc1f066",
+      "bytes": 38642
+    },
+    {
+      "name": "q3_original(1).png",
+      "path": "/7215/q3_original(1).png",
+      "library_file_id": "libfile_6223fb7595ac819198cd8e646dbf7e22",
+      "bytes": 31239
+    },
+    {
+      "name": "q4_original.png",
+      "path": "/7215/q4_original.png",
+      "library_file_id": "libfile_d684c1082c94819198979bb712026bc8",
+      "bytes": 76836
+    },
+    {
+      "name": "q3_step3_4.png",
+      "path": "/7215/q3_step3_4.png",
+      "library_file_id": "libfile_07b50d73484c819196fac096cc0ce2d8",
+      "bytes": 44439
+    },
+    {
+      "name": "q3_step2.png",
+      "path": "/7215/q3_step2.png",
+      "library_file_id": "libfile_470e7f376d748191bed9fccab86260c5",
+      "bytes": 28569
+    },
+    {
+      "name": "q3_step1.png",
+      "path": "/7215/q3_step1.png",
+      "library_file_id": "libfile_8ea343cf6b308191be5bd37bd4a54c89",
+      "bytes": 38642
+    },
+    {
+      "name": "q3_original.png",
+      "path": "/7215/q3_original.png",
+      "library_file_id": "libfile_c1b9275c41c4819180889efab4e64147",
+      "bytes": 31239
+    },
+    {
+      "name": "2022_question3_question_only(1).png",
+      "path": "/7215/2022_question3_question_only(1).png",
+      "library_file_id": "libfile_7594b4d75c4c8191ba0700002a96eec9",
+      "bytes": 46171
+    },
+    {
+      "name": "2022_question2_original(2).png",
+      "path": "/7215/2022_question2_original(2).png",
+      "library_file_id": "libfile_fd51685be4348191808f437c2caffa28",
+      "bytes": 100886
+    },
+    {
+      "name": "2022_question3_question_only.png",
+      "path": "/7215/2022_question3_question_only.png",
+      "library_file_id": "libfile_7b410c43de1c81918e1ee3425509e096",
+      "bytes": 46171
+    },
+    {
+      "name": "2022_question2_original(1).png",
+      "path": "/7215/2022_question2_original(1).png",
+      "library_file_id": "libfile_a1cb19e676008191a60720e9aa9b669e",
+      "bytes": 100886
+    },
+    {
+      "name": "2022_question2_original.png",
+      "path": "/7215/2022_question2_original.png",
+      "library_file_id": "libfile_71b90a9f411481918e9f7ddb0f8aa5f4",
+      "bytes": 100886
+    },
+    {
+      "name": "lec1_2_page29_functions.png",
+      "path": "/7215/lec1_2_page29_functions.png",
+      "library_file_id": "libfile_b1fef95e8ff08191bfb4b6c407638d6b",
+      "bytes": 66698
+    },
+    {
+      "name": "slide_30.png",
+      "path": "/7215/slide_30.png",
+      "library_file_id": "libfile_14a834d5bdc88191b72df9fb1d70676a",
+      "bytes": 1028753
+    },
+    {
+      "name": "slide_26.png",
+      "path": "/7215/slide_26.png",
+      "library_file_id": "libfile_fda41e870a3881919a14029a59666762",
+      "bytes": 1089872
+    },
+    {
+      "name": "slide_14.png",
+      "path": "/7215/slide_14.png",
+      "library_file_id": "libfile_de59495d0d7481918244d8624cf944ac",
+      "bytes": 399777
+    },
+    {
+      "name": "slide_12.png",
+      "path": "/7215/slide_12.png",
+      "library_file_id": "libfile_ebd1db24f66c8191995ab3847dfb8343",
+      "bytes": 135530
+    },
+    {
+      "name": "slide_11.png",
+      "path": "/7215/slide_11.png",
+      "library_file_id": "libfile_9db626d96cf0819187c7c9fa3e70eab8",
+      "bytes": 57644
+    },
+    {
+      "name": "slide_09.png",
+      "path": "/7215/slide_09.png",
+      "library_file_id": "libfile_f823dbb62cd8819196c6b2be57ffe466",
+      "bytes": 98919
+    },
+    {
+      "name": "slide_07.png",
+      "path": "/7215/slide_07.png",
+      "library_file_id": "libfile_12669482ff9c8191a71e4e85a4f39383",
+      "bytes": 95304
+    },
+    {
+      "name": "slide_06.png",
+      "path": "/7215/slide_06.png",
+      "library_file_id": "libfile_1b6a7ab8464c8191ad1c927829006946",
+      "bytes": 46890
+    },
+    {
+      "name": "IDAT 7215-2022.pdf",
+      "path": "/7215/IDAT 7215-2022.pdf",
+      "library_file_id": "libfile_c367402d4e248191850e04826fcbb9e0",
+      "bytes": 423931
+    },
+    {
+      "name": "List of projects -HKU (IDAT7215).pdf",
+      "path": "/7215/List of projects -HKU (IDAT7215).pdf",
+      "library_file_id": "libfile_9f346c1872cc819195f28acfbe3c603e",
+      "bytes": 149912
+    },
+    {
+      "name": "IDAT7215 Group Project Guidelines.pdf",
+      "path": "/7215/IDAT7215 Group Project Guidelines.pdf",
+      "library_file_id": "libfile_a9f3a84f49d88191810b3e02c1af9e9c",
+      "bytes": 393707
+    },
+    {
+      "name": "Midterm_Exam_Guidelines(1).pdf",
+      "path": "/7215/Midterm_Exam_Guidelines(1).pdf",
+      "library_file_id": "libfile_285daaf9d2988191bdd4fe40a0785a2c",
+      "bytes": 234793
+    },
+    {
+      "name": "Midterm_Exam_Guidelines.pdf",
+      "path": "/7215/Midterm_Exam_Guidelines.pdf",
+      "library_file_id": "libfile_89bc6376198c8191beee46cffe213a19",
+      "bytes": 234793
+    },
+    {
+      "name": "unsupervised_original_p114(1).png",
+      "path": "/7215/unsupervised_original_p114(1).png",
+      "library_file_id": "libfile_bfd81aa59de0819195a43644673f1f56",
+      "bytes": 102569
+    },
+    {
+      "name": "unsupervised_original_p85(1).png",
+      "path": "/7215/unsupervised_original_p85(1).png",
+      "library_file_id": "libfile_f97b688979b48191aa6a37c8a0a3e546",
+      "bytes": 164874
+    },
+    {
+      "name": "unsupervised_original_p81(1).png",
+      "path": "/7215/unsupervised_original_p81(1).png",
+      "library_file_id": "libfile_38c240b23d948191b3d34a562c49f39b",
+      "bytes": 145404
+    },
+    {
+      "name": "unsupervised_original_p77(1).png",
+      "path": "/7215/unsupervised_original_p77(1).png",
+      "library_file_id": "libfile_8a935ad4ac40819196e98094ea3b8412",
+      "bytes": 232104
+    },
+    {
+      "name": "lecture5_p118(1).png",
+      "path": "/7215/lecture5_p118(1).png",
+      "library_file_id": "libfile_e70e3f99686c8191840b0c27eec4af46",
+      "bytes": 167540
+    },
+    {
+      "name": "unsupervised_original_p34(1).png",
+      "path": "/7215/unsupervised_original_p34(1).png",
+      "library_file_id": "libfile_3ef2a67f18548191832ede25f1d11049",
+      "bytes": 163813
+    },
+    {
+      "name": "lecture5_p085(1).png",
+      "path": "/7215/lecture5_p085(1).png",
+      "library_file_id": "libfile_7c12ba94de708191a9e8df12a7fc841c",
+      "bytes": 201626
+    },
+    {
+      "name": "unsupervised_original_p114.png",
+      "path": "/7215/unsupervised_original_p114.png",
+      "library_file_id": "libfile_a3ea8dc55d848191836700d60baf7f70",
+      "bytes": 102569
+    },
+    {
+      "name": "lecture5_p081(1).png",
+      "path": "/7215/lecture5_p081(1).png",
+      "library_file_id": "libfile_871d91d563b08191bfc7ee127fbde0f2",
+      "bytes": 179097
+    },
+    {
+      "name": "unsupervised_original_p85.png",
+      "path": "/7215/unsupervised_original_p85.png",
+      "library_file_id": "libfile_664f4ee2c5888191b5deb3bcb329401a",
+      "bytes": 164874
+    },
+    {
+      "name": "lecture5_p077(1).png",
+      "path": "/7215/lecture5_p077(1).png",
+      "library_file_id": "libfile_b17cf861b6a4819197af625732ca7505",
+      "bytes": 308428
+    },
+    {
+      "name": "unsupervised_original_p81.png",
+      "path": "/7215/unsupervised_original_p81.png",
+      "library_file_id": "libfile_ee6951005e2c8191b14bd1c96cea92e1",
+      "bytes": 145404
+    },
+    {
+      "name": "lecture5_p057(1).png",
+      "path": "/7215/lecture5_p057(1).png",
+      "library_file_id": "libfile_25d9bf0e47d48191b20fcdb44ecc6f82",
+      "bytes": 233640
+    },
+    {
+      "name": "unsupervised_original_p77.png",
+      "path": "/7215/unsupervised_original_p77.png",
+      "library_file_id": "libfile_b7d1c84ca328819192056f9685a7fef9",
+      "bytes": 232104
+    },
+    {
+      "name": "lecture5_p034(1).png",
+      "path": "/7215/lecture5_p034(1).png",
+      "library_file_id": "libfile_f1cb4a1e18a88191b81b1a02ac016792",
+      "bytes": 213207
+    },
+    {
+      "name": "unsupervised_original_p34.png",
+      "path": "/7215/unsupervised_original_p34.png",
+      "library_file_id": "libfile_5c681389488c8191a7222aef97742c14",
+      "bytes": 163813
+    },
+    {
+      "name": "lecture5_p032(1).png",
+      "path": "/7215/lecture5_p032(1).png",
+      "library_file_id": "libfile_29f62aeff7a08191a076ce1cb802b9bb",
+      "bytes": 274559
+    },
+    {
+      "name": "lecture5_p030(1).png",
+      "path": "/7215/lecture5_p030(1).png",
+      "library_file_id": "libfile_b3ecdf69f334819180c034cd7188140d",
+      "bytes": 276058
+    },
+    {
+      "name": "lecture5_p018(1).png",
+      "path": "/7215/lecture5_p018(1).png",
+      "library_file_id": "libfile_75951c570de4819187911663e95fd34f",
+      "bytes": 215945
+    },
+    {
+      "name": "lecture5_p118.png",
+      "path": "/7215/lecture5_p118.png",
+      "library_file_id": "libfile_f3b627b1ec308191a2e989694fc8852e",
+      "bytes": 167540
+    },
+    {
+      "name": "lecture5_p085.png",
+      "path": "/7215/lecture5_p085.png",
+      "library_file_id": "libfile_f5036dc7e8dc8191a5278622786f92ed",
+      "bytes": 201626
+    },
+    {
+      "name": "lecture5_p081.png",
+      "path": "/7215/lecture5_p081.png",
+      "library_file_id": "libfile_5a44181a0c08819186965da31f933a57",
+      "bytes": 179097
+    },
+    {
+      "name": "lecture5_p077.png",
+      "path": "/7215/lecture5_p077.png",
+      "library_file_id": "libfile_b4e5776da26c8191b2f7160b2cd8d555",
+      "bytes": 308428
+    },
+    {
+      "name": "lecture5_p057.png",
+      "path": "/7215/lecture5_p057.png",
+      "library_file_id": "libfile_57992abdd88c8191b053614ff2030f69",
+      "bytes": 233640
+    },
+    {
+      "name": "lecture5_p034.png",
+      "path": "/7215/lecture5_p034.png",
+      "library_file_id": "libfile_e3aa843e3f20819189807c0b331dffbd",
+      "bytes": 213207
+    },
+    {
+      "name": "lecture5_p032.png",
+      "path": "/7215/lecture5_p032.png",
+      "library_file_id": "libfile_87df681b562481919de8fbbc77e0c820",
+      "bytes": 274559
+    },
+    {
+      "name": "lecture5_p030.png",
+      "path": "/7215/lecture5_p030.png",
+      "library_file_id": "libfile_fce0136540a88191a1ba839989dc9e12",
+      "bytes": 276058
+    },
+    {
+      "name": "lecture5_p018.png",
+      "path": "/7215/lecture5_p018.png",
+      "library_file_id": "libfile_0cf66d42e75881919695cdc4ffa960ce",
+      "bytes": 215945
+    },
+    {
+      "name": "ML_Professor_P110(1).png",
+      "path": "/7215/ML_Professor_P110(1).png",
+      "library_file_id": "libfile_e78799f876648191a328bfb59d033484",
+      "bytes": 92552
+    },
+    {
+      "name": "ML_Professor_P101(1).png",
+      "path": "/7215/ML_Professor_P101(1).png",
+      "library_file_id": "libfile_5abd4d808a3c819192da32d10f9fb156",
+      "bytes": 263865
+    },
+    {
+      "name": "ML_Professor_P089(1).png",
+      "path": "/7215/ML_Professor_P089(1).png",
+      "library_file_id": "libfile_922661961cb88191ba3e444fc6f3ea52",
+      "bytes": 306739
+    },
+    {
+      "name": "ML_Professor_P079(1).png",
+      "path": "/7215/ML_Professor_P079(1).png",
+      "library_file_id": "libfile_8902b34cafa481919e5312da5cd2ed45",
+      "bytes": 253359
+    },
+    {
+      "name": "ML_Professor_P077(1).png",
+      "path": "/7215/ML_Professor_P077(1).png",
+      "library_file_id": "libfile_4ba4af87602c81919f7c34a21a122c07",
+      "bytes": 101430
+    },
+    {
+      "name": "ML_Professor_P071(1).png",
+      "path": "/7215/ML_Professor_P071(1).png",
+      "library_file_id": "libfile_ddeb0a7422b88191a73d1faf158d97cb",
+      "bytes": 236135
+    },
+    {
+      "name": "ML_Professor_P065(1).png",
+      "path": "/7215/ML_Professor_P065(1).png",
+      "library_file_id": "libfile_9321eb2ab048819189166ae6fc3ad0dd",
+      "bytes": 252710
+    },
+    {
+      "name": "ML_Professor_P053(1).png",
+      "path": "/7215/ML_Professor_P053(1).png",
+      "library_file_id": "libfile_bb2353e855b88191a8206d918750524c",
+      "bytes": 114707
+    },
+    {
+      "name": "ML_Professor_P035(1).png",
+      "path": "/7215/ML_Professor_P035(1).png",
+      "library_file_id": "libfile_a2fe1d6cbfe481919b803b8823f010a1",
+      "bytes": 86668
+    },
+    {
+      "name": "ML_Professor_P110.png",
+      "path": "/7215/ML_Professor_P110.png",
+      "library_file_id": "libfile_45f02b7c237881918699a9d9d4f3c36e",
+      "bytes": 92552
+    },
+    {
+      "name": "ML_Professor_P101.png",
+      "path": "/7215/ML_Professor_P101.png",
+      "library_file_id": "libfile_3c841cecb4648191952ec8a360794a2d",
+      "bytes": 263865
+    },
+    {
+      "name": "ML_Professor_P089.png",
+      "path": "/7215/ML_Professor_P089.png",
+      "library_file_id": "libfile_b0a71a2a0bec81918d7c336df69aafb8",
+      "bytes": 306739
+    },
+    {
+      "name": "ML_Professor_P079.png",
+      "path": "/7215/ML_Professor_P079.png",
+      "library_file_id": "libfile_48f633d36f3081918758a7bef60446af",
+      "bytes": 253359
+    },
+    {
+      "name": "ML_Professor_P077.png",
+      "path": "/7215/ML_Professor_P077.png",
+      "library_file_id": "libfile_6000f92332108191a658da34e97bfd76",
+      "bytes": 101430
+    },
+    {
+      "name": "ML_Professor_P071.png",
+      "path": "/7215/ML_Professor_P071.png",
+      "library_file_id": "libfile_3991fdae9aa88191bada6777c0d6ac5c",
+      "bytes": 236135
+    },
+    {
+      "name": "ML_Professor_P065.png",
+      "path": "/7215/ML_Professor_P065.png",
+      "library_file_id": "libfile_e24f434569bc8191b6dd198aea119a29",
+      "bytes": 252710
+    },
+    {
+      "name": "ML_Professor_P053.png",
+      "path": "/7215/ML_Professor_P053.png",
+      "library_file_id": "libfile_146a759e71708191bd1361fb0c7d0a20",
+      "bytes": 114707
+    },
+    {
+      "name": "ML_Professor_P035.png",
+      "path": "/7215/ML_Professor_P035.png",
+      "library_file_id": "libfile_0b64bfb3ef2481919ecf66ed61451550",
+      "bytes": 86668
+    },
+    {
+      "name": "ExpertSystem_Professor_P69.png",
+      "path": "/7215/ExpertSystem_Professor_P69.png",
+      "library_file_id": "libfile_1a030c388fec8191a8339c491ebdb2ad",
+      "bytes": 1003688
+    },
+    {
+      "name": "ExpertSystem_Professor_P57.png",
+      "path": "/7215/ExpertSystem_Professor_P57.png",
+      "library_file_id": "libfile_0010d7321b988191860bc9b0381fc59f",
+      "bytes": 676541
+    },
+    {
+      "name": "ExpertSystem_Professor_P55.png",
+      "path": "/7215/ExpertSystem_Professor_P55.png",
+      "library_file_id": "libfile_369bce38ad7c819191038878ff11a96b",
+      "bytes": 338642
+    },
+    {
+      "name": "ExpertSystem_Professor_P09.png",
+      "path": "/7215/ExpertSystem_Professor_P09.png",
+      "library_file_id": "libfile_9878fd537cc88191a4c576c8a4340817",
+      "bytes": 904222
+    },
+    {
+      "name": "Pandas_Professor_Page_36(1).png",
+      "path": "/7215/Pandas_Professor_Page_36(1).png",
+      "library_file_id": "libfile_e3e47dc4d4188191912de5d380369727",
+      "bytes": 265265
+    },
+    {
+      "name": "Pandas_Professor_Page_26(1).png",
+      "path": "/7215/Pandas_Professor_Page_26(1).png",
+      "library_file_id": "libfile_63af9707c8c88191acd135594b511155",
+      "bytes": 219049
+    },
+    {
+      "name": "Pandas_Professor_Page_24(1).png",
+      "path": "/7215/Pandas_Professor_Page_24(1).png",
+      "library_file_id": "libfile_8f91872c73a481918a17bd54a8c206ae",
+      "bytes": 125554
+    },
+    {
+      "name": "Pandas_Professor_Page_19(1).png",
+      "path": "/7215/Pandas_Professor_Page_19(1).png",
+      "library_file_id": "libfile_a1bc9113f8c881919cd2bb1c26b351fe",
+      "bytes": 127482
+    },
+    {
+      "name": "Pandas_Professor_Page_08(1).png",
+      "path": "/7215/Pandas_Professor_Page_08(1).png",
+      "library_file_id": "libfile_5ea660785d60819185f549bc17d9825b",
+      "bytes": 296746
+    },
+    {
+      "name": "Pandas_Professor_Page_36.png",
+      "path": "/7215/Pandas_Professor_Page_36.png",
+      "library_file_id": "libfile_051b2425120081919a93fa6c7d2fb422",
+      "bytes": 265265
+    },
+    {
+      "name": "Pandas_Professor_Page_26.png",
+      "path": "/7215/Pandas_Professor_Page_26.png",
+      "library_file_id": "libfile_3aa2c76238a88191899c6bc7b66b657b",
+      "bytes": 219049
+    },
+    {
+      "name": "Pandas_Professor_Page_24.png",
+      "path": "/7215/Pandas_Professor_Page_24.png",
+      "library_file_id": "libfile_5a7cdc0ac63c8191a9f443bc4411e651",
+      "bytes": 125554
+    },
+    {
+      "name": "Pandas_Professor_Page_19.png",
+      "path": "/7215/Pandas_Professor_Page_19.png",
+      "library_file_id": "libfile_b00c0a3ec8cc8191a53cc7ed03bbf878",
+      "bytes": 127482
+    },
+    {
+      "name": "Pandas_Professor_Page_08.png",
+      "path": "/7215/Pandas_Professor_Page_08.png",
+      "library_file_id": "libfile_767c038ba4e881918761f85cc1695091",
+      "bytes": 296746
+    },
+    {
+      "name": "SciPy_P21(1).png",
+      "path": "/7215/SciPy_P21(1).png",
+      "library_file_id": "libfile_2a825503c6548191bcf754096bd3081c",
+      "bytes": 126149
+    },
+    {
+      "name": "SciPy_P15(1).png",
+      "path": "/7215/SciPy_P15(1).png",
+      "library_file_id": "libfile_cb112b8e653c81918bc4049653a86d55",
+      "bytes": 152527
+    },
+    {
+      "name": "SciPy_P13(1).png",
+      "path": "/7215/SciPy_P13(1).png",
+      "library_file_id": "libfile_a527fc02247c819187defc73143bef33",
+      "bytes": 207203
+    },
+    {
+      "name": "SciPy_P21.png",
+      "path": "/7215/SciPy_P21.png",
+      "library_file_id": "libfile_d7666d9729648191be912c5d402044c2",
+      "bytes": 126149
+    },
+    {
+      "name": "SciPy_P15.png",
+      "path": "/7215/SciPy_P15.png",
+      "library_file_id": "libfile_9004db6d21bc81918972e52506c05ac7",
+      "bytes": 152527
+    },
+    {
+      "name": "SciPy_P13.png",
+      "path": "/7215/SciPy_P13.png",
+      "library_file_id": "libfile_5fd7ae9d9cac8191837619169c6c3251",
+      "bytes": 207203
+    },
+    {
+      "name": "Matplotlib_Professor_Page_17.png",
+      "path": "/7215/Matplotlib_Professor_Page_17.png",
+      "library_file_id": "libfile_83f4c173ab488191abb5c8cb947385dc",
+      "bytes": 131896
+    },
+    {
+      "name": "Matplotlib_Professor_Page_16.png",
+      "path": "/7215/Matplotlib_Professor_Page_16.png",
+      "library_file_id": "libfile_2a675456e00c8191a9f5336905a321e9",
+      "bytes": 193180
+    },
+    {
+      "name": "Matplotlib_Professor_Page_15.png",
+      "path": "/7215/Matplotlib_Professor_Page_15.png",
+      "library_file_id": "libfile_506e70bad54481918355c2680531a23b",
+      "bytes": 188494
+    },
+    {
+      "name": "Matplotlib_Professor_Page_14.png",
+      "path": "/7215/Matplotlib_Professor_Page_14.png",
+      "library_file_id": "libfile_63264b9bf55081919b4813b7ed4f5516",
+      "bytes": 117754
+    },
+    {
+      "name": "Matplotlib_Professor_Page_11.png",
+      "path": "/7215/Matplotlib_Professor_Page_11.png",
+      "library_file_id": "libfile_979cbc287bc48191941e95eb063f50b0",
+      "bytes": 321139
+    },
+    {
+      "name": "Matplotlib_Professor_Page_10.png",
+      "path": "/7215/Matplotlib_Professor_Page_10.png",
+      "library_file_id": "libfile_5ecce20e122481919c326b8808821670",
+      "bytes": 86904
+    },
+    {
+      "name": "NumPy_Professor_Page_42.png",
+      "path": "/7215/NumPy_Professor_Page_42.png",
+      "library_file_id": "libfile_03d9314813888191938c6561a22ccd78",
+      "bytes": 96409
+    },
+    {
+      "name": "NumPy_Professor_Page_38.png",
+      "path": "/7215/NumPy_Professor_Page_38.png",
+      "library_file_id": "libfile_9f437d966cd08191a695e195009b9b83",
+      "bytes": 147137
+    },
+    {
+      "name": "NumPy_Professor_Page_36.png",
+      "path": "/7215/NumPy_Professor_Page_36.png",
+      "library_file_id": "libfile_e05f8aa586fc81919a5d30864a1f68d6",
+      "bytes": 92239
+    },
+    {
+      "name": "NumPy_Professor_Page_31.png",
+      "path": "/7215/NumPy_Professor_Page_31.png",
+      "library_file_id": "libfile_0b1724d46e3081918eea61e9704364e2",
+      "bytes": 240840
+    },
+    {
+      "name": "NumPy_Professor_Page_19.png",
+      "path": "/7215/NumPy_Professor_Page_19.png",
+      "library_file_id": "libfile_bcf3425c41988191b733d3c1a88db5e1",
+      "bytes": 151171
+    },
+    {
+      "name": "NumPy_Professor_Page_09.png",
+      "path": "/7215/NumPy_Professor_Page_09.png",
+      "library_file_id": "libfile_433a0ce9c2048191887709f1328b134e",
+      "bytes": 150048
+    },
+    {
+      "name": "Lec12_Page_26.png",
+      "path": "/7215/Lec12_Page_26.png",
+      "library_file_id": "libfile_c3b5ee1b682c81918e0994abce7a2666",
+      "bytes": 92531
+    },
+    {
+      "name": "Lec12_Page_18.png",
+      "path": "/7215/Lec12_Page_18.png",
+      "library_file_id": "libfile_a02dc64d6674819182f9f8ad7211f8d8",
+      "bytes": 110515
+    },
+    {
+      "name": "Lec1_Original_Page_31.png",
+      "path": "/7215/Lec1_Original_Page_31.png",
+      "library_file_id": "libfile_0a468173d1e08191884407f2d1a7b3b0",
+      "bytes": 736348
+    },
+    {
+      "name": "Lec1_Original_Page_26.png",
+      "path": "/7215/Lec1_Original_Page_26.png",
+      "library_file_id": "libfile_2991888ad5748191bdb962a2b30e3763",
+      "bytes": 1160301
+    },
+    {
+      "name": "Lec1_Original_Page_14.png",
+      "path": "/7215/Lec1_Original_Page_14.png",
+      "library_file_id": "libfile_985fa792056481919f6f67defdefa344",
+      "bytes": 428460
+    },
+    {
+      "name": "Lec1_Original_Page_12.png",
+      "path": "/7215/Lec1_Original_Page_12.png",
+      "library_file_id": "libfile_e18aa3735bec81919d98a9831ec88838",
+      "bytes": 144534
+    },
+    {
+      "name": "Lec1_Original_Page_11.png",
+      "path": "/7215/Lec1_Original_Page_11.png",
+      "library_file_id": "libfile_5ffb775b9f04819198d9a8ddc225a412",
+      "bytes": 59258
+    },
+    {
+      "name": "Lec1_Original_Page_09.png",
+      "path": "/7215/Lec1_Original_Page_09.png",
+      "library_file_id": "libfile_f7c4d1646adc81919df841e8151ad176",
+      "bytes": 105829
+    },
+    {
+      "name": "Lec1_Original_Page_08.png",
+      "path": "/7215/Lec1_Original_Page_08.png",
+      "library_file_id": "libfile_642e76a15c888191bf81e5e92167555d",
+      "bytes": 94823
+    },
+    {
+      "name": "Lec1_Original_Page_07.png",
+      "path": "/7215/Lec1_Original_Page_07.png",
+      "library_file_id": "libfile_300a76be76a48191aff92e80d7c4699f",
+      "bytes": 104683
+    },
+    {
+      "name": "Lec1_Original_Page_06.png",
+      "path": "/7215/Lec1_Original_Page_06.png",
+      "library_file_id": "libfile_282450c4ee848191b0ab3d67d69bfad0",
+      "bytes": 49655
+    },
+    {
+      "name": "Week_3_1_Intro to AI.pdf",
+      "path": "/7215/Week_3_1_Intro to AI.pdf",
+      "library_file_id": "libfile_d6e03c559ee88191b78cee8e309913cf",
+      "bytes": 4357927
+    },
+    {
+      "name": "Week_3_2_Expert_System.pdf",
+      "path": "/7215/Week_3_2_Expert_System.pdf",
+      "library_file_id": "libfile_1dd0d90309ec81918e80a4db8d7a5d27",
+      "bytes": 2909587
+    },
+    {
+      "name": "Lab 03-Expert System.rar",
+      "path": "/7215/Lab 03-Expert System.rar",
+      "library_file_id": "libfile_9fa645597a008191bc3dc3017911e151",
+      "bytes": 2254014
+    },
+    {
+      "name": "Week2-4_Pandas.pdf",
+      "path": "/7215/Week2-4_Pandas.pdf",
+      "library_file_id": "libfile_54f7963378cc8191ab30ab85eb1b686a",
+      "bytes": 603718
+    },
+    {
+      "name": "Week2-1_Numpy.pdf",
+      "path": "/7215/Week2-1_Numpy.pdf",
+      "library_file_id": "libfile_b0ff344a36c88191a4b88e795dd366c4",
+      "bytes": 994069
+    },
+    {
+      "name": "Week2-3_SciPy.pdf",
+      "path": "/7215/Week2-3_SciPy.pdf",
+      "library_file_id": "libfile_480faceeafe481919b565113d13ad21c",
+      "bytes": 1096655
+    },
+    {
+      "name": "Week2-2_Matplot.pdf",
+      "path": "/7215/Week2-2_Matplot.pdf",
+      "library_file_id": "libfile_27ee6ba4dbbc8191a16d18f12db953b2",
+      "bytes": 771821
+    },
+    {
+      "name": "Week_1_1_Introduction_Programming.pdf",
+      "path": "/7215/Week_1_1_Introduction_Programming.pdf",
+      "library_file_id": "libfile_091bbcdfb9b08191b60f1ded24ab2075",
+      "bytes": 2451751
+    },
+    {
+      "name": "Lab 02-Python Library.rar",
+      "path": "/7215/Lab 02-Python Library.rar",
+      "library_file_id": "libfile_1818c58f4fbc8191b9080113aedc4f23",
+      "bytes": 550980
+    },
+    {
+      "name": "Lab 01-Python Funda.rar",
+      "path": "/7215/Lab 01-Python Funda.rar",
+      "library_file_id": "libfile_6cc3304bfc9c8191b4f5f224df28ae16",
+      "bytes": 1629882
+    },
+    {
+      "name": "Week_1_2_Python_Fundamentals.pdf",
+      "path": "/7215/Week_1_2_Python_Fundamentals.pdf",
+      "library_file_id": "libfile_76217da61e988191af90552f98d09ad0",
+      "bytes": 1033222
+    },
+    {
+      "name": "About_IDAT7215.pdf",
+      "path": "/7215/About_IDAT7215.pdf",
+      "library_file_id": "libfile_04abad20a8fc81918e9723934843db42",
+      "bytes": 827085
+    },
+    {
+      "name": "Guidelines on Group Formation.pdf",
+      "path": "/7215/Guidelines on Group Formation.pdf",
+      "library_file_id": "libfile_bf119e587b0c8191aa2f8ad13473f112",
+      "bytes": 241932
+    }
+  ],
+  "next_cursor": null
+}

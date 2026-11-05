@@ -1,0 +1,1 @@
+Current dataset: current/data.yaml with frozen 1371/171/171 split. All 1761 original JSON are in annotation_source/json, and all 48 excluded images and JSON are in quarantine. Previous delivered validation and superseded dataset copies are not the current experiment input.

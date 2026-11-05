@@ -1,0 +1,8 @@
+{
+  "run_id": "smoke_20261101T064531_998501Z",
+  "mode": "smoke",
+  "status": "failed",
+  "config": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\smoke.yaml",
+  "is_formal_result": false,
+  "error": "Could not determine home directory."
+}

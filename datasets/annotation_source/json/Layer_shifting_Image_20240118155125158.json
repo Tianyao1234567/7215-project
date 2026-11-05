@@ -1,0 +1,41 @@
+{
+  "version": "4.3.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "Layer shifting",
+      "score": null,
+      "points": [
+        [
+          541.7575757575759,
+          1209.7575757575758
+        ],
+        [
+          2374.4848484848485,
+          1209.7575757575758
+        ],
+        [
+          2374.4848484848485,
+          1488.5454545454547
+        ],
+        [
+          541.7575757575759,
+          1488.5454545454547
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Layer_shifting_Image_20240118155125158.jpg",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 3072
+}

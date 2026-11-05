@@ -1,0 +1,23 @@
+{
+  "python": "C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+  "prefix": "C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310",
+  "environment": {
+    "CUDA_PATH": null,
+    "CUDA_VISIBLE_DEVICES": null,
+    "NVIDIA_VISIBLE_DEVICES": null,
+    "CONDA_PREFIX": null
+  },
+  "modules": {
+    "torch": true,
+    "ultralytics": true,
+    "ipykernel": true,
+    "jupyter": true
+  },
+  "torch_error": "Could not determine home directory.",
+  "torch_traceback": "Traceback (most recent call last):\n  File \"D:\\Desktop\\7215\\project\\diagnostics\\check_gpu_environment.py\", line 7, in <module>\n    import torch\n  File \"C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\torch\\__init__.py\", line 933, in <module>\n    from ._tensor import Tensor\n  File \"C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\torch\\_tensor.py\", line 12, in <module>\n    import torch.utils.hooks as hooks\n  File \"C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\torch\\utils\\__init__.py\", line 5, in <module>\n    from ._crash_handler import enable_minidumps, disable_minidumps, enable_minidumps_on_exceptions\n  File \"C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\torch\\utils\\_crash_handler.py\", line 9, in <module>\n    DEFAULT_MINIDUMP_DIR = str(pathlib.Path.home() / \"AppData\" / \"pytorch_crashes\")\n  File \"C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py\", line 1000, in home\n    return cls(\"~\").expanduser()\n  File \"C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\pathlib.py\", line 1440, in expanduser\n    raise RuntimeError(\"Could not determine home directory.\")\nRuntimeError: Could not determine home directory.\n",
+  "driver_api_get_version_result": 0,
+  "driver_api_version": 11070,
+  "driver_api_cuInit_result": 0
+}
+

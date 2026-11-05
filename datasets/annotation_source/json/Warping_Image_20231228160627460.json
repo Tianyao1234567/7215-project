@@ -1,0 +1,41 @@
+{
+  "version": "4.3.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "warping",
+      "score": null,
+      "points": [
+        [
+          946.6060606060606,
+          1483.6969696969697
+        ],
+        [
+          2229.030303030303,
+          1483.6969696969697
+        ],
+        [
+          2229.030303030303,
+          1663.0909090909097
+        ],
+        [
+          946.6060606060606,
+          1663.0909090909097
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Warping_Image_20231228160627460.jpg",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 3072
+}

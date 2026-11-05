@@ -1,0 +1,8 @@
+{
+  "exactCrossSplitHashGroups": 480,
+  "uniqueValidationImagesDuplicatedInTrain": 483,
+  "totalValidationImages": 619,
+  "validationOverlapPercent": 78.02907915993538,
+  "uniqueTrainingImagesDuplicatedInVal": 490,
+  "uniqueImageLabelErrors": 0
+}

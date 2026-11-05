@@ -1,0 +1,6 @@
+path: E:/hku/IDAT7215/topic3/archive/FDM-3D-Printing-Defect-Dataset/yolo
+train: images/train
+val: images/val
+
+nc: 5
+names: ['Cracking', 'Layer_shifting', 'Off_platform', 'Stringing', 'Warping']

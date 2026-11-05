@@ -1,0 +1,21 @@
+{"status": "extracting", "files": 500, "bytes": 811032581, "elapsed_seconds": 3.2}
+{"status": "extracting", "files": 1000, "bytes": 1475119460, "elapsed_seconds": 5.7}
+{"status": "extracting", "files": 1500, "bytes": 2051852185, "elapsed_seconds": 8.2}
+{"status": "extracting", "files": 2000, "bytes": 2135969649, "elapsed_seconds": 9.4}
+Archive finished: dataset-20261105T105219Z-1-001.zip
+{"status": "extracting", "files": 2500, "bytes": 2655236140, "elapsed_seconds": 11.7}
+{"status": "extracting", "files": 3000, "bytes": 3270001832, "elapsed_seconds": 14.2}
+{"status": "extracting", "files": 3500, "bytes": 4090764679, "elapsed_seconds": 17.2}
+{"status": "extracting", "files": 4000, "bytes": 4271809856, "elapsed_seconds": 18.7}
+Archive finished: dataset-20261105T105219Z-1-002.zip
+{"status": "extracting", "files": 4500, "bytes": 4503056182, "elapsed_seconds": 20.3}
+{"status": "extracting", "files": 5000, "bytes": 5342762675, "elapsed_seconds": 23.3}
+{"status": "extracting", "files": 5500, "bytes": 5765978983, "elapsed_seconds": 25.3}
+{"status": "extracting", "files": 6000, "bytes": 6405487216, "elapsed_seconds": 27.8}
+{"status": "extracting", "files": 6500, "bytes": 6407640195, "elapsed_seconds": 28.9}
+Archive finished: dataset-20261105T105219Z-1-003.zip
+{"status": "extracting", "files": 7000, "bytes": 7217821538, "elapsed_seconds": 31.8}
+{"status": "extracting", "files": 7500, "bytes": 7791275229, "elapsed_seconds": 34.1}
+{"status": "extracting", "files": 8000, "bytes": 7791751666, "elapsed_seconds": 35.2}
+Archive finished: dataset-20261105T105219Z-1-004.zip
+{"status": "completed", "files": 8285, "bytes": 7792061321, "elapsed_seconds": 35.9, "target": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\received"}

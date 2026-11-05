@@ -1,0 +1,5 @@
+path: D:\Desktop\7215\project\baseline\tests\synthetic_fixture
+names:
+  0: synthetic_rectangle
+train: D:/Desktop/7215/project/baseline/runs/smoke_20261101T081848_972534Z/train_images.txt
+val: D:/Desktop/7215/project/baseline/runs/smoke_20261101T081848_972534Z/val_images.txt

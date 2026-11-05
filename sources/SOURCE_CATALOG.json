@@ -1,0 +1,95 @@
+{
+  "updated": "2026-11-02",
+  "project_root": "D:\\Desktop\\7215\\project",
+  "ownership_note": "Ownership records identify the delivery source, not unverified authorship; member 2 and member 3 files remain physically separate.",
+  "sources": [
+    {
+      "owner": "member_02",
+      "received_as": "labels(1).zip",
+      "current_path": "sources/member_02/labels_received_20261102",
+      "bbox_labels": 2380,
+      "identical_to_member3_labels": true
+    },
+    {
+      "owner": "member_02",
+      "received_as": "yolo/yolo",
+      "current_path": "sources/member_02/yolo_dataset",
+      "images": 2380,
+      "bbox_labels": 2380,
+      "model_weights": 0
+    },
+    {
+      "owner": "member_02_reference",
+      "received_as": "pre_train_model archives",
+      "current_path": "sources/member_02/reference_models/pre_train_model",
+      "files": 8,
+      "source_stage_relationship": "not independently established"
+    },
+    {
+      "owner": "member_03",
+      "received_as": "four dataset ZIP parts and forwarded yolo.zip",
+      "current_path": "datasets/received_20261102/dataset",
+      "images": 2380,
+      "bbox_labels": 2380
+    },
+    {
+      "owner": "member_03",
+      "received_as": "three original scripts",
+      "current_path": "sources/member_03/scripts"
+    },
+    {
+      "owner": "shared",
+      "current_path": "sources/shared/course",
+      "contents": "Professor PDFs and internal team handoff PDF"
+    },
+    {
+      "owner": "member_04",
+      "current_path": "baseline",
+      "contents": "Training engineering, repaired tools, real/synthetic smoke runs; no completed formal baseline"
+    }
+  ],
+  "deleted_source_archives": [
+    {
+      "previous_path": "dataset-20261101T184211Z-1-001.zip",
+      "bytes": 2147617512,
+      "sha256": "97138546e1266d521549d12374cdd35140fbb8a8bc5dd7798f3971c5272798b5"
+    },
+    {
+      "previous_path": "dataset-20261101T184211Z-1-002.zip",
+      "bytes": 2147677066,
+      "sha256": "57db9cce562c733c66419ad2956264a54d315c9abd217496422f44edd3320618"
+    },
+    {
+      "previous_path": "dataset-20261101T184211Z-1-003.zip",
+      "bytes": 2147358603,
+      "sha256": "1bf93e91756ebdddaa9c9e6b180f6f91b27a7ea9ccbb78e96f2499d9f04d418e"
+    },
+    {
+      "previous_path": "dataset-20261101T184211Z-1-004.zip",
+      "bytes": 1349790287,
+      "sha256": "022b5c7b56dd1794bc939380849f48f05763c2109bac0620d5bf8aac35a80725"
+    },
+    {
+      "previous_path": "yolo.zip",
+      "bytes": 7774344252,
+      "sha256": "afff1cea88f3b5ab2ffbaa47c66a0a3144b41d2d00cc048ca383a410ee478824"
+    },
+    {
+      "previous_path": "labels(1).zip",
+      "bytes": 732572,
+      "sha256": "edd9959d8615a151fb332a0c6d87f2f0dd049ac5f15b915b9725c01949043b77"
+    },
+    {
+      "previous_path": "pre_train_model(1).zip",
+      "bytes": 33257076,
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd"
+    },
+    {
+      "previous_path": "reference_inputs/pre_train_model(1)(1).zip",
+      "bytes": 33257076,
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd"
+    }
+  ],
+  "verification": "diagnostics/NEW_MEMBER2_COMPARISON_20261102.json",
+  "operation_log": "diagnostics/FILE_OPERATIONS_20261102.json"
+}

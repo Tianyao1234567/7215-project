@@ -1,0 +1,9 @@
+path: D:\Desktop\7215\project\datasets\real_smoke_20261102
+names:
+  0: Cracking
+  1: Layer_shifting
+  2: Off_platform
+  3: Stringing
+  4: Warping
+train: D:/Desktop/7215/project/baseline/runs/real_smoke_20261102/smoke_20261101T185410_489568Z/train_images.txt
+val: D:/Desktop/7215/project/baseline/runs/real_smoke_20261102/smoke_20261101T185410_489568Z/val_images.txt

@@ -1,0 +1,5 @@
+{
+  "authoring_library": "@oai/artifact-tool",
+  "source": "Codex bundled runtime",
+  "recreation": "The PPTX itself is editable in PowerPoint. build_slides.mjs uses the bundled Codex runtime paths; adapt its root/runtime paths before regenerating outside this computer."
+}

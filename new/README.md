@@ -1,0 +1,1 @@
+The four source ZIPs were removed only after verified current data, all original train JSON, quarantine and source/CRC inventories were retained. See reports/new_json_20261105/cleanup_record.json. Small received scripts/manifests here are historical delivery metadata, not current training entries.

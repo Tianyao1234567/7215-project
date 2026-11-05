@@ -1,0 +1,47 @@
+{
+  "names": [
+    "Cracking",
+    "Layer_shifting",
+    "Off_platform",
+    "Stringing",
+    "Warping"
+  ],
+  "stats": {
+    "train": {
+      "files": 1761,
+      "boxes": [
+        483,
+        388,
+        126,
+        505,
+        864
+      ],
+      "imagesWithClass": [
+        406,
+        345,
+        124,
+        417,
+        503
+      ]
+    },
+    "val": {
+      "files": 619,
+      "boxes": [
+        170,
+        125,
+        42,
+        161,
+        333
+      ],
+      "imagesWithClass": [
+        147,
+        110,
+        42,
+        135,
+        196
+      ]
+    }
+  },
+  "errors": [],
+  "emptyLabels": []
+}

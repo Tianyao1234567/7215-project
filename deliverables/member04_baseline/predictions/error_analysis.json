@@ -1,0 +1,103 @@
+{
+  "run_id": "yolov8n_newjson_from_official_20261105_213549",
+  "weights_sha256": "4f9880d748b3cf303c23cf2840e23bb788ec8f89f31ebb26e95ee7ed323d347d",
+  "split": "val",
+  "images": 171,
+  "confidence_threshold": 0.25,
+  "NMS_iou": 0.7,
+  "class_aware_matching_iou": 0.5,
+  "matching": "Greedy descending-confidence same-class IoU match, one prediction per ground truth",
+  "true_positive_boxes": 221,
+  "false_positive_boxes": 23,
+  "false_negative_boxes": 8,
+  "examples": [
+    {
+      "kind": "class_representative",
+      "class_id": 0,
+      "class_name": "Cracking",
+      "image_id": "Cracking_Image_20231128195336980",
+      "file": "class_0_Cracking.jpg",
+      "has_matched_prediction_for_requested_class": true
+    },
+    {
+      "kind": "class_representative",
+      "class_id": 1,
+      "class_name": "Layer_shifting",
+      "image_id": "Layer_shifting_Image_20231128160436963",
+      "file": "class_1_Layer_shifting.jpg",
+      "has_matched_prediction_for_requested_class": true
+    },
+    {
+      "kind": "class_representative",
+      "class_id": 2,
+      "class_name": "Off_platform",
+      "image_id": "Off_platform_Image_20231228113032864",
+      "file": "class_2_Off_platform.jpg",
+      "has_matched_prediction_for_requested_class": true
+    },
+    {
+      "kind": "class_representative",
+      "class_id": 3,
+      "class_name": "Stringing",
+      "image_id": "Stringing_Image_20231228204519967",
+      "file": "class_3_Stringing.jpg",
+      "has_matched_prediction_for_requested_class": true
+    },
+    {
+      "kind": "class_representative",
+      "class_id": 4,
+      "class_name": "Warping",
+      "image_id": "Warping_Image_20231228143457455",
+      "file": "class_4_Warping.jpg",
+      "has_matched_prediction_for_requested_class": true
+    },
+    {
+      "kind": "false_positive",
+      "image_id": "Cracking_Image_20231130101801726_aug",
+      "file": "false_positive_1_Cracking_Image_20231130101801726_aug.jpg",
+      "unmatched_count": 2
+    },
+    {
+      "kind": "false_positive",
+      "image_id": "Off_platform_Image_20240102171650119",
+      "file": "false_positive_2_Off_platform_Image_20240102171650119.jpg",
+      "unmatched_count": 2
+    },
+    {
+      "kind": "false_positive",
+      "image_id": "Off_platform_Image_20240102173250118",
+      "file": "false_positive_3_Off_platform_Image_20240102173250118.jpg",
+      "unmatched_count": 2
+    },
+    {
+      "kind": "false_negative",
+      "image_id": "Warping_Image_20240102171050092",
+      "file": "false_negative_1_Warping_Image_20240102171050092.jpg",
+      "unmatched_count": 2
+    },
+    {
+      "kind": "false_negative",
+      "image_id": "Cracking_Image_20240118164355147",
+      "file": "false_negative_2_Cracking_Image_20240118164355147.jpg",
+      "unmatched_count": 1
+    },
+    {
+      "kind": "false_negative",
+      "image_id": "Stringing_Image_20240103142516632",
+      "file": "false_negative_3_Stringing_Image_20240103142516632.jpg",
+      "unmatched_count": 1
+    }
+  ],
+  "model_info": {
+    "unfused_parameters": 3011823,
+    "class_names": {
+      "0": "Cracking",
+      "1": "Layer_shifting",
+      "2": "Off_platform",
+      "3": "Stringing",
+      "4": "Warping"
+    }
+  },
+  "test_used": false,
+  "limitation": "Example error counts use fixed conf0.25 and IoU0.5; precision and recall in validation_metrics.json follow the Ultralytics F1 curve operating point. Class examples illustrate outputs and are not an independent performance estimate."
+}

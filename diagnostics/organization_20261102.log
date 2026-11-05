@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "D:\Desktop\7215\project\diagnostics\organize_sources_20261102.py", line 71, in <module>
+    p.unlink();record('verified_archive_deleted',**rec)
+  File "C:\Users\Z1234\AppData\Local\Programs\Python\Python310\lib\pathlib.py", line 1206, in unlink
+    self._accessor.unlink(self)
+PermissionError: [WinError 5] Access is denied: 'D:\\Desktop\\7215\\project\\pre_train_model(1).zip'

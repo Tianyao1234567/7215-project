@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "pid": 26884,
+  "output": "D:\\Desktop\\7215\\project\\datasets\\received_20261102",
+  "extracted_files": 4761,
+  "bytes_written": 7789684906,
+  "skipped_caches": [
+    "dataset/labels/train.cache",
+    "dataset/labels/val.cache"
+  ],
+  "current_archive": "dataset-20261101T184211Z-1-004.zip",
+  "completed": "2026-11-01T18:51:52.999874+00:00",
+  "crc_verified": true,
+  "source_archives_preserved": true
+}

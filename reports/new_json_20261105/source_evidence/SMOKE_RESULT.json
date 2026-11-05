@@ -1,0 +1,19 @@
+{
+  "status": "completed",
+  "epochs": 2,
+  "train": 20,
+  "val": 10,
+  "best": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\runs\\new_json_smoke\\weights\\best.pt",
+  "last": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\runs\\new_json_smoke\\weights\\last.pt",
+  "best_sha256": "1cc37dd3e143533071c5fadff39d2a162cc283525aa1fc249a8083bcf1169174",
+  "validation_metrics": {
+    "metrics/precision(B)": 0.0,
+    "metrics/recall(B)": 0.0,
+    "metrics/mAP50(B)": 0.0,
+    "metrics/mAP50-95(B)": 0.0,
+    "fitness": 0.0
+  },
+  "prediction_count": 0,
+  "test_used": false,
+  "is_formal_result": false
+}

@@ -1,0 +1,227 @@
+{
+  "created_at": "2026-11-02T09:31:32.995763+00:00",
+  "ownership_basis": "User identified labels(1).zip and root yolo directory as newly received from member 2; previous four ZIP parts as member 3 handoff.",
+  "interpretation_limit": "Identical files establish no delivered annotation revisions, not absence of review work or authorship of all originals.",
+  "raw_received": {
+    "path": "datasets/received_20261102/dataset",
+    "expected_files": 4761,
+    "mismatches": [],
+    "verified": true
+  },
+  "new_member2_yolo": {
+    "path": "yolo/yolo",
+    "file_count": 4763,
+    "same_as_member3": 4761,
+    "changed": [],
+    "missing": [],
+    "extra": [
+      "labels/train.cache",
+      "labels/val.cache"
+    ],
+    "images": 2380,
+    "labels": 2380,
+    "model_weights": [],
+    "all_images_labels_yaml_identical": true
+  },
+  "member2_labels": {
+    "archive": "labels(1).zip",
+    "extracted_root": "sources/member_02/labels_received_20261102",
+    "files": 2382,
+    "bbox_labels": 2380,
+    "same_as_member3": 2380,
+    "changed": [],
+    "new_paths": [],
+    "missing_member3_labels": [],
+    "all_bbox_labels_identical": true
+  },
+  "archive_records": [
+    {
+      "path": "dataset-20261101T184211Z-1-001.zip",
+      "bytes": 2147617512,
+      "sha256": "97138546e1266d521549d12374cdd35140fbb8a8bc5dd7798f3971c5272798b5",
+      "type": "member3_dataset_part"
+    },
+    {
+      "path": "dataset-20261101T184211Z-1-002.zip",
+      "bytes": 2147677066,
+      "sha256": "57db9cce562c733c66419ad2956264a54d315c9abd217496422f44edd3320618",
+      "type": "member3_dataset_part"
+    },
+    {
+      "path": "dataset-20261101T184211Z-1-003.zip",
+      "bytes": 2147358603,
+      "sha256": "1bf93e91756ebdddaa9c9e6b180f6f91b27a7ea9ccbb78e96f2499d9f04d418e",
+      "type": "member3_dataset_part"
+    },
+    {
+      "path": "dataset-20261101T184211Z-1-004.zip",
+      "bytes": 1349790287,
+      "sha256": "022b5c7b56dd1794bc939380849f48f05763c2109bac0620d5bf8aac35a80725",
+      "type": "member3_dataset_part"
+    },
+    {
+      "path": "yolo.zip",
+      "bytes": 7774344252,
+      "sha256": "afff1cea88f3b5ab2ffbaa47c66a0a3144b41d2d00cc048ca383a410ee478824",
+      "type": "member3_forwarded_yolo_archive"
+    },
+    {
+      "path": "labels(1).zip",
+      "bytes": 732572,
+      "sha256": "edd9959d8615a151fb332a0c6d87f2f0dd049ac5f15b915b9725c01949043b77",
+      "type": "member2_labels"
+    },
+    {
+      "path": "pre_train_model(1).zip",
+      "bytes": 33257076,
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+      "type": "member2_reference_models"
+    },
+    {
+      "path": "reference_inputs/pre_train_model(1)(1).zip",
+      "bytes": 33257076,
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+      "type": "member2_reference_models"
+    }
+  ],
+  "cache_preservation": [
+    {
+      "source_entry": "dataset/labels/train.cache",
+      "path": "sources/member_03/original_cache_files/dataset/labels/train.cache",
+      "bytes": 384604,
+      "sha256": "5a17395073e9d6d4c1c2a8784929f8f412aa200683e6120e8ca6bd2e1fbea25a",
+      "new_member2_yolo_cache_identical": true
+    },
+    {
+      "source_entry": "dataset/labels/val.cache",
+      "path": "sources/member_03/original_cache_files/dataset/labels/val.cache",
+      "bytes": 100926,
+      "sha256": "38ba9ee45d35b9115896bdb6d508b45adcc269d767e967a1cea92e847e6594ea",
+      "new_member2_yolo_cache_identical": true
+    }
+  ],
+  "reference_model_archives": [
+    {
+      "path": "pre_train_model(1).zip",
+      "bytes": 33257076,
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+      "type": "member2_reference_models",
+      "verified": true,
+      "entries": [
+        {
+          "entry": "pre_train_model/best.onnx",
+          "retained_path": "reference_models/pre_train_model/best.onnx",
+          "sha256": "0f8774bac2a168bd1acc5290985a1900c176d7e64aeba732cf8e9a49ae91252d",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/best.pt",
+          "retained_path": "reference_models/pre_train_model/best.pt",
+          "sha256": "45661e94c0c10fb559151543c6d73e3b95e6cc8d2ddde37e875aa695641cec44",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/best_pre.onnx",
+          "retained_path": "reference_models/pre_train_model/best_pre.onnx",
+          "sha256": "3e1cb919f96e1f2904ddf91ddbd1ce1f58b0b4d1fb14d4618dd0df82b0a390e4",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/best_pre.pt",
+          "retained_path": "reference_models/pre_train_model/best_pre.pt",
+          "sha256": "9144c04c02444f4b486fdfa0cce1b5ec3b0942f362488461ee7861a804773bf0",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/config.yaml",
+          "retained_path": "reference_models/pre_train_model/config.yaml",
+          "sha256": "48cad2a79c3e58b43bb4f38f1bdd758151bf09f072cbc368a7bd6a8aa84f5daf",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/label.txt",
+          "retained_path": "reference_models/pre_train_model/label.txt",
+          "sha256": "8a00c8ad252433874ab2511a2307dfebd3b41125a33f4864ddac83c27e5668aa",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/prepare_yolo.py",
+          "retained_path": "reference_models/pre_train_model/prepare_yolo.py",
+          "sha256": "07a45a539c73d1f7f2d96143ce0c483f9332f8e91f5630abbae3c28f24baac95",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/pt2onnx.py",
+          "retained_path": "reference_models/pre_train_model/pt2onnx.py",
+          "sha256": "458f2a73537073e9574e064bef19cf6a9bb1fcc8cbc8021f13c31b476185f737",
+          "verified": true
+        }
+      ]
+    },
+    {
+      "path": "reference_inputs/pre_train_model(1)(1).zip",
+      "bytes": 33257076,
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+      "type": "member2_reference_models",
+      "verified": true,
+      "entries": [
+        {
+          "entry": "pre_train_model/best.onnx",
+          "retained_path": "reference_models/pre_train_model/best.onnx",
+          "sha256": "0f8774bac2a168bd1acc5290985a1900c176d7e64aeba732cf8e9a49ae91252d",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/best.pt",
+          "retained_path": "reference_models/pre_train_model/best.pt",
+          "sha256": "45661e94c0c10fb559151543c6d73e3b95e6cc8d2ddde37e875aa695641cec44",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/best_pre.onnx",
+          "retained_path": "reference_models/pre_train_model/best_pre.onnx",
+          "sha256": "3e1cb919f96e1f2904ddf91ddbd1ce1f58b0b4d1fb14d4618dd0df82b0a390e4",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/best_pre.pt",
+          "retained_path": "reference_models/pre_train_model/best_pre.pt",
+          "sha256": "9144c04c02444f4b486fdfa0cce1b5ec3b0942f362488461ee7861a804773bf0",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/config.yaml",
+          "retained_path": "reference_models/pre_train_model/config.yaml",
+          "sha256": "48cad2a79c3e58b43bb4f38f1bdd758151bf09f072cbc368a7bd6a8aa84f5daf",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/label.txt",
+          "retained_path": "reference_models/pre_train_model/label.txt",
+          "sha256": "8a00c8ad252433874ab2511a2307dfebd3b41125a33f4864ddac83c27e5668aa",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/prepare_yolo.py",
+          "retained_path": "reference_models/pre_train_model/prepare_yolo.py",
+          "sha256": "07a45a539c73d1f7f2d96143ce0c483f9332f8e91f5630abbae3c28f24baac95",
+          "verified": true
+        },
+        {
+          "entry": "pre_train_model/pt2onnx.py",
+          "retained_path": "reference_models/pre_train_model/pt2onnx.py",
+          "sha256": "458f2a73537073e9574e064bef19cf6a9bb1fcc8cbc8021f13c31b476185f737",
+          "verified": true
+        }
+      ]
+    }
+  ],
+  "single_yolo_archive_verification": {
+    "files": 4763,
+    "same": 4763,
+    "changed": [],
+    "missing_reference": [],
+    "verified": true
+  },
+  "safe_for_source_archive_cleanup": true
+}

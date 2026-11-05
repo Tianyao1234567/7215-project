@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "checked_China": "2026-11-05T22:15:23+08:00",
+  "package_prediction_entry_actually_executed": true,
+  "images": 1,
+  "boxes": 1,
+  "example": {
+    "class_id": 0,
+    "class_name": "Cracking",
+    "confidence": 0.6720835566520691,
+    "xyxy_pixels": [
+      409.3436584472656,
+      1481.9208984375,
+      1202.3218994140625,
+      1730.5140380859375
+    ]
+  },
+  "package_evaluation_code_matches_actual_independent_validation_entry": true,
+  "code_sha256": {
+    "evaluate_baseline.py": "f20dfe0a7541f6383cfa0362c0642b637e4b67e8b22d0300e657d378f4a4f9c3",
+    "predict_baseline.py": "c1f16806def37e3b49399cb04aa910aa77b31a62845a9ac7a7434811cac42a09",
+    "new_json_common.py": "579efb849eed1904550b822964d6d5329f9a17b068d00b0b19db5ce27ee60292"
+  },
+  "test_used": false
+}

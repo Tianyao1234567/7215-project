@@ -1,0 +1,13 @@
+{
+  "status": "failed",
+  "pid": 35116,
+  "started": "2026-11-02T09:35:30.654941+00:00",
+  "log": "D:\\Desktop\\7215\\project\\diagnostics\\organization_20261102.log",
+  "command": [
+    "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+    "-B",
+    "D:\\Desktop\\7215\\project\\diagnostics\\organize_sources_20261102.py"
+  ],
+  "exit_code": 1,
+  "ended": "2026-11-02T09:36:06.580589+00:00"
+}

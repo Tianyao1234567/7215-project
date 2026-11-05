@@ -1,0 +1,10 @@
+{
+  "scope": "member04_only",
+  "run_id": "yolov8n_newjson_from_official_20261105_213549",
+  "method_words": 295,
+  "contribution_words": 436,
+  "test_used": false,
+  "source_metrics": "deliverables\\member04_baseline\\validation_metrics.json",
+  "repo": "https://github.com/Tianyao1234567/7215-project",
+  "release_tag": "member04-baseline-20261105"
+}

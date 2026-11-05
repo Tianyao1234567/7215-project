@@ -1,0 +1,34 @@
+# Local execution state
+.git/
+.runtime/
+.chart-data-*/
+**/__pycache__/
+**/*.pyc
+**/*.cache
+**/*.npy
+environment/.venv_gpu/
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+# Images and ZIPs are supplied as versioned assets in the same GitHub release.
+datasets/current/images/
+datasets/quarantine/images/
+*.zip
+# Private source materials and machine-specific diagnostics remain local.
+sources/shared/chat/
+sources/shared/course/
+sources/member_03/original_cache_files/
+**/course_requirements_verified.json
+diagnostics/project_requirements_pdf_text.json
+diagnostics/python_installations_registry.log
+diagnostics/python_candidates.json
+diagnostics/other_python_candidates.json
+# Temporary slide candidates; editable final slides and verified figures are retained.
+diagnostics/presentation_build/preview/
+diagnostics/presentation_build/final/
+diagnostics/presentation_build/final-v*/
+diagnostics/presentation_build/validated-output-*/
+**/*.inspect.ndjson
+reports/history/before_github_20261105/

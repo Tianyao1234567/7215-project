@@ -1,0 +1,14 @@
+{
+  "run_id": "yolov8n_newjson_from_official_20261105_213549",
+  "completed_epochs": 61,
+  "windows": [
+    {
+      "handle": 1116488,
+      "title": "IDAT7215 YOLOv8n 100 epochs | yolov8n_newjson_from_official_20261105_213549",
+      "visible": true
+    }
+  ],
+  "log_last_write": "2026-11-05T21:55:50.3626511+08:00",
+  "checked_China": "2026-11-05T21:55:50.5462794+08:00",
+  "log_bytes": 1539374
+}

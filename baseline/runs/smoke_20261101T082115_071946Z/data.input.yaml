@@ -1,0 +1,6 @@
+names:
+- synthetic_rectangle
+path: .
+test: images/test
+train: images/train
+val: images/val

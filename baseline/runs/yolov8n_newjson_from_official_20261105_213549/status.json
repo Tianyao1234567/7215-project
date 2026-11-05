@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "pid": 9084,
+  "run_id": "yolov8n_newjson_from_official_20261105_213549",
+  "run_directory": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549",
+  "started_China": "2026-11-05T21:35:51+08:00",
+  "updated_China": "2026-11-05T22:20:03+08:00",
+  "elapsed_seconds": 1899.54,
+  "completed_epochs": 100,
+  "total_epochs": 100,
+  "log": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549\\training.log",
+  "training_seconds": 1893.0457253456116,
+  "package": "D:\\Desktop\\7215\\project\\deliverables\\member04_baseline",
+  "archive": "D:\\Desktop\\7215\\project\\deliverables\\IDAT7215_Member04_Baseline_20261105.zip",
+  "validation_metrics": {
+    "metrics/precision(B)": 0.9321617815763465,
+    "metrics/recall(B)": 0.9404915499674376,
+    "metrics/mAP50(B)": 0.9546503929469721,
+    "metrics/mAP50-95(B)": 0.6003364119035427,
+    "fitness": 0.6357678100078856
+  },
+  "test_used": false
+}

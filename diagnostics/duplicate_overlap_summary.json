@@ -1,0 +1,72 @@
+{
+  "exactMatchingPairs": 495,
+  "uniqueValidationImages": 483,
+  "uniqueSourceIds": 464,
+  "labelByteDifferences": 492,
+  "examples": [
+    {
+      "id": "Warping_Image_20240117142819513",
+      "train": "dataset/images/train/Warping_Image_20240117142819513.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117142819513.jpg",
+      "sha256": "82d948b3923ffe3d22e00705ab6874f449a2d7caa58e0a969321136e8e49c28d",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117142819513.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117142819513.txt"
+    },
+    {
+      "id": "Warping_Image_20240117145119554",
+      "train": "dataset/images/train/Warping_Image_20240117145119554.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117145119554.jpg",
+      "sha256": "5b6c24d7cf7943fd39d167b70e2569719264186919745d167193e3a93c41e532",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117145119554.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117145119554.txt"
+    },
+    {
+      "id": "Warping_Image_20240117133219541",
+      "train": "dataset/images/train/Warping_Image_20240117133219541.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117133219541.jpg",
+      "sha256": "ea45b7ed9fe46238aaaf3d4ccab17241018e3a7774bbf4d7b5ae18f39c9e16a7",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117133219541.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117133219541.txt"
+    },
+    {
+      "id": "Warping_Image_20240117132849547",
+      "train": "dataset/images/train/Warping_Image_20240117132849547.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117132849547.jpg",
+      "sha256": "61f91d24c15f787481a64642a905fcd7da8e18a2f89860ffefc328a4214ed0ec",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117132849547.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117132849547.txt"
+    },
+    {
+      "id": "Warping_Image_20240117142849524",
+      "train": "dataset/images/train/Warping_Image_20240117142849524.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117142849524.jpg",
+      "sha256": "9dbd391029995d736a2c5fc24c837b71c8b530c0f33e8e4192bef4f32d02969f",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117142849524.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117142849524.txt"
+    },
+    {
+      "id": "Warping_Image_20240117144919520",
+      "train": "dataset/images/train/Warping_Image_20240117144919520.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117144919520.jpg",
+      "sha256": "79f91ed29556b28ba5024ebe80d8ad010d2e1894c6849cd62ea1ab66f31376a8",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117144919520.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117144919520.txt"
+    },
+    {
+      "id": "Warping_Image_20240117123150006",
+      "train": "dataset/images/train/Warping_Image_20240117123150006.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117123150006.jpg",
+      "sha256": "11bad553d842b13be4450af39381da59ebaba869b41d31487b67560ed9ad306f",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117123150006.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117123150006.txt"
+    },
+    {
+      "id": "Warping_Image_20240117133319501",
+      "train": "dataset/images/train/Warping_Image_20240117133319501.jpg",
+      "val": "dataset/images/val/Warping_Image_20240117133319501.jpg",
+      "sha256": "08ca13b5d58fdaa2636f5e48347e4d888490ab3475f9ad617f210e6bdb539773",
+      "trainLabel": "dataset/labels/train/Warping_Image_20240117133319501.txt",
+      "valLabel": "dataset/labels/val/Warping_Image_20240117133319501.txt"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+# Engineering-only configuration; not a formal comparison protocol.
+protocol:
+  status: smoke_only
+  ultralytics: 8.2.103
+initialization:
+  kind: random_architecture_only
+output: ../runs
+cpu_threads: 2
+train:
+  epochs: 1
+  imgsz: 64
+  batch: 2
+  device: cpu
+  workers: 0
+  seed: 42
+  deterministic: true
+  optimizer: SGD
+  lr0: 0.01
+  lrf: 0.01
+  momentum: 0.937
+  weight_decay: 0.0005
+  warmup_epochs: 0.0
+  warmup_momentum: 0.8
+  warmup_bias_lr: 0.1
+  nbs: 64
+  box: 7.5
+  cls: 0.5
+  dfl: 1.5
+  amp: false
+  cache: false
+  patience: 0
+  close_mosaic: 0
+  mosaic: 0.0
+  mixup: 0.0
+  copy_paste: 0.0
+  hsv_h: 0.0
+  hsv_s: 0.0
+  hsv_v: 0.0
+  degrees: 0.0
+  translate: 0.0
+  scale: 0.0
+  shear: 0.0
+  perspective: 0.0
+  flipud: 0.0
+  fliplr: 0.0

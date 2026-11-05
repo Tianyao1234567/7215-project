@@ -1,0 +1,8 @@
+Ultralytics YOLOv8.2.103 🚀 Python-3.11.15 torch-2.5.1+cpu CPU (unknown)
+YOLOv8n summary (fused): 168 layers, 3,005,843 parameters, 0 gradients, 8.1 GFLOPs
+                   all          2          2          0          0          0          0
+Speed: 0.0ms preprocess, 28.1ms inference, 0.0ms loss, 0.5ms postprocess per image
+Results saved to [1mC:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\evidence\validation_cli\metrics[0m
+
+[34m[1mval: [0mScanning C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\tests\synthetic_fixture\labels\val.cache... 2 images, 0 backgrounds, 0 corrupt: 100%|██████████| 2/2 [00:00<?, ?it/s][34m[1mval: [0mScanning C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\tests\synthetic_fixture\labels\val.cache... 2 images, 0 backgrounds, 0 corrupt: 100%|██████████| 2/2 [00:00<?, ?it/s]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95):   0%|          | 0/1 [00:00<?, ?it/s]                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 1/1 [00:00<00:00, 14.87it/s]

@@ -1,0 +1,39 @@
+{
+  "status": "passed",
+  "China": "2026-11-05T21:34:30+08:00",
+  "retained_train_val_test": [
+    1371,
+    171,
+    171
+  ],
+  "retained_quarantine_images": 48,
+  "retained_original_json": 1761,
+  "new_json_labels_verified": true,
+  "official_initialization_sha256": "f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36",
+  "archive_central_directories": [
+    {
+      "file": "dataset-20261105T105219Z-1-001.zip",
+      "bytes": 2136684149,
+      "central_directory_entries_verified": 2118
+    },
+    {
+      "file": "dataset-20261105T105219Z-1-002.zip",
+      "bytes": 2136764663,
+      "central_directory_entries_verified": 2261
+    },
+    {
+      "file": "dataset-20261105T105219Z-1-003.zip",
+      "bytes": 2136458597,
+      "central_directory_entries_verified": 2264
+    },
+    {
+      "file": "dataset-20261105T105219Z-1-004.zip",
+      "bytes": 1384445612,
+      "central_directory_entries_verified": 1642
+    }
+  ],
+  "original_full_extraction_crc_evidence": "source_evidence/extraction_status.json and extraction_manifest.json",
+  "reference_models": "sources/member_02/reference_models retained",
+  "history35": "baseline/runs/history_35epochs_20261105 retained",
+  "C_sources_unchanged": true
+}

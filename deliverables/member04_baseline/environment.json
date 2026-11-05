@@ -1,0 +1,15 @@
+{
+  "python": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+  "executable": "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+  "torch": "2.0.1+cu117",
+  "torchvision": "0.15.2+cu117",
+  "ultralytics": "8.2.103",
+  "opencv": "4.10.0",
+  "numpy": "1.26.4",
+  "cuda_runtime": "11.7",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+  "vram_bytes": 8589410304,
+  "available_ram_bytes": 22854189056,
+  "settings_and_caches": "D:\\Desktop\\7215\\project\\.runtime\\new_json_baseline"
+}

@@ -1,0 +1,501 @@
+{
+  "schema": 1,
+  "root": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102",
+  "names": [
+    "Cracking",
+    "Layer_shifting",
+    "Off_platform",
+    "Stringing",
+    "Warping"
+  ],
+  "counts": {
+    "train": {
+      "images": 20,
+      "negative_images": 0,
+      "boxes_per_class": {
+        "Cracking": 5,
+        "Layer_shifting": 4,
+        "Off_platform": 4,
+        "Stringing": 4,
+        "Warping": 8
+      },
+      "images_per_class": {
+        "Cracking": 4,
+        "Layer_shifting": 4,
+        "Off_platform": 4,
+        "Stringing": 4,
+        "Warping": 6
+      }
+    },
+    "val": {
+      "images": 10,
+      "negative_images": 0,
+      "boxes_per_class": {
+        "Cracking": 2,
+        "Layer_shifting": 2,
+        "Off_platform": 2,
+        "Stringing": 2,
+        "Warping": 3
+      },
+      "images_per_class": {
+        "Cracking": 2,
+        "Layer_shifting": 2,
+        "Off_platform": 2,
+        "Stringing": 2,
+        "Warping": 2
+      }
+    },
+    "test": {
+      "images": 0,
+      "negative_images": 0,
+      "boxes_per_class": {
+        "Cracking": 0,
+        "Layer_shifting": 0,
+        "Off_platform": 0,
+        "Stringing": 0,
+        "Warping": 0
+      },
+      "images_per_class": {
+        "Cracking": 0,
+        "Layer_shifting": 0,
+        "Off_platform": 0,
+        "Stringing": 0,
+        "Warping": 0
+      }
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "warning": "group_ids_missing_near_duplicates_and_related_frames_NOT_verified"
+    }
+  ],
+  "duplicates": [],
+  "orphan_labels": [],
+  "group_status": "not_verified",
+  "dataset_sha256": "84fbf72bf76259e2163424145e9d022396bde906dabd2267afed7cc3dfc0cf52",
+  "records": [
+    {
+      "split": "train",
+      "image": "images/train/Cracking_Image_20231130101531704.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Cracking_Image_20231130101531704.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "6d529f8247de2f64003388c6949262c44b4d1890184de1d81ca11d32a7a8dc82",
+      "image_sha256": "f78485826320da5b953058d1351bd6d3b2a9d36da01cd4843aeaf866726402d7",
+      "boxes": 1,
+      "label_sha256": "704f14281e75263ae34fbbc01ade0ddc2896ff6f9183c5a94dfaee07a894cf8f"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Cracking_Image_20240118165055176.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Cracking_Image_20240118165055176.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "760bc600e0b9812f2085651a58a72e984b55b375fc2b1082b2a785c0bedcbfb3",
+      "image_sha256": "33c503234bd7d9f4e193d6a3704493426c637aac5ff7456f171d97978a8cbc3e",
+      "boxes": 1,
+      "label_sha256": "78194aed61a1f45c2dc2774a452d3ab708a35f1bf854ff045fc1bea265a61edd"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Cracking_Image_20240124144428922.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Cracking_Image_20240124144428922.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "4d079b9a75ef4f164830162919d523b53910a322872e69467875d83d1e9cff52",
+      "image_sha256": "d4add1862626ffe2ff991bfaa995fd95be6186aff46532d45b23f7a730fb08ec",
+      "boxes": 1,
+      "label_sha256": "e0c1f83ec4d3c044a458c1c9586cf48c4eb45066d8ab0788a9ad0707a2fc28f0"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Cracking_Image_20240124160828933.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Cracking_Image_20240124160828933.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "cc2659a3fdad869eb932e6a28ac9cb30b1f29c084e6cb78b43ae25b13cb55eb2",
+      "image_sha256": "47d6f42052764aef931e45365943c8af73cc6f6ded3f37559e1995988df6f0bb",
+      "boxes": 2,
+      "label_sha256": "569b53339df929b51b9693bd2cacd170fede7d97b990f5da9bacec469f0d2e50"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Layer_shifting_Image_20231128170236981.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Layer_shifting_Image_20231128170236981.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "276354be43db921cea7a58816627c619f81414ce3db3ec1d48238c7d2bf8ce6a",
+      "image_sha256": "832631c96c53e1c8f12abbdf610a2207526deeb13a29e5617b5b1dd0d0fe21c0",
+      "boxes": 1,
+      "label_sha256": "76e17fbe68330d97166e450b3d25a3d5045abc32c00c4666fd2eb665a22a0681"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Layer_shifting_Image_20240118145155147.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Layer_shifting_Image_20240118145155147.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "0035e856b56d7cec86b90e064a04f9e9c5f33e4c0aa0540cb1de8e44365057cd",
+      "image_sha256": "0ecb6e62a53921760de126a544d33c65b247fac365e767649cedf6f77c9564f6",
+      "boxes": 1,
+      "label_sha256": "59d6661e8ccba8d69d9a5a08925e55a750936202b75dbe3ae1b5b72886e08621"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Layer_shifting_Image_20240118151125182.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Layer_shifting_Image_20240118151125182.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "27f873ccb9028406102bbb74f9d0607517d5d56e9492348f7838480b84dc370a",
+      "image_sha256": "8922dfca41a3670fe4274a7aab0b550bf05b0ac69dad74a5679a7387f426edf1",
+      "boxes": 1,
+      "label_sha256": "0e3cbc0c77ff6c165542979cd302ce615680c18390b8f19eb1a4f896c5ca58c9"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Layer_shifting_Image_20240118161525152.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Layer_shifting_Image_20240118161525152.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "b6bcf0e127d914b2964384de7c01220b1f7c850184f92b862ef73df8db1f503e",
+      "image_sha256": "0510747c4d22daa42cb5ddf773fac8dda0ebb88ab7f3a96814035ae910ba8d34",
+      "boxes": 1,
+      "label_sha256": "e5f04401a505ff6bdfc4edb087ada475817cc26e5f6ba9852efe6c7af529b264"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Off_platform_Image_20231228113402919.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Off_platform_Image_20231228113402919.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "81d19ae7672c004d35d585fb5e7894f6f9c1acf17215112c0084eb0b26a2518f",
+      "image_sha256": "5106f2eb007602e8c0fd83c4a75e6a4bde7406fa13d7513ac7da3fc6ca60a42d",
+      "boxes": 1,
+      "label_sha256": "4e0807e2d338287a27dafd7101028b14763c531bdb6d371b1e37adb0d6daf8a9"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Off_platform_Image_20240102171720131.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Off_platform_Image_20240102171720131.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "90869b87e813c958f47beac904205126de7f5e0e9f2cacd761486dc56d78758f",
+      "image_sha256": "83923f709bf5e3de21cff1a5b192a8610c14ed7339bba6e0544d313ad685dec3",
+      "boxes": 2,
+      "label_sha256": "4f4e2d5e7e4e0b8191f392bffc15dc6d5d73e3ede3bd1ea6e44af2e3ce0ca96f"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Off_platform_Image_20240102172720097.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Off_platform_Image_20240102172720097.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "d47db16fbc37d4f65c958c3577c459f060eb047cea4b3f7dad839a3d5ef7ebfc",
+      "image_sha256": "bd8802ae727923506820f97b086bc410cca8ee956259bb3e8018c78ce75f6769",
+      "boxes": 2,
+      "label_sha256": "eb13b1a1cc4bfcbaa6026c0bbedfe771e776a9f48d58b1ef4f7229ea3a11b164"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Off_platform_Image_20240102174420103.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Off_platform_Image_20240102174420103.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "fe6df111844e650e1fd1529f1bcfa0cf302ceb550b94eb4caefd7f4ceb98257a",
+      "image_sha256": "80f216a8a80719299cbb758831a469181ed8d8f5fe55143a7ce8ed89abfef52a",
+      "boxes": 1,
+      "label_sha256": "02807ccb63b7b8f49fdfecbab3d325ae4bbd09b57f43d2616c033f0a8af32500"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Stringing_Image_20231228204419949.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Stringing_Image_20231228204419949.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "c2c6e256db9b989e401f93a0b97a56c79601f949234d4623479f8baa67b37224",
+      "image_sha256": "2fef2822d47ab7c067c824c9f7eff7bb59383766e81df0d10b55f930b2bcdf31",
+      "boxes": 1,
+      "label_sha256": "c06214b396857036f8f89dddd01b449427aea27c0d7d335a1ece24d5357a129d"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Stringing_Image_20240103133916675_original.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Stringing_Image_20240103133916675_original.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "49ff19f3e82db604699db7989321aee72c86d1e9e91290628073cb70e4327f89",
+      "image_sha256": "5645ff604b1464f124af48da894a0d036d53a03ac35cb9bcbea8cfd2ccea5c16",
+      "boxes": 1,
+      "label_sha256": "30a705e149b32cefeff0c8dd04dfa390630b657583a2be9583e7cda946f2cf80"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Stringing_Image_20240118122025171.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Stringing_Image_20240118122025171.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "df44aae0e7a5565292c5956df6c73aebda97fddc0c48a799d3250d11e91a7671",
+      "image_sha256": "dce631813db8010d8dab56edc9f32c6d23003bbe4ec7841f12cb695217fecb31",
+      "boxes": 1,
+      "label_sha256": "53677db7d95d35c8f742a937ff6549e323936ea329ef50f215e6e2a45312d195"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Stringing_Image_20240118134155145.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Stringing_Image_20240118134155145.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "bee1c474e4c964b852a57ca6ad1627b24dabe9f38888e354ef433b3113378869",
+      "image_sha256": "f22b705cce22b330c0498f934f3fe7ca6a300589ee7fb6be68bdc70ce2435c80",
+      "boxes": 1,
+      "label_sha256": "4ca9d8ba7c029a0d74df120379db553505e395783ff78a881a3bd8d5cc648d99"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Warping_Image_20231228115202886.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Warping_Image_20231228115202886.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "1611bed00ed2b27260256f598ac9419d4abb85c97e145b353a2babe687ed459b",
+      "image_sha256": "0b119068d73e8a97e570c80d545db87370561402149925d1f28e3021b6f091f4",
+      "boxes": 1,
+      "label_sha256": "064c3d9c70bde174116a154a37d3082bac1ac01ffb0eb2a80c8cfbded94b95f1"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Warping_Image_20240102171450094.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Warping_Image_20240102171450094.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "abf244ad0dd3dd9c21bf9652348900b79a8627b7993d940bcec3caf42af0d377",
+      "image_sha256": "b975d60caf70da8ef858c23ef5fcb8e13946e1332b4fdd250964178e50967c81",
+      "boxes": 2,
+      "label_sha256": "5ad2c7dbbefaf32b469bff329079e0800bd18641706e1edeb05e601f85c73967"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Warping_Image_20240117122649994.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Warping_Image_20240117122649994.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "230e6c367e602d273fa3f2990eef2d54667ec7506f31709c1ed05465efa7a3a9",
+      "image_sha256": "c85e8bbd0749773f472ca3702a873853d562129436b93d1d42befde535280ecc",
+      "boxes": 2,
+      "label_sha256": "7311f94636e9488a7146e77c91f38343113e47a5980c91230d745bcb119b52be"
+    },
+    {
+      "split": "train",
+      "image": "images/train/Warping_Image_20240117133319501.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\train\\Warping_Image_20240117133319501.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "ac50ab05dce080454c584f6710cc615842f0ff4df3598d0f355ed3b526db3600",
+      "image_sha256": "08ca13b5d58fdaa2636f5e48347e4d888490ab3475f9ad617f210e6bdb539773",
+      "boxes": 1,
+      "label_sha256": "bcd40ca15d4e1c6e4e6f0628f4ded1d9240e1c2de767691677765abb435a9bc1"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Cracking_Image_20240118165325161.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Cracking_Image_20240118165325161.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "5bff12be9355bdabb3394fed705bef55261f1f69785dec87233c8426f5957590",
+      "image_sha256": "9ec0ccb86552aa40a18312a0b1ba4b24101b355b554e0e360d1babbef338f334",
+      "boxes": 1,
+      "label_sha256": "ed77bf282521460b16806d8e6488835a6771afacc97f29f979e3ad6d2a084bfc"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Cracking_Image_20240124143628916.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Cracking_Image_20240124143628916.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "5671f03e2bfda29e49400608bbe470d63b504be4ae8d2b23006a5f68515cf14c",
+      "image_sha256": "43f574a74a144de3a8a09e7d48782cfc29f4c42e410803366a7565cfc22cf828",
+      "boxes": 1,
+      "label_sha256": "63c53f7eca2355d3b4d21c1ebad5de1c1f44a37ee2eb3203206287ad3d716931"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Layer_shifting_Image_20231128170807016_original.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Layer_shifting_Image_20231128170807016_original.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "7e32ace05c78c038a436c0d48519d31a158f3866664b8372931dbe279e39323f",
+      "image_sha256": "dd4b435d8802a547071a59104a8af4496dcfd9a3c174df88fcbe68aec128a832",
+      "boxes": 1,
+      "label_sha256": "94ebe1c0808a7966a952e597bbb7be8850de793494ebbe6ee08926149e98373c"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Layer_shifting_Image_20240118160425164.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Layer_shifting_Image_20240118160425164.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "e1e285b8a71a68b0ae648cc344e9a0856b57b0a7e370c9d73f536fa273d077b4",
+      "image_sha256": "0905d846ea8ae6c471a99e69d2427e9f09f6fb7e87579989fb5cf750cd59bf43",
+      "boxes": 1,
+      "label_sha256": "aefd2b9cf39b096f1d2991ebd19f5a05741e4d5adc8f2dd9e1da2a4af6a1b844"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Off_platform_Image_20240102144050091.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Off_platform_Image_20240102144050091.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "4ff2d46ee7a44839beca3a38d961fc9773b3920b8f94974a4ed38560298bf4cd",
+      "image_sha256": "1c2c630278059cacb32c26a3bea86fc5ad159af99f784500fc3c9d653fea4b59",
+      "boxes": 1,
+      "label_sha256": "4b4af8db613df467fa3a906a1f421a9c552db296797f9dbe69982c62cce73570"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Off_platform_Image_20240102174350105.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Off_platform_Image_20240102174350105.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "585e65ca0a652fd9aedd48f54e73b93f9d8b471dea768fed3fc771ed55c8a675",
+      "image_sha256": "ca88990c205db2c65ebaa0ed83b3f72471ab3ed81857e7630c98671bdd298b7e",
+      "boxes": 1,
+      "label_sha256": "2b57ef74a5d97601e46d9c0f1fe4a65b10609a543c5b63d9c7bf9302600fd9ed"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Stringing_Image_20231228205219953.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Stringing_Image_20231228205219953.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "dadc1b4fab3dae1d70658cbf4e794c25bdd4733c9082a46638a7d4f96d7f6d95",
+      "image_sha256": "5cd5be73aac222607af8f2690bf1e2a032dd826bd5d68917d749591b95841ea6",
+      "boxes": 1,
+      "label_sha256": "40e19eca56f213ea15ee54e82aaa1119cbb4403ea352a5894ddb03e4dd1fe90c"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Stringing_Image_20240103174423191.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Stringing_Image_20240103174423191.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "9a58f9d8c84404b2aa19362b2855cb6ce2633591a726d94b339026532ab326d0",
+      "image_sha256": "bd768cdb836b6bee9ca2b7a606c00991b85f537fde3c1fc72422aabe0f2dcd47",
+      "boxes": 1,
+      "label_sha256": "96d583064e88c2bfc41bac5fcd8584a0f5431488bb2b2414c844d8d04b561923"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Warping_Image_20231228143327496.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Warping_Image_20231228143327496.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "9a3a9acd4c3b0f832dd8340dfed0d0420117a315e877585cb264e97a59f1a442",
+      "image_sha256": "014338a5f9f92acb75cc267e69a99e3bdc1bf7ee04349c03a8b8870e5e346fd7",
+      "boxes": 2,
+      "label_sha256": "cd9d8de6a4991872800e3b7b0de6246786d98fbeca67873f230e0d4c660f2138"
+    },
+    {
+      "split": "val",
+      "image": "images/val/Warping_Image_20231228150557453.jpg",
+      "label": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\labels\\val\\Warping_Image_20231228150557453.txt",
+      "errors": [],
+      "size": [
+        3072,
+        2048
+      ],
+      "pixel_sha256": "8e74da70115547ff42487beac4ae7991f56113e8d561877f91f83d75d3649104",
+      "image_sha256": "495d88d582315165dc3e3cc1bed49716fbcaa52793fcdb1be6865f0a8d3c2040",
+      "boxes": 1,
+      "label_sha256": "f28910afa99a56c7c8ddec1dbd0ed246c379d5436ca919e7ca910c6ff1e68a8f"
+    }
+  ],
+  "passed": true,
+  "limitations": "Exact file/pixel duplicates only. Group correctness needs member 3 provenance and human review."
+}

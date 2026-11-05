@@ -1,0 +1,32 @@
+{
+  "preserved_current_run_and_images": true,
+  "moves": [
+    {
+      "source": "D:\\Desktop\\7215\\project\\reports\\DATA_ACCEPTANCE_20261102.md",
+      "destination": "D:\\Desktop\\7215\\project\\reports\\history\\20261102\\DATA_ACCEPTANCE_20261102.md"
+    },
+    {
+      "source": "D:\\Desktop\\7215\\project\\reports\\FILE_ORGANIZATION_20261102.md",
+      "destination": "D:\\Desktop\\7215\\project\\reports\\history\\20261102\\FILE_ORGANIZATION_20261102.md"
+    },
+    {
+      "source": "D:\\Desktop\\7215\\project\\reports\\MESSAGES_TO_TEAM_20261102.md",
+      "destination": "D:\\Desktop\\7215\\project\\reports\\history\\20261102\\MESSAGES_TO_TEAM_20261102.md"
+    },
+    {
+      "source": "D:\\Desktop\\7215\\project\\reports\\SOURCE_COMPARISON_20261102.md",
+      "destination": "D:\\Desktop\\7215\\project\\reports\\history\\20261102\\SOURCE_COMPARISON_20261102.md"
+    },
+    {
+      "source": "D:\\Desktop\\7215\\project\\reports\\WORKFLOW_AND_RESPONSIBILITIES_20261102.md",
+      "destination": "D:\\Desktop\\7215\\project\\reports\\history\\20261102\\WORKFLOW_AND_RESPONSIBILITIES_20261102.md"
+    }
+  ],
+  "removed_generated_slide_temp": [
+    "D:\\Desktop\\7215\\project\\.chart-data-1bGFH7",
+    "D:\\Desktop\\7215\\project\\.chart-data-gm234L",
+    "D:\\Desktop\\7215\\project\\.chart-data-gnayN2",
+    "D:\\Desktop\\7215\\project\\.chart-data-MgoK52",
+    "D:\\Desktop\\7215\\project\\.chart-data-TeySgK"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "status": "completed",
+  "data_yaml": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\dataset_train_only_811\\data.yaml",
+  "split_counts": {
+    "train": 1371,
+    "val": 171,
+    "test": 171
+  },
+  "elapsed_seconds": 216.9
+}

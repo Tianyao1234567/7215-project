@@ -1,0 +1,71 @@
+{
+  "version": "4.3.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "warping",
+      "score": null,
+      "points": [
+        [
+          1986.6060606060605,
+          1464.3030303030305
+        ],
+        [
+          2524.787878787879,
+          1464.3030303030305
+        ],
+        [
+          2524.787878787879,
+          1675.2121212121217
+        ],
+        [
+          1986.6060606060605,
+          1675.2121212121217
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "review_status": "pending",
+      "label": "warping",
+      "score": null,
+      "points": [
+        [
+          711.4545454545456,
+          1432.7878787878788
+        ],
+        [
+          1382.969696969697,
+          1432.7878787878788
+        ],
+        [
+          1382.969696969697,
+          1658.2424242424247
+        ],
+        [
+          711.4545454545456,
+          1658.2424242424247
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Warping_Image_20240117123120002.jpg",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 3072
+}

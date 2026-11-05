@@ -1,0 +1,1 @@
+Engineering fixture. Not a 3D-printing dataset. Never report its metrics as project results.

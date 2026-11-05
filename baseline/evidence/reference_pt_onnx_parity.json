@@ -1,0 +1,26 @@
+[
+  {
+    "pair": "best",
+    "input": "seed42 random tensor, not FDM accuracy evaluation",
+    "shape": [
+      1,
+      9,
+      8400
+    ],
+    "maximum_absolute_difference": 0.000640869140625,
+    "mean_absolute_difference": 6.515566383313853e-06,
+    "allclose_rtol_1e-3_atol_1e-3": true
+  },
+  {
+    "pair": "best_pre",
+    "input": "seed42 random tensor, not FDM accuracy evaluation",
+    "shape": [
+      1,
+      9,
+      8400
+    ],
+    "maximum_absolute_difference": 0.000457763671875,
+    "mean_absolute_difference": 6.47817796561867e-06,
+    "allclose_rtol_1e-3_atol_1e-3": true
+  }
+]

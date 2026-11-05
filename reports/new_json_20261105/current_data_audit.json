@@ -1,0 +1,69 @@
+{
+  "status": "passed",
+  "updated_China": "2026-11-05T21:29:53.574695+08:00",
+  "elapsed_seconds": 20.7,
+  "dataset": "D:\\Desktop\\7215\\project\\datasets\\current",
+  "source": "New member03 train JSON; previous delivered TXT rejected",
+  "images": 1761,
+  "accepted": 1713,
+  "quarantined": 48,
+  "split_counts": {
+    "train": 1371,
+    "val": 171,
+    "test": 171
+  },
+  "class_image_counts": {
+    "val": {
+      "Cracking": 42,
+      "Layer_shifting": 30,
+      "Off_platform": 9,
+      "Stringing": 41,
+      "Warping": 49
+    },
+    "train": {
+      "Cracking": 336,
+      "Layer_shifting": 246,
+      "Off_platform": 70,
+      "Stringing": 327,
+      "Warping": 392
+    },
+    "test": {
+      "Cracking": 42,
+      "Layer_shifting": 31,
+      "Off_platform": 9,
+      "Stringing": 41,
+      "Warping": 48
+    }
+  },
+  "box_counts_by_split": {
+    "val": {
+      "Cracking": 50,
+      "Layer_shifting": 30,
+      "Off_platform": 9,
+      "Stringing": 48,
+      "Warping": 92
+    },
+    "train": {
+      "Cracking": 426,
+      "Layer_shifting": 246,
+      "Off_platform": 70,
+      "Stringing": 365,
+      "Warping": 709
+    },
+    "test": {
+      "Cracking": 51,
+      "Layer_shifting": 31,
+      "Off_platform": 9,
+      "Stringing": 43,
+      "Warping": 87
+    }
+  },
+  "frozen_manifest_semantic_sha256": "ec8385ce1b86748b7a49268f160084609d4ffa1ce5f275d83711be8569afca2c",
+  "frozen_manifest_file_sha256": "ced1c4f7741e07be5bee21565d90fad6ffada852d0fc4a60843f19eea9124fab",
+  "test_used_for_training_or_selection": false,
+  "old_val_used": false,
+  "inferred_family_no_overlap": true,
+  "decoded_pixel_no_overlap": true,
+  "limitation": "Filename grouping does not establish independent print-process generalization. Historical complete image decoding reused only after source byte hashes match; JSON and YOLO conversion rechecked for all 1761 images.",
+  "sampled_visual_review": "10 train/validation images, two requested for each class; checked box placement and class mapping. This does not establish complete semantic annotation accuracy."
+}

@@ -1,0 +1,20 @@
+{
+  "new_archive": "yolo.zip",
+  "comparison": "old four ZIP parts after removing only top-level folder name",
+  "total_old_files": 4763,
+  "same_files": 4763,
+  "changed": [],
+  "new_paths": [],
+  "missing_paths": [],
+  "example_labels": [
+    {
+      "file": "yolo/labels/train/Cracking_Image_20231130103801735_aug.txt",
+      "text": "0 0.557127 0.564287 0.094341 0.046539\r\n0 0.302929 0.809764 0.153457 0.062527\r\n"
+    },
+    {
+      "file": "yolo/labels/val/Cracking_Image_20231130103801735_aug.txt",
+      "text": "1 0.430309 0.650064 0.433511 0.101323\r\n"
+    }
+  ],
+  "all_files_identical": true
+}

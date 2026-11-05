@@ -1,0 +1,71 @@
+{
+  "train": {
+    "mode": "read_only",
+    "deleted": 0,
+    "modified": 0,
+    "items": [
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_0.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_0.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      },
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_1.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_1.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      },
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_2.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_2.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      },
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_3.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_3.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      }
+    ]
+  },
+  "val": {
+    "mode": "read_only",
+    "deleted": 0,
+    "modified": 0,
+    "items": [
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_0.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_0.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      },
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_1.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_1.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      }
+    ]
+  },
+  "test": {
+    "mode": "read_only",
+    "deleted": 0,
+    "modified": 0,
+    "items": [
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\test\\synthetic_0.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_0.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      },
+      {
+        "image": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\test\\synthetic_1.png",
+        "label": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_1.txt",
+        "errors": [],
+        "status": "valid_annotation"
+      }
+    ]
+  }
+}

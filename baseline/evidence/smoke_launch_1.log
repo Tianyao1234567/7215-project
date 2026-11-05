@@ -1,0 +1,67 @@
+
+Traceback (most recent call last):
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\train_baseline.py", line 64, in run
+    from ultralytics import YOLO
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\__init__.py", line 11, in <module>
+    from ultralytics.data.explorer.explorer import Explorer
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\data\__init__.py", line 3, in <module>
+    from .base import BaseDataset
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\data\base.py", line 17, in <module>
+    from ultralytics.data.utils import FORMATS_HELP_MSG, HELP_URL, IMG_FORMATS
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\data\utils.py", line 19, in <module>
+    from ultralytics.nn.autobackend import check_class_names
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\__init__.py", line 3, in <module>
+    from .tasks import (
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\tasks.py", line 12, in <module>
+    from ultralytics.nn.modules import (
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\modules\__init__.py", line 20, in <module>
+    from .block import (
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\modules\block.py", line 8, in <module>
+    from ultralytics.utils.torch_utils import fuse_conv_and_bn
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\utils\__init__.py", line 803, in <module>
+    USER_CONFIG_DIR = Path(os.getenv("YOLO_CONFIG_DIR") or get_user_config_dir())  # Ultralytics settings dir
+                                                           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\utils\__init__.py", line 769, in get_user_config_dir
+    path = Path.home() / "AppData" / "Roaming" / sub_dir
+           ^^^^^^^^^^^
+  File "C:\Users\Z1234\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 914, in home
+    return cls("~").expanduser()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Z1234\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 1385, in expanduser
+    raise RuntimeError("Could not determine home directory.")
+RuntimeError: Could not determine home directory.
+Traceback (most recent call last):
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\train_baseline.py", line 167, in <module>
+    main()
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\train_baseline.py", line 164, in main
+    run(a.config,a.data,a.mode,a.groups,a.device)
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\IDAT7215_Baseline\train_baseline.py", line 64, in run
+    from ultralytics import YOLO
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\__init__.py", line 11, in <module>
+    from ultralytics.data.explorer.explorer import Explorer
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\data\__init__.py", line 3, in <module>
+    from .base import BaseDataset
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\data\base.py", line 17, in <module>
+    from ultralytics.data.utils import FORMATS_HELP_MSG, HELP_URL, IMG_FORMATS
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\data\utils.py", line 19, in <module>
+    from ultralytics.nn.autobackend import check_class_names
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\__init__.py", line 3, in <module>
+    from .tasks import (
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\tasks.py", line 12, in <module>
+    from ultralytics.nn.modules import (
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\modules\__init__.py", line 20, in <module>
+    from .block import (
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\nn\modules\block.py", line 8, in <module>
+    from ultralytics.utils.torch_utils import fuse_conv_and_bn
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\utils\__init__.py", line 803, in <module>
+    USER_CONFIG_DIR = Path(os.getenv("YOLO_CONFIG_DIR") or get_user_config_dir())  # Ultralytics settings dir
+                                                           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\utils\__init__.py", line 769, in get_user_config_dir
+    path = Path.home() / "AppData" / "Roaming" / sub_dir
+           ^^^^^^^^^^^
+  File "C:\Users\Z1234\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 914, in home
+    return cls("~").expanduser()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Z1234\AppData\Roaming\uv\python\cpython-3.11-windows-x86_64-none\Lib\pathlib.py", line 1385, in expanduser
+    raise RuntimeError("Could not determine home directory.")
+RuntimeError: Could not determine home directory.

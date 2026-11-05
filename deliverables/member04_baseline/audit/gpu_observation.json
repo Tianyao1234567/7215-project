@@ -1,0 +1,32 @@
+{
+  "observed_China": "2026-11-05T21:55:49+08:00",
+  "power_measured": false,
+  "training_state": {
+    "status": "training",
+    "pid": 9084,
+    "run_id": "yolov8n_newjson_from_official_20261105_213549",
+    "run_directory": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549",
+    "started_China": "2026-11-05T21:35:51+08:00",
+    "updated_China": "2026-11-05T21:55:39+08:00",
+    "elapsed_seconds": 1188.85,
+    "completed_epochs": 61,
+    "total_epochs": 100,
+    "log": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549\\training.log",
+    "last_epoch_seconds": 18.76451086997986,
+    "estimated_remaining_training_seconds": 732.7,
+    "metrics": {
+      "metrics/precision(B)": 0.90159,
+      "metrics/recall(B)": 0.92747,
+      "metrics/mAP50(B)": 0.94262,
+      "metrics/mAP50-95(B)": 0.55683,
+      "val/box_loss": 1.43321,
+      "val/cls_loss": 0.70015,
+      "val/dfl_loss": 1.42005
+    },
+    "cuda_peak_allocated_bytes": 1943910912
+  },
+  "nvidia_smi_executable": "C:\\Windows\\system32\\nvidia-smi.EXE",
+  "nvidia_smi_exit": 0,
+  "nvidia_smi_stdout": "NVIDIA GeForce RTX 3080 Laptop GPU, 31, 4327, 57\n",
+  "nvidia_smi_stderr": ""
+}

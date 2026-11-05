@@ -1,0 +1,21 @@
+{
+  "status": "formal_training",
+  "pid": 20824,
+  "updated_China": "2026-11-05T19:42:20+08:00",
+  "elapsed_seconds": 195.4,
+  "completed_epochs": 6,
+  "total_epochs": 100,
+  "best_fitness": 0.32394,
+  "metrics": {
+    "metrics/precision(B)": 0.52976,
+    "metrics/recall(B)": 0.64868,
+    "metrics/mAP50(B)": 0.57527,
+    "metrics/mAP50-95(B)": 0.29601,
+    "val/box_loss": 1.64842,
+    "val/cls_loss": 1.61425,
+    "val/dfl_loss": 1.58219
+  },
+  "run_directory": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\runs\\yolov8n_new_json_baseline",
+  "data_yaml": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\dataset_train_only_811\\data.yaml",
+  "scope": "Progress snapshot when this ZIP was created; not a final result unless status is completed."
+}

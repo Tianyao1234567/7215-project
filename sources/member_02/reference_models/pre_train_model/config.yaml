@@ -1,0 +1,14 @@
+type: yolov8
+name: fdm_defect
+display_name: FDM Defect Detector
+model_path: best.onnx
+confidence_threshold: 0.3
+input_height: 640
+input_width: 640
+nms_threshold: 0.45
+classes:
+  - Cracking
+  - Layer_shifting
+  - Off_platform
+  - Stringing
+  - Warping

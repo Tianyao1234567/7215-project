@@ -1,0 +1,32 @@
+{
+  "logical_bytes": 31710720964,
+  "bytes_by_top_directory": {
+    "[root]": 12155,
+    ".runtime": 56775731,
+    "baseline": 91217234,
+    "datasets": 7893783547,
+    "deliverables": 42335826,
+    "diagnostics": 7774825,
+    "environment": 200923170,
+    "new": 7794500366,
+    "reports": 1381303,
+    "sources": 7831846371,
+    "yolo": 7790170436
+  },
+  "files_by_top_directory": {
+    "[root]": 3,
+    ".runtime": 10,
+    "baseline": 309,
+    "datasets": 4829,
+    "deliverables": 2,
+    "diagnostics": 80,
+    "environment": 3395,
+    "new": 10,
+    "reports": 13,
+    "sources": 7167,
+    "yolo": 4763
+  },
+  "reparse_paths_skipped": [],
+  "disk_free_bytes": 330827321344,
+  "note": "Logical file lengths; hardlinked directory entries can count the same disk allocation more than once."
+}

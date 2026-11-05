@@ -1,0 +1,44 @@
+{
+  "scope": "D:\\Desktop\\7215\\project",
+  "active_project": "D:\\Desktop\\7215\\project\\baseline",
+  "migration_files_verified": 214,
+  "source_preserved": true,
+  "original_jupyter_packages_unchanged": true,
+  "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+  "vram_mib": 8192,
+  "python": "3.10.11",
+  "torch": "2.0.1+cu117",
+  "torchvision": "0.15.2+cu117",
+  "ultralytics": "8.2.103",
+  "numpy": "1.26.4",
+  "gpu_math_and_backward": true,
+  "cuda_nms": true,
+  "tests_passed": 13,
+  "launcher_check_passed": true,
+  "run_status": {
+    "run_id": "smoke_20261101T082115_071946Z",
+    "mode": "smoke",
+    "status": "completed",
+    "config": "D:\\Desktop\\7215\\project\\baseline\\configs\\smoke.gpu.yaml",
+    "is_formal_result": false,
+    "dataset_sha256": "e3090aea7bdea275abdbccec94dc0993641d61f963c2711aa5986329398a214d",
+    "fit_directory": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T082115_071946Z\\fit",
+    "prediction_count": 0
+  },
+  "weights": [
+    {
+      "file": "best.pt",
+      "bytes": 6200952,
+      "sha256": "822cb7244853ffdac6b9a8e2b9974df66c304f4a04c40b7690785630c39bdc0b"
+    },
+    {
+      "file": "last.pt",
+      "bytes": 6200952,
+      "sha256": "e7a913284ded3e390bb6e8d7f7c28487947c94fb8989dc1836b98b4601a54269"
+    }
+  ],
+  "validation_metrics_exists": true,
+  "prediction_output_exists": true,
+  "formal_fdm_training_completed": false,
+  "real_fdm_dataset_received": false
+}

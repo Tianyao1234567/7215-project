@@ -1,0 +1,72 @@
+{
+  "version": "4.3.0",
+  "flags": {},
+  "checked": false,
+  "shapes": [
+    {
+      "review_status": "pending",
+      "label": "Cracking",
+      "score": null,
+      "points": [
+        [
+          626.6060606060609,
+          1541.8787878787878
+        ],
+        [
+          1324.787878787879,
+          1541.8787878787878
+        ],
+        [
+          1324.787878787879,
+          1738.2424242424247
+        ],
+        [
+          626.6060606060609,
+          1738.2424242424247
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "review_status": "pending",
+      "label": "Cracking",
+      "score": null,
+      "points": [
+        [
+          1475.0909090909095,
+          1095.818181818182
+        ],
+        [
+          1967.2121212121215,
+          1095.818181818182
+        ],
+        [
+          1967.2121212121215,
+          1214.6060606060607
+        ],
+        [
+          1475.0909090909095,
+          1214.6060606060607
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Cracking_Image_20231130103301714_original.jpg",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 3072,
+  "description": ""
+}

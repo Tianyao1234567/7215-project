@@ -1,0 +1,16 @@
+{
+  "run_id": "smoke_20261101T064554_746086Z",
+  "mode": "smoke",
+  "best": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\weights\\best.pt",
+  "last": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\weights\\last.pt",
+  "best_sha256": "a6c8a6dcaddce1c70fbb5e7da22b0d58216272c2a46b275a5eb9d41bc01d1171",
+  "last_sha256": "1f4d918e8d78377431cffab07bee3c49b8e24e83de870ccb1ca45cf84618e000",
+  "names": [
+    "synthetic_rectangle"
+  ],
+  "dataset_sha256": "e3090aea7bdea275abdbccec94dc0993641d61f963c2711aa5986329398a214d",
+  "test_used_for_training_or_selection": false,
+  "predict_sample": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_0.png",
+  "validation_metrics": "validation_metrics.json",
+  "upstream_data_yaml": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\data.yaml"
+}

@@ -1,0 +1,10 @@
+{
+  "run_id": "smoke_20261101T064847_476629Z",
+  "mode": "smoke",
+  "status": "completed",
+  "config": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\smoke.official.yaml",
+  "is_formal_result": false,
+  "dataset_sha256": "e3090aea7bdea275abdbccec94dc0993641d61f963c2711aa5986329398a214d",
+  "fit_directory": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit",
+  "prediction_count": 0
+}

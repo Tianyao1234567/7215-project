@@ -1,0 +1,96 @@
+{
+  "run_id": "yolov8n_newjson_from_official_20261105_213549",
+  "evaluated_China": "2026-11-05T22:08:54+08:00",
+  "weights": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549\\weights\\best.pt",
+  "weights_sha256": "4f9880d748b3cf303c23cf2840e23bb788ec8f89f31ebb26e95ee7ed323d347d",
+  "data": "D:\\Desktop\\7215\\project\\datasets\\current\\data.yaml",
+  "split": "val",
+  "images": 171,
+  "observed_dataset_counts": {
+    "images": 171,
+    "objects_per_class": [
+      50,
+      30,
+      9,
+      48,
+      92
+    ],
+    "images_per_class": [
+      42,
+      30,
+      9,
+      41,
+      49
+    ]
+  },
+  "settings": {
+    "imgsz": 640,
+    "batch": 16,
+    "device": 0,
+    "workers": 0,
+    "confidence_for_AP": 0.001,
+    "NMS_iou": 0.7,
+    "max_det": 300,
+    "half": false
+  },
+  "overall": {
+    "metrics/precision(B)": 0.9321617815763465,
+    "metrics/recall(B)": 0.9404915499674376,
+    "metrics/mAP50(B)": 0.9546503929469721,
+    "metrics/mAP50-95(B)": 0.6003364119035427,
+    "fitness": 0.6357678100078856
+  },
+  "per_class": [
+    {
+      "class_id": 0,
+      "name": "Cracking",
+      "precision": 1.0,
+      "recall": 0.9694487886412279,
+      "mAP50": 0.995,
+      "mAP50_95": 0.6808886259916886
+    },
+    {
+      "class_id": 1,
+      "name": "Layer_shifting",
+      "precision": 0.9655227470165764,
+      "recall": 1.0,
+      "mAP50": 0.9930645161290321,
+      "mAP50_95": 0.6986567574859524
+    },
+    {
+      "class_id": 2,
+      "name": "Off_platform",
+      "precision": 0.7903819854759071,
+      "recall": 0.8407988162684243,
+      "mAP50": 0.8598269230769232,
+      "mAP50_95": 0.44000027066456704
+    },
+    {
+      "class_id": 3,
+      "name": "Stringing",
+      "precision": 0.9572340514035621,
+      "recall": 0.9791666666666666,
+      "mAP50": 0.9699666666666663,
+      "mAP50_95": 0.7704570388616546
+    },
+    {
+      "class_id": 4,
+      "name": "Warping",
+      "precision": 0.9476701239856867,
+      "recall": 0.9130434782608695,
+      "mAP50": 0.9553938588622385,
+      "mAP50_95": 0.4116793665138512
+    }
+  ],
+  "speed_ms_from_validator": {
+    "preprocess": 0.3036894993475306,
+    "inference": 4.092636164168865,
+    "loss": 0.0,
+    "postprocess": 0.5449300620988098
+  },
+  "speed_limitation": "Validator timing only; not member 06 unified batch-one synchronized deployment benchmarking.",
+  "precision_recall_definition": "Ultralytics detection metrics select the maximum mean F1 operating point from validation curves; AP integrates the confidence curve.",
+  "manifest_semantic_sha256": "ec8385ce1b86748b7a49268f160084609d4ffa1ce5f275d83711be8569afca2c",
+  "plots_directory": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549\\independent_validation",
+  "test_used": false
+}

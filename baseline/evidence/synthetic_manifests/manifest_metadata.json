@@ -1,0 +1,17 @@
+{
+  "purpose": "inventory_only_not_data_splitting",
+  "splits": {
+    "train": {
+      "images": 4,
+      "manifest_sha256": "e3b229f988c5a3a209ef9dcaa40ce8c7180b22074cadfc8a42321caa4350af5e"
+    },
+    "val": {
+      "images": 2,
+      "manifest_sha256": "8133087cad22a0f59a66678e3b06e5140bd8a8fbde8d1bc29d4b59e7ea595153"
+    },
+    "test": {
+      "images": 2,
+      "manifest_sha256": "73e82f59cda9490f423e250a9d0c890d4f1f80735e10166e0e65f20955020911"
+    }
+  }
+}

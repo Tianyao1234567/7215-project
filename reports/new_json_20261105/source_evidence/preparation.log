@@ -1,0 +1,85 @@
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 28.0, "checked": 250, "total": 1761}
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 56.0, "checked": 500, "total": 1761}
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 83.1, "checked": 750, "total": 1761}
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 111.3, "checked": 1000, "total": 1761}
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 141.0, "checked": 1250, "total": 1761}
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 168.9, "checked": 1500, "total": 1761}
+{"status": "running", "phase": "audit_images_and_json", "elapsed_seconds": 196.4, "checked": 1750, "total": 1761}
+{"status": "running", "phase": "group_and_freeze", "elapsed_seconds": 197.6, "checked": 1761}
+{"status": "running", "phase": "completed", "elapsed_seconds": 216.9, "split_counts": {"train": 1371, "val": 171, "test": 171}, "accepted_images": 1713}
+{
+  "status": "prepared",
+  "train_images_received": 1761,
+  "json_files": 1761,
+  "json_boxes_per_class": {
+    "Cracking": 542,
+    "Layer_shifting": 322,
+    "Off_platform": 88,
+    "Stringing": 474,
+    "Warping": 912
+  },
+  "new_delivery_comparison": {
+    "old_labels_train_matches_json": 0,
+    "extra_export_matches_json": 429,
+    "extra_export_empty": 1332,
+    "new_json_differs_from_version_1": 1761,
+    "old_txt_unchanged_vs_version_1": 1761,
+    "photo_unchanged_vs_version_1": 1761,
+    "new_json_differs_from_version_2": 1761,
+    "old_txt_unchanged_vs_version_2": 1761,
+    "photo_unchanged_vs_version_2": 1761
+  },
+  "unique_decoded_images": 1745,
+  "same_pixel_conflict_groups": 16,
+  "consistent_duplicate_copies_omitted": 0,
+  "conflict_files_excluded": 32,
+  "related_files_excluded": 16,
+  "accepted_images": 1713,
+  "split_counts": {
+    "train": 1371,
+    "val": 171,
+    "test": 171
+  },
+  "seed": 42,
+  "images_per_class": {
+    "train": {
+      "Cracking": 336,
+      "Layer_shifting": 246,
+      "Off_platform": 70,
+      "Stringing": 327,
+      "Warping": 392
+    },
+    "val": {
+      "Cracking": 42,
+      "Layer_shifting": 30,
+      "Off_platform": 9,
+      "Stringing": 41,
+      "Warping": 49
+    },
+    "test": {
+      "Cracking": 42,
+      "Layer_shifting": 31,
+      "Off_platform": 9,
+      "Stringing": 41,
+      "Warping": 48
+    }
+  },
+  "data_yaml": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\dataset_train_only_811\\data.yaml",
+  "manifest_sha256": "ec8385ce1b86748b7a49268f160084609d4ffa1ce5f275d83711be8569afca2c",
+  "validation_from_delivery_used": false,
+  "labels_source": "new per-image JSON; both delivered TXT locations rejected as training source",
+  "group_status": "filename_original_aug_family_inferred_NOT_verified_print_process_ids",
+  "metadata_checked_flags": {
+    "False": 1761
+  },
+  "metadata_review_status": {
+    "pending": 2338
+  },
+  "limitations": [
+    "Machine integrity and sampled visual review do not prove all annotations are semantically correct.",
+    "Filename-family grouping is not a verified independent-print split.",
+    "Metadata checked=false/review_status=pending do not independently prove human review."
+  ],
+  "D_project_modified": false,
+  "formal_training_started": false
+}

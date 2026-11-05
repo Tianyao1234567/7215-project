@@ -1,0 +1,10 @@
+{
+  "pid": 9084,
+  "create_time": 1793885750.9842918,
+  "script": "D:\\Desktop\\7215\\project\\baseline\\train_baseline.py",
+  "command": [
+    "D:\\Desktop\\7215\\project\\baseline\\train_baseline.py",
+    "--run-id",
+    "yolov8n_newjson_from_official_20261105_213549"
+  ]
+}

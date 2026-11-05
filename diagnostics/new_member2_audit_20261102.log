@@ -1,0 +1,42 @@
+{
+  "raw_received": {
+    "path": "datasets/received_20261102/dataset",
+    "expected_files": 4761,
+    "mismatches": [],
+    "verified": true
+  },
+  "new_member2_yolo": {
+    "path": "yolo/yolo",
+    "file_count": 4763,
+    "same_as_member3": 4761,
+    "changed": [],
+    "missing": [],
+    "extra": [
+      "labels/train.cache",
+      "labels/val.cache"
+    ],
+    "images": 2380,
+    "labels": 2380,
+    "model_weights": [],
+    "all_images_labels_yaml_identical": true
+  },
+  "member2_labels": {
+    "archive": "labels(1).zip",
+    "extracted_root": "sources/member_02/labels_received_20261102",
+    "files": 2382,
+    "bbox_labels": 2380,
+    "same_as_member3": 2380,
+    "changed": [],
+    "new_paths": [],
+    "missing_member3_labels": [],
+    "all_bbox_labels_identical": true
+  },
+  "single_yolo_archive_verification": {
+    "files": 4763,
+    "same": 4763,
+    "changed": [],
+    "missing_reference": [],
+    "verified": true
+  },
+  "safe_for_source_archive_cleanup": true
+}

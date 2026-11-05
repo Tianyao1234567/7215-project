@@ -1,0 +1,20 @@
+{
+  "run_id": "smoke_20261101T185410_489568Z",
+  "mode": "smoke",
+  "best": "D:\\Desktop\\7215\\project\\baseline\\runs\\real_smoke_20261102\\smoke_20261101T185410_489568Z\\fit\\weights\\best.pt",
+  "last": "D:\\Desktop\\7215\\project\\baseline\\runs\\real_smoke_20261102\\smoke_20261101T185410_489568Z\\fit\\weights\\last.pt",
+  "best_sha256": "d199e9d967ab95cbc7b93cc99aa9dafe6cf5ffe2fbccf7a3a825c6856300c60e",
+  "last_sha256": "0c3ae8e9ca5e08ae95bf2965695eeea8a935a6b93a78af5451c308b475c27f2f",
+  "names": [
+    "Cracking",
+    "Layer_shifting",
+    "Off_platform",
+    "Stringing",
+    "Warping"
+  ],
+  "dataset_sha256": "84fbf72bf76259e2163424145e9d022396bde906dabd2267afed7cc3dfc0cf52",
+  "test_used_for_training_or_selection": false,
+  "predict_sample": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\images\\val\\Cracking_Image_20240118165325161.jpg",
+  "validation_metrics": "validation_metrics.json",
+  "upstream_data_yaml": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\data.yaml"
+}

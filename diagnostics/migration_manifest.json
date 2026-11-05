@@ -1,0 +1,1297 @@
+{
+  "copiedFiles": 214,
+  "allHashesMatched": true,
+  "sourcePreserved": true,
+  "excluded": [
+    "virtual environments (not portable)",
+    "__pycache__",
+    ".runtime",
+    "*.cache"
+  ],
+  "files": [
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\check_environment.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\check_environment.py",
+      "sha256": "f8f78e9b9ba60b3796fe9b55ac74adb109bfabcfbe1eb45c33dded8a7f9bedf4",
+      "bytes": 415
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\baseline.provisional.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\configs\\baseline.provisional.yaml",
+      "sha256": "db94224b6c03cadc49db782a28ebe8f54072af1ac384e2e9d67bdbbde8054de8",
+      "bytes": 1094
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\classes.reference.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\configs\\classes.reference.json",
+      "sha256": "84fe4fe7c542e789b602045f002ec4fce87bc582b2c02ecfa8e827e877976edb",
+      "bytes": 193
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\data.example.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\configs\\data.example.yaml",
+      "sha256": "2780f558d242e3a719ec7e0934a37a0cc2d3ddf1a3294cf81df946f47ea2246e",
+      "bytes": 299
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\smoke.official.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\configs\\smoke.official.yaml",
+      "sha256": "977e13f2ff26359ba2f954ea52e6150fa9b499cdfc528ee06b72a06aaf6b2f58",
+      "bytes": 929
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\configs\\smoke.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\configs\\smoke.yaml",
+      "sha256": "ed60b3b13538f0c7580fb0be3e657fd8bf5e7f361bdb973db877058a68ed4387",
+      "bytes": 744
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\data_tools\\check_label_fixed.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\data_tools\\check_label_fixed.py",
+      "sha256": "24073826f861ec32dd2f95ce1fdb717273a929271e9db00ff35055a7b78e77bd",
+      "bytes": 1240
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\data_tools\\dataset_audit.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\data_tools\\dataset_audit.py",
+      "sha256": "eae7ad35697521b2420b3cd346519ee0bc13eabc7ae659fa2a571aef7277a600",
+      "bytes": 10621
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\data_tools\\prepare_data_fixed.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\data_tools\\prepare_data_fixed.py",
+      "sha256": "495bdbdb8e5759b96e880047e0b92b72d298d106d3c21c0accb33860637f864e",
+      "bytes": 1474
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\data_tools\\split_manifest_fixed.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\data_tools\\split_manifest_fixed.py",
+      "sha256": "de25fe8a5cbfb3061f1d8829b45d8424a16134cb6dfcf27815151461389af3e1",
+      "bytes": 1295
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\data_tools\\__init__.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\data_tools\\__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\BASELINE_REPORT_DRAFT.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\BASELINE_REPORT_DRAFT.md",
+      "sha256": "bae29de0378dd848781a474a01b0c38ab59f7bfdcfacc5b39b850803f732207e",
+      "bytes": 2801
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\CHANGELOG.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\CHANGELOG.md",
+      "sha256": "c4e94583a8f00878cc0775408c1bda0554cf2d9ad38d524e225a8f1292668631",
+      "bytes": 2687
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\CONTRIBUTION_RECORD.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\CONTRIBUTION_RECORD.md",
+      "sha256": "24e79817034ed3217ef4790eeea51560d1713eb8ca675c25d440648e3672afec",
+      "bytes": 3027
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\FIRST_ROUND_AUDIT.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\FIRST_ROUND_AUDIT.md",
+      "sha256": "535bbb26f0d20e5b408d3adc6f1b37efd4c2e2bd06ccadf20c2056ea8ade5def",
+      "bytes": 11919
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\MESSAGES.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\MESSAGES.md",
+      "sha256": "f45768d534d9f019dc6c80f845c69c66a84d37d1b4ad76ef13d0b82ccc44d979",
+      "bytes": 1811
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\PPT_CONTENT.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\PPT_CONTENT.md",
+      "sha256": "bbed5bc361ef82054983683c29699521408fc9a721d9a5543d70a673e42731a5",
+      "bytes": 1581
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\docs\\THIRD_PARTY_AND_ASSISTANCE.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\docs\\THIRD_PARTY_AND_ASSISTANCE.md",
+      "sha256": "2ef7e168b4409ff8214e8a792006c4fc00fba98c9fe001540a124f591a0e543e",
+      "bytes": 1964
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\environment.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\environment.json",
+      "sha256": "6d57fdaa39f076d3b2b0cc1c773351b8b2091bb295c8d19159907bb2d75caea0",
+      "bytes": 514
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\course_asset_inventory.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\course_asset_inventory.json",
+      "sha256": "0686fe3b4f3fd2440d2ea1ad19343df709310c859f0c571d7a3e7b348e0a0f3d",
+      "bytes": 1975
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\data_tools_tests.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\data_tools_tests.log",
+      "sha256": "d92a26782410a9e4b2fe0f7564ad5b3c691702713ac00d8d376ecb3ea9f0b396",
+      "bytes": 1387
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\environment-tested.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\environment-tested.json",
+      "sha256": "6d57fdaa39f076d3b2b0cc1c773351b8b2091bb295c8d19159907bb2d75caea0",
+      "bytes": 514
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\formal_protocol_guard.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\formal_protocol_guard.log",
+      "sha256": "05a0c91dd0ed3bfc309b4bb666c9f4cb28b802deaabd0d574ebec0999ec215df",
+      "bytes": 763
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\library_asset_inventory.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\library_asset_inventory.json",
+      "sha256": "983637c780f525fd89d978db5c7fbbc32b260c075a8a6358e5580610645038ac",
+      "bytes": 32158
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\official_inference\\detections.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\official_inference\\detections.json",
+      "sha256": "8ad30f1438bc9b909fa934783ec1caaaf136cdfdbdb262a6622882c3f7f76619",
+      "bytes": 3566
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\official_inference\\rendered\\bus.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\official_inference\\rendered\\bus.jpg",
+      "sha256": "d9540241994bf83e97c9de29d61cf7273547d2161d7abcf411388e88a7e96daa",
+      "bytes": 365848
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\official_inference\\rendered\\labels\\bus.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\official_inference\\rendered\\labels\\bus.txt",
+      "sha256": "1d0c3709002e89d0ede8eee1e134eb38fabc359adad5344daeb074ff7d587985",
+      "bytes": 293
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\originals_integrity.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\originals_integrity.json",
+      "sha256": "0621884355463e896cb73bc8a8014f913534dd02407ac8d9c230499b0e7fa724",
+      "bytes": 435
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\predict_interface.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\predict_interface.log",
+      "sha256": "9ff1196900e7e60ddb862e0c6b3091f8f598702b5fcd582207950c2a903e0535",
+      "bytes": 418
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\reference_checkpoint_metadata.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\reference_checkpoint_metadata.json",
+      "sha256": "6c4ba0db0d8994f222999ebd5ba8eee4602a70951363766f5d27a07e9742ca51",
+      "bytes": 150800
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\REFERENCE_ONLY_best_pre_results.csv",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\REFERENCE_ONLY_best_pre_results.csv",
+      "sha256": "e79d336d3a864e9b2fdae749f38a0887b35b17e408ee2b639324dad01923bc3a",
+      "bytes": 12657
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\REFERENCE_ONLY_best_results.csv",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\REFERENCE_ONLY_best_results.csv",
+      "sha256": "32048d92c618859869b59bd49016001bd328fcaa9ad3904506980873fb5aec69",
+      "bytes": 12711
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\reference_pt_onnx_parity.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\reference_pt_onnx_parity.json",
+      "sha256": "d11f01a409da65c4147189d95b00f5e6aaa15769fc0b0960ba687c2cc71622fe",
+      "bytes": 622
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\reference_runtime\\best\\bus.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\reference_runtime\\best\\bus.jpg",
+      "sha256": "f42d15c32aa98e4ed997fdc78f80add49711cb7299155dfdebe00f7a865d4349",
+      "bytes": 342263
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\reference_runtime\\best_pre\\bus.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\reference_runtime\\best_pre\\bus.jpg",
+      "sha256": "26b0ec2433832330b828da66f3b7e382692e319fb4a46191ba572561cfb9dc56",
+      "bytes": 329855
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\reference_runtime\\runtime_checks.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\reference_runtime\\runtime_checks.json",
+      "sha256": "40da12a647b2d9a9d248a0c2ccb16a46d3722c925f409991178c766897c44427",
+      "bytes": 3159
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\reference_runtime.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\reference_runtime.log",
+      "sha256": "d2e675072980b97b328b46fa077b8a4ad95634acd44e86350d1788d02d42dbbd",
+      "bytes": 3282
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\relocation_reproduction.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\relocation_reproduction.log",
+      "sha256": "2aaab4f461a6cb2fba5c25d29cef8501ca7f67f071380391319be1a72085e7c7",
+      "bytes": 12345
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\requirements-tested.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\requirements-tested.txt",
+      "sha256": "17c91cc256e3123253bd4a54900d772ac70b053ce3272d4cd8a640bb749bbd91",
+      "bytes": 836
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\smoke_launch_1.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\smoke_launch_1.log",
+      "sha256": "1d2a13d66c5c40d54fdbcc7537b0d01e5dd007ecd7c5d43765f71247909e9fea",
+      "bytes": 6288
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\smoke_launch_2.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\smoke_launch_2.log",
+      "sha256": "3b66a3e386a73bca64aa553eba5fe201e678ba38eb4a1444b9061b0953244958",
+      "bytes": 11760
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\smoke_launch_3.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\smoke_launch_3.log",
+      "sha256": "222438edfcdc99bbba90dc1ad712b2aa3e2318eb991d38a216abf4add9fc969e",
+      "bytes": 11421
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\smoke_official.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\smoke_official.log",
+      "sha256": "a81ba8418ce7eb181c3a3e8f61d500ecaded611827683be0c4b3ec85d3b3fb7c",
+      "bytes": 11225
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\synthetic_audit.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\synthetic_audit.json",
+      "sha256": "9e6f4d2ec5465fcba16eb2f4e061a99a211ff73c51cdd620a9c4a315ef7364a8",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\synthetic_manifests\\manifest_metadata.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\synthetic_manifests\\manifest_metadata.json",
+      "sha256": "cf353bc078ac46f93047188926e289467ab876ab00d34e749e8cfc3340934afe",
+      "bytes": 482
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\synthetic_manifests\\test_manifest.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\synthetic_manifests\\test_manifest.txt",
+      "sha256": "73e82f59cda9490f423e250a9d0c890d4f1f80735e10166e0e65f20955020911",
+      "bytes": 294
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\synthetic_manifests\\train_manifest.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\synthetic_manifests\\train_manifest.txt",
+      "sha256": "e3b229f988c5a3a209ef9dcaa40ce8c7180b22074cadfc8a42321caa4350af5e",
+      "bytes": 592
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\synthetic_manifests\\val_manifest.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\synthetic_manifests\\val_manifest.txt",
+      "sha256": "8133087cad22a0f59a66678e3b06e5140bd8a8fbde8d1bc29d4b59e7ea595153",
+      "bytes": 292
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\synthetic_preparation.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\synthetic_preparation.json",
+      "sha256": "ac31279b617835a61487329c321f459e0d26518c684abe569736e3133bea4934",
+      "bytes": 3829
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\teaching_archives_inventory.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\teaching_archives_inventory.json",
+      "sha256": "3abc3375f910de7bce5ad9bc8acb8b57248ba2fbd55cfbdf309a7ab4fb44e9bf",
+      "bytes": 37713
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\test_summary.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\test_summary.json",
+      "sha256": "8474b3dd13c32241604774148045b1741f96d139e4225573cd67202740086b58",
+      "bytes": 993
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validate_interface.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validate_interface.log",
+      "sha256": "e29323569d14f7586b17645b0932f8547499caef7a485ac3e4fd09bb17ee79dc",
+      "bytes": 1296
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\data.resolved.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\data.resolved.yaml",
+      "sha256": "6183d35a8cba57103e27a24fe5eb473513a2d24b3123c8d12f6f97db8a86740b",
+      "bytes": 431
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\dataset_audit.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\dataset_audit.json",
+      "sha256": "9e6f4d2ec5465fcba16eb2f4e061a99a211ff73c51cdd620a9c4a315ef7364a8",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\images.txt",
+      "sha256": "a88a2924a4407c24b048f7f612830f5f3ffb198f870ba31b11e6b38132e5b9e2",
+      "bytes": 294
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\metrics\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\metrics\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\metrics\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\metrics\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\metrics\\val_batch0_labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\metrics\\val_batch0_labels.jpg",
+      "sha256": "004b00445edf010cff06cb72bc545ec9ef885abf7f00b1cc5c6d0333f48f94e2",
+      "bytes": 3624
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\metrics\\val_batch0_pred.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\metrics\\val_batch0_pred.jpg",
+      "sha256": "8061f6953b0bd55b34a906f64a0b69288c69b5cc11dacbc2113e458e8f7ccd3a",
+      "bytes": 2663
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\evidence\\validation_cli\\metrics.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\evidence\\validation_cli\\metrics.json",
+      "sha256": "6f000eed3690d8cbd517766d7323c9e632860095920a01ab590106b12faecaa9",
+      "bytes": 142
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\FORMAL_BASELINE_NOT_TRAINED.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\FORMAL_BASELINE_NOT_TRAINED.txt",
+      "sha256": "c786fd026e15e91cb52faea16979c125efa9e7728586fe602e7ba81b8737f42d",
+      "bytes": 229
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\licenses\\ultralytics_LICENSE.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\licenses\\ultralytics_LICENSE.txt",
+      "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+      "bytes": 34523
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\originals\\check_label.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\originals\\check_label.py",
+      "sha256": "2028f62abc70bc939cc84dfd4be8fd7730054cc2036f18bbfe04e9a27551e078",
+      "bytes": 1766
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\originals\\prepare_data.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\originals\\prepare_data.py",
+      "sha256": "0910cbed774b4c4018ac02e17f6adb89a8de1643babdfbfd6e53014f8606c1d3",
+      "bytes": 1241
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\originals\\split_manifest.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\originals\\split_manifest.py",
+      "sha256": "75d6ca32a010bdc6d3755cf17d8aff007809232a43f7fdfad268c52c85af3b9b",
+      "bytes": 900
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\predict_baseline.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\predict_baseline.py",
+      "sha256": "da09d2bef66f925112d8d2ffcc3651f107377a449adc5f4188f3222a8eda646b",
+      "bytes": 1342
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\PROGRESS.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\PROGRESS.md",
+      "sha256": "c7fa87f2f9df09c7d1546222ce096802c3917afcfd85c99f6a957e3dabfe7d74",
+      "bytes": 3867
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\README.md",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\README.md",
+      "sha256": "bf4f474be53a2b3b4237b85ffd50a9c42e985d3ad7979f133a85b9ddf8728301",
+      "bytes": 8776
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\requirements-cpu.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\requirements-cpu.txt",
+      "sha256": "9e1dfca55daceeb2a37b83f6ddd01ff97278b7310397f8b2d6e7d57a5fed6152",
+      "bytes": 53
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\requirements.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\requirements.txt",
+      "sha256": "e2fbb235d0e921a58cffe19202c6d97997a97f923f327b68e0c49e6773d719d4",
+      "bytes": 212
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064531_998501Z\\console.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064531_998501Z\\console.log",
+      "sha256": "ef9dd7526fab4b171b7e1d31da5364d981c310b679ad597273419642ac7265b0",
+      "bytes": 2968
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064531_998501Z\\status.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064531_998501Z\\status.json",
+      "sha256": "c59f0938d0c391d328b70902f7f26563a45f8f461af4e6d1ad5cd7fe719bfc8e",
+      "bytes": 311
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\console.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\console.log",
+      "sha256": "167ec0dc67f637519c032a73ba2d1b39f04e97d76b46cc8b3181488c40ac9ef2",
+      "bytes": 11759
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\data.input.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\data.input.yaml",
+      "sha256": "dddd8c626300d5df062b2aa5003e2d5e994abf259ebd48460591a83beb28cd79",
+      "bytes": 214
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\data.resolved.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\data.resolved.yaml",
+      "sha256": "4bf2f5c2cbddc2f00d5052a1f403e37db62e973bb20b2713431032b23f97afc5",
+      "bytes": 466
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\dataset_audit.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\dataset_audit.json",
+      "sha256": "9e6f4d2ec5465fcba16eb2f4e061a99a211ff73c51cdd620a9c4a315ef7364a8",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\environment.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\environment.json",
+      "sha256": "811966e584d0bd3355f3316b3dacd1c68d0a91671f6ddd69d245eae62f753d45",
+      "bytes": 513
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\args.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\args.yaml",
+      "sha256": "36eb90ec374136956b748b0136382a7eb011f80c9f50bcc66f52333b9668e561",
+      "bytes": 2001
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\labels.jpg",
+      "sha256": "d338d6448e304d7da607dd74d614d047404c080a3a2ce9d09407704e1b81d6f3",
+      "bytes": 77760
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\labels_correlogram.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\labels_correlogram.jpg",
+      "sha256": "20f22a301fef51e76e2296ddcbb1e74618fd3d5123b79c8090eb793016fd9358",
+      "bytes": 134414
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\results.csv",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\results.csv",
+      "sha256": "7853ef2a289894e17d5ad9c999520b1ed4585932c192c76535676fbbfb24816d",
+      "bytes": 674
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\results.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\results.png",
+      "sha256": "b788f1aa4a23f3d9acfdf3814a180caa64fb28c274ce742efe6cddb8981b6312",
+      "bytes": 153883
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\train_batch0.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\train_batch0.jpg",
+      "sha256": "0d7e8f43510d602c06507e601b6190ad088ccf5c7a48aaaff44b8b14d15b0f53",
+      "bytes": 3397
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\train_batch1.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\train_batch1.jpg",
+      "sha256": "10f05ed69595272625931c7095cd01dce21d9bf89e359ce838173f1b17a3e192",
+      "bytes": 3316
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\val_batch0_labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\val_batch0_labels.jpg",
+      "sha256": "5f651bca4441df1199ad33d838805684d168078d763a700a44d7fdc3efd028db",
+      "bytes": 5606
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\val_batch0_pred.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\val_batch0_pred.jpg",
+      "sha256": "6298b271fd3efd9365db2e3c8b619db8fabcf7544cc1509c58e93604a7c11261",
+      "bytes": 3198
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\weights\\best.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\weights\\best.pt",
+      "sha256": "a6c8a6dcaddce1c70fbb5e7da22b0d58216272c2a46b275a5eb9d41bc01d1171",
+      "bytes": 6187875
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\weights\\last.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\fit\\weights\\last.pt",
+      "sha256": "1f4d918e8d78377431cffab07bee3c49b8e24e83de870ccb1ca45cf84618e000",
+      "bytes": 6187875
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\handoff.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\handoff.json",
+      "sha256": "38219c0156e5191f56fff7592180cd853070c8ac48980981beacb3b9682e755d",
+      "bytes": 1175
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\initialization.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\initialization.json",
+      "sha256": "01d98d965ab67f6533c976c64c7cb5be7e18bd827f21926888a1e5ad4a93bc0a",
+      "bytes": 130
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\prediction\\synthetic_0.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\prediction\\synthetic_0.png",
+      "sha256": "7f193a1fe47803dc4750e06f924a1341d78d9c13dd8a7a5b7d8b9557860d27ac",
+      "bytes": 499
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\prediction.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\prediction.json",
+      "sha256": "53472834d747a468befaf97a762d34f17c5bedeb565cb9d02af2f29e2067467d",
+      "bytes": 235
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\requested_config.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\requested_config.json",
+      "sha256": "e5f3ec2494d8cf69f6fa3ac73fcc98171184026e73ef07084876609d7435988a",
+      "bytes": 973
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\requirements-lock.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\requirements-lock.txt",
+      "sha256": "17c91cc256e3123253bd4a54900d772ac70b053ce3272d4cd8a640bb749bbd91",
+      "bytes": 836
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\status.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\status.json",
+      "sha256": "713b1cdd6dfe14e02810d110468df2d8fbe3dd41328550d39e4028efde317c3c",
+      "bytes": 544
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\train_images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\train_images.txt",
+      "sha256": "5b544ab46c304b0e4266682010a0cc05cca0ae47c5003e9743a7cf006aadc7d7",
+      "bytes": 596
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\validation\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\validation\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\validation\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\validation\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\validation_metrics.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\validation_metrics.json",
+      "sha256": "6f000eed3690d8cbd517766d7323c9e632860095920a01ab590106b12faecaa9",
+      "bytes": 142
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064554_746086Z\\val_images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064554_746086Z\\val_images.txt",
+      "sha256": "a88a2924a4407c24b048f7f612830f5f3ffb198f870ba31b11e6b38132e5b9e2",
+      "bytes": 294
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\console.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\console.log",
+      "sha256": "daea0611ef9eaf25974810d4754998c8c3630cd4dcd6f19ae72e3a586feab5d9",
+      "bytes": 11420
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\data.input.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\data.input.yaml",
+      "sha256": "dddd8c626300d5df062b2aa5003e2d5e994abf259ebd48460591a83beb28cd79",
+      "bytes": 214
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\data.resolved.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\data.resolved.yaml",
+      "sha256": "d61ee93a0088ec7d9eb2e9fd9feed95c7f22cc5fb1cd8cb52ca4c8e96650d8dc",
+      "bytes": 466
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\dataset_audit.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\dataset_audit.json",
+      "sha256": "9e6f4d2ec5465fcba16eb2f4e061a99a211ff73c51cdd620a9c4a315ef7364a8",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\environment.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\environment.json",
+      "sha256": "811966e584d0bd3355f3316b3dacd1c68d0a91671f6ddd69d245eae62f753d45",
+      "bytes": 513
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\args.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\args.yaml",
+      "sha256": "d623dfa1390ac97166604418b20f02d9da4986b52bc1855291a7e549d67d9e7e",
+      "bytes": 2001
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\labels.jpg",
+      "sha256": "d338d6448e304d7da607dd74d614d047404c080a3a2ce9d09407704e1b81d6f3",
+      "bytes": 77760
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\labels_correlogram.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\labels_correlogram.jpg",
+      "sha256": "20f22a301fef51e76e2296ddcbb1e74618fd3d5123b79c8090eb793016fd9358",
+      "bytes": 134414
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\results.csv",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\results.csv",
+      "sha256": "7853ef2a289894e17d5ad9c999520b1ed4585932c192c76535676fbbfb24816d",
+      "bytes": 674
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\results.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\results.png",
+      "sha256": "b788f1aa4a23f3d9acfdf3814a180caa64fb28c274ce742efe6cddb8981b6312",
+      "bytes": 153883
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\train_batch0.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\train_batch0.jpg",
+      "sha256": "b485a04b8d1610d18aaa4757395d5c75d486e822f66793b225fbd12169d2a6fa",
+      "bytes": 2825
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\train_batch1.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\train_batch1.jpg",
+      "sha256": "29e1643b19db98adbf3d53febc4f5bdf2d89acbc0b23141a327cff87d21fd2f0",
+      "bytes": 2763
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\val_batch0_labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\val_batch0_labels.jpg",
+      "sha256": "004b00445edf010cff06cb72bc545ec9ef885abf7f00b1cc5c6d0333f48f94e2",
+      "bytes": 3624
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\val_batch0_pred.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\val_batch0_pred.jpg",
+      "sha256": "8061f6953b0bd55b34a906f64a0b69288c69b5cc11dacbc2113e458e8f7ccd3a",
+      "bytes": 2663
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\weights\\best.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\weights\\best.pt",
+      "sha256": "accfcf6b083518c7693b36bb6101c15652ceb72aa99eba95af320673565de5ce",
+      "bytes": 6187875
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\weights\\last.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\fit\\weights\\last.pt",
+      "sha256": "f14b7f6afeda71f976eeb80a1090ae0fc7f5829d2fff39c610e6d81733a490b9",
+      "bytes": 6187875
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\handoff.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\handoff.json",
+      "sha256": "b6d08ae877280c89f378896bf2862d3f3f6b1317f1ef0720d81ee2bba93cb6f9",
+      "bytes": 1175
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\initialization.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\initialization.json",
+      "sha256": "01d98d965ab67f6533c976c64c7cb5be7e18bd827f21926888a1e5ad4a93bc0a",
+      "bytes": 130
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\prediction\\synthetic_0.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\prediction\\synthetic_0.png",
+      "sha256": "7f193a1fe47803dc4750e06f924a1341d78d9c13dd8a7a5b7d8b9557860d27ac",
+      "bytes": 499
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\prediction.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\prediction.json",
+      "sha256": "53472834d747a468befaf97a762d34f17c5bedeb565cb9d02af2f29e2067467d",
+      "bytes": 235
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\requested_config.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\requested_config.json",
+      "sha256": "e5f3ec2494d8cf69f6fa3ac73fcc98171184026e73ef07084876609d7435988a",
+      "bytes": 973
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\requirements-lock.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\requirements-lock.txt",
+      "sha256": "17c91cc256e3123253bd4a54900d772ac70b053ce3272d4cd8a640bb749bbd91",
+      "bytes": 836
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\status.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\status.json",
+      "sha256": "da86b488b21d9b17af25c9cddbe84248fc1044f9179e71d9f6e0d1f371c7484d",
+      "bytes": 544
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\train_images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\train_images.txt",
+      "sha256": "5b544ab46c304b0e4266682010a0cc05cca0ae47c5003e9743a7cf006aadc7d7",
+      "bytes": 596
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\val_batch0_labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\val_batch0_labels.jpg",
+      "sha256": "004b00445edf010cff06cb72bc545ec9ef885abf7f00b1cc5c6d0333f48f94e2",
+      "bytes": 3624
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\val_batch0_pred.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\validation\\val_batch0_pred.jpg",
+      "sha256": "8061f6953b0bd55b34a906f64a0b69288c69b5cc11dacbc2113e458e8f7ccd3a",
+      "bytes": 2663
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\validation_metrics.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\validation_metrics.json",
+      "sha256": "6f000eed3690d8cbd517766d7323c9e632860095920a01ab590106b12faecaa9",
+      "bytes": 142
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064724_105886Z\\val_images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064724_105886Z\\val_images.txt",
+      "sha256": "a88a2924a4407c24b048f7f612830f5f3ffb198f870ba31b11e6b38132e5b9e2",
+      "bytes": 294
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\console.log",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\console.log",
+      "sha256": "e667a320b626c030a6a345e1b7608f16fdddcf9f97f25cb036f0cae98497d3c7",
+      "bytes": 11224
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\data.input.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\data.input.yaml",
+      "sha256": "dddd8c626300d5df062b2aa5003e2d5e994abf259ebd48460591a83beb28cd79",
+      "bytes": 214
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\data.resolved.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\data.resolved.yaml",
+      "sha256": "46909435c5c7b72db268f1e0ff9959733c0c9026474db4a402131a3131b46863",
+      "bytes": 466
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\dataset_audit.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\dataset_audit.json",
+      "sha256": "9e6f4d2ec5465fcba16eb2f4e061a99a211ff73c51cdd620a9c4a315ef7364a8",
+      "bytes": 6363
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\environment.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\environment.json",
+      "sha256": "811966e584d0bd3355f3316b3dacd1c68d0a91671f6ddd69d245eae62f753d45",
+      "bytes": 513
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\args.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\args.yaml",
+      "sha256": "72ebcb2063a98c7964698f035c202deb464ad898cc43459ee97f14a4595207a2",
+      "bytes": 2000
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\labels.jpg",
+      "sha256": "d338d6448e304d7da607dd74d614d047404c080a3a2ce9d09407704e1b81d6f3",
+      "bytes": 77760
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\labels_correlogram.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\labels_correlogram.jpg",
+      "sha256": "20f22a301fef51e76e2296ddcbb1e74618fd3d5123b79c8090eb793016fd9358",
+      "bytes": 134414
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\results.csv",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\results.csv",
+      "sha256": "3180a8f038f96e8627b8381217b5efe2d33299c15b2acc6df591a211479839df",
+      "bytes": 674
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\results.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\results.png",
+      "sha256": "869b7bc93e9282eaa672297807c11c128dc8bcd90950593a8dc3649c3d919add",
+      "bytes": 153501
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\train_batch0.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\train_batch0.jpg",
+      "sha256": "b485a04b8d1610d18aaa4757395d5c75d486e822f66793b225fbd12169d2a6fa",
+      "bytes": 2825
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\train_batch1.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\train_batch1.jpg",
+      "sha256": "29e1643b19db98adbf3d53febc4f5bdf2d89acbc0b23141a327cff87d21fd2f0",
+      "bytes": 2763
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\val_batch0_labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\val_batch0_labels.jpg",
+      "sha256": "004b00445edf010cff06cb72bc545ec9ef885abf7f00b1cc5c6d0333f48f94e2",
+      "bytes": 3624
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\val_batch0_pred.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\val_batch0_pred.jpg",
+      "sha256": "8061f6953b0bd55b34a906f64a0b69288c69b5cc11dacbc2113e458e8f7ccd3a",
+      "bytes": 2663
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\weights\\best.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\weights\\best.pt",
+      "sha256": "f4d0dc61e45979c83bede3772a23c3982a7102b4c14e62fdd60f4b2da68e6a3f",
+      "bytes": 6187875
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\weights\\last.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\fit\\weights\\last.pt",
+      "sha256": "ff02fb8cacacb4b91e1b34f6a957164d6aba448f1f9d8c2e42a28c85ba4eddb0",
+      "bytes": 6187875
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\handoff.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\handoff.json",
+      "sha256": "4f27c8234758765e8a4fcda345e32f0e1f93044e0ef632deb626d4b1714e8041",
+      "bytes": 1175
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\initialization.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\initialization.json",
+      "sha256": "c461f235714ed077463e2ef1d72fc58752fbb268a2d0c3c312b1f1a281e764af",
+      "bytes": 206
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\prediction\\synthetic_0.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\prediction\\synthetic_0.png",
+      "sha256": "7f193a1fe47803dc4750e06f924a1341d78d9c13dd8a7a5b7d8b9557860d27ac",
+      "bytes": 499
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\prediction.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\prediction.json",
+      "sha256": "53472834d747a468befaf97a762d34f17c5bedeb565cb9d02af2f29e2067467d",
+      "bytes": 235
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\requested_config.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\requested_config.json",
+      "sha256": "2280f75578e0c177f7ff40e1eb02df1a6fe5cf6f14c850692811e85d9e4123d2",
+      "bytes": 1182
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\requirements-lock.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\requirements-lock.txt",
+      "sha256": "17c91cc256e3123253bd4a54900d772ac70b053ce3272d4cd8a640bb749bbd91",
+      "bytes": 836
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\status.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\status.json",
+      "sha256": "1c6417210620f81d8ee04595a11b634e790c50480fa2b3f113cc00efd956e541",
+      "bytes": 553
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\train_images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\train_images.txt",
+      "sha256": "5b544ab46c304b0e4266682010a0cc05cca0ae47c5003e9743a7cf006aadc7d7",
+      "bytes": 596
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\confusion_matrix.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\confusion_matrix.png",
+      "sha256": "5536661d4cf088ef9e2d39b502faa9e143f908a961ae56fc374091465295f9f5",
+      "bytes": 92339
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\confusion_matrix_normalized.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\confusion_matrix_normalized.png",
+      "sha256": "408cbd45d656679ebf6faf93031e780223d36343124d9720934e0727bd31977e",
+      "bytes": 87373
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\val_batch0_labels.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\val_batch0_labels.jpg",
+      "sha256": "004b00445edf010cff06cb72bc545ec9ef885abf7f00b1cc5c6d0333f48f94e2",
+      "bytes": 3624
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\val_batch0_pred.jpg",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\validation\\val_batch0_pred.jpg",
+      "sha256": "8061f6953b0bd55b34a906f64a0b69288c69b5cc11dacbc2113e458e8f7ccd3a",
+      "bytes": 2663
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\validation_metrics.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\validation_metrics.json",
+      "sha256": "6f000eed3690d8cbd517766d7323c9e632860095920a01ab590106b12faecaa9",
+      "bytes": 142
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runs\\smoke_20261101T064847_476629Z\\val_images.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T064847_476629Z\\val_images.txt",
+      "sha256": "a88a2924a4407c24b048f7f612830f5f3ffb198f870ba31b11e6b38132e5b9e2",
+      "bytes": 294
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\runtime_setup.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\runtime_setup.py",
+      "sha256": "5ee34d1cd672d5fd0b42f25c8e3125b009467520acf1a54259f71a8fff79b08c",
+      "bytes": 444
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\data.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\data.yaml",
+      "sha256": "8d0f085675431fff34e45eb253be4a843b38e1a3f351d5fca0c73a6b1623050c",
+      "bytes": 97
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\test\\synthetic_0.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\test\\synthetic_0.png",
+      "sha256": "9e2988c05feb34dbd1a1cb44629532aef3b5720a10a1a34102c16290d39c8f11",
+      "bytes": 209
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\test\\synthetic_1.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\test\\synthetic_1.png",
+      "sha256": "3dd1724c89175115367f88ad8156310d0dc5bd8fb1e70f5fee66056cab427bcb",
+      "bytes": 207
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_0.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_0.png",
+      "sha256": "3c15d6fbdef678d4b56539a906be73368b30f25038b37523a91eed65b6394439",
+      "bytes": 210
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_1.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_1.png",
+      "sha256": "fcba4355333dcdc2c90e6c6eea983bd0527afa58b39bafd7ab6ec44f72ee4164",
+      "bytes": 210
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_2.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_2.png",
+      "sha256": "2a427b779c0f2e528047ca42a32cb5d6ae4a96e50f1892f428ffbe65b55e6e23",
+      "bytes": 209
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_3.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\train\\synthetic_3.png",
+      "sha256": "a6cb2d03309883c8b47394aedce3deeafbc40c0425b663a6d84514c9db850eb6",
+      "bytes": 210
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_0.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_0.png",
+      "sha256": "76805bd8cfc949ec5818a7db28b1cf3281d9f1e4a2604f4620f21ee3cbbb9d52",
+      "bytes": 211
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_1.png",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_1.png",
+      "sha256": "07d815adb99dea7912ee1caa1581a9bcd94a9b63ed90403dba78ea991f07642b",
+      "bytes": 210
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_0.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_0.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_1.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_1.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_0.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_0.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_1.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_1.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_2.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_2.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_3.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_3.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_0.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_0.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_1.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_1.txt",
+      "sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc",
+      "bytes": 19
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\synthetic_fixture\\SYNTHETIC_ONLY.txt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\SYNTHETIC_ONLY.txt",
+      "sha256": "d205406cdf364da909391a83f5d938d69de336bd9edcaae3cfa8ae70fe28fb8b",
+      "bytes": 92
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tests\\test_data_tools.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tests\\test_data_tools.py",
+      "sha256": "fcae7e1475c07f88e93e12f59019f4b9186bde6991a8cc1726cd40abda3a6e94",
+      "bytes": 5239
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tools\\check_reference_parity.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tools\\check_reference_parity.py",
+      "sha256": "0165cc6cdcd2d1e32adb67e8995255f00cdaf0a4f93824b2c9386f21b08686d3",
+      "bytes": 1192
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tools\\check_reference_runtime.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tools\\check_reference_runtime.py",
+      "sha256": "23b16b301b809573f9ca3a738a0c3c7fe74de50e185edfb799bc2c34dfb702bf",
+      "bytes": 2497
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tools\\fetch_official_weights.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tools\\fetch_official_weights.py",
+      "sha256": "44e0c4c19e7a642735433b06b1b323fec3f27995f549093b5a3132cdf04711ba",
+      "bytes": 1299
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tools\\inspect_checkpoint_static.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tools\\inspect_checkpoint_static.py",
+      "sha256": "bce18570ba38a2a1f96139deafcc249d73aab22355dbcd92cf684b01bb417028",
+      "bytes": 2671
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\tools\\make_synthetic_fixture.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\tools\\make_synthetic_fixture.py",
+      "sha256": "a454665d49c00b15fca2ebeaa30a63ecba4b9d9ac6519925936408e7e32e55d2",
+      "bytes": 1389
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\train_baseline.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\train_baseline.py",
+      "sha256": "f3b2bcceea08e226247bc4e3b3046f5155a6d2f8482b0fed663a6192a6d9c51b",
+      "bytes": 10220
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\validate_baseline.py",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\validate_baseline.py",
+      "sha256": "447738b7559ac6aa465b413558baec9c5940cbc988207736309eb7494fdf2d16",
+      "bytes": 1771
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\weights\\yolov8n.pt",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\weights\\yolov8n.pt",
+      "sha256": "f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36",
+      "bytes": 6549796
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\IDAT7215_Baseline\\weights\\yolov8n.source.json",
+      "destination": "D:\\Desktop\\7215\\project\\baseline\\weights\\yolov8n.source.json",
+      "sha256": "67cb0fccdc962eb40d97d756435935c0cd4e17fe05091223b184751b3afccc5b",
+      "bytes": 410
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\check_label(1)(1).py",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\check_label(1)(1).py",
+      "sha256": "2028f62abc70bc939cc84dfd4be8fd7730054cc2036f18bbfe04e9a27551e078",
+      "bytes": 1766
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\IDAT7215 Group Project Guidelines.pdf",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\IDAT7215 Group Project Guidelines.pdf",
+      "sha256": "eba85ff12e37833c924825b5aeaa398bf45c26d9321a2757fe8cebcd5f430890",
+      "bytes": 393707
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\IDAT7215_Topic3_八人分工与交接表(1).pdf",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\IDAT7215_Topic3_八人分工与交接表(1).pdf",
+      "sha256": "b24f080d8251fcb3f8fce227ce8a17c2fca175389020e03e7ea162896dcb9544",
+      "bytes": 259004
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\IMG_9981.png",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\IMG_9981.png",
+      "sha256": "c613b1f68a963cfcecc2894b9934039c1eac0ce7248e36cfa197a4b8b2a0ef05",
+      "bytes": 831242
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\IMG_9982.png",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\IMG_9982.png",
+      "sha256": "2592112dc119c2bd1eba8e8f1819214bde168fdfab888e4d6c5fc8de02db0017",
+      "bytes": 570114
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\IMG_9983.png",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\IMG_9983.png",
+      "sha256": "a8332a55b3bd227cbdd37032eee3cf7b5c1758a100ae9e656c993385c32f46b7",
+      "bytes": 583454
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\List of projects -HKU (IDAT7215).pdf",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\List of projects -HKU (IDAT7215).pdf",
+      "sha256": "c97876ffeb8ab413a5e2e3885ff8d55c2ba21fedadea77bab759059a0b948f37",
+      "bytes": 149912
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\prepare_data(1)(1).py",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\prepare_data(1)(1).py",
+      "sha256": "0910cbed774b4c4018ac02e17f6adb89a8de1643babdfbfd6e53014f8606c1d3",
+      "bytes": 1241
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\pre_train_model(1)(1).zip",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\pre_train_model(1)(1).zip",
+      "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+      "bytes": 33257076
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\inputs\\split_manifest(1)(1).py",
+      "destination": "D:\\Desktop\\7215\\project\\reference_inputs\\split_manifest(1)(1).py",
+      "sha256": "75d6ca32a010bdc6d3755cf17d8aff007809232a43f7fdfad268c52c85af3b9b",
+      "bytes": 900
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\best.onnx",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\best.onnx",
+      "sha256": "0f8774bac2a168bd1acc5290985a1900c176d7e64aeba732cf8e9a49ae91252d",
+      "bytes": 12777098
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\best.pt",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\best.pt",
+      "sha256": "45661e94c0c10fb559151543c6d73e3b95e6cc8d2ddde37e875aa695641cec44",
+      "bytes": 6496298
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\best_pre.onnx",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\best_pre.onnx",
+      "sha256": "3e1cb919f96e1f2904ddf91ddbd1ce1f58b0b4d1fb14d4618dd0df82b0a390e4",
+      "bytes": 12268458
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\best_pre.pt",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\best_pre.pt",
+      "sha256": "9144c04c02444f4b486fdfa0cce1b5ec3b0942f362488461ee7861a804773bf0",
+      "bytes": 6238762
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\config.yaml",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\config.yaml",
+      "sha256": "48cad2a79c3e58b43bb4f38f1bdd758151bf09f072cbc368a7bd6a8aa84f5daf",
+      "bytes": 263
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\label.txt",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\label.txt",
+      "sha256": "8a00c8ad252433874ab2511a2307dfebd3b41125a33f4864ddac83c27e5668aa",
+      "bytes": 58
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\prepare_yolo.py",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\prepare_yolo.py",
+      "sha256": "07a45a539c73d1f7f2d96143ce0c483f9332f8e91f5630abbae3c28f24baac95",
+      "bytes": 2276
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\reference_model\\pre_train_model\\pt2onnx.py",
+      "destination": "D:\\Desktop\\7215\\project\\reference_models\\pre_train_model\\pt2onnx.py",
+      "sha256": "458f2a73537073e9574e064bef19cf6a9bb1fcc8cbc8021f13c31b476185f737",
+      "bytes": 290
+    },
+    {
+      "source": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\output\\IDAT7215_Baseline_First_Round_20261101.zip",
+      "destination": "D:\\Desktop\\7215\\project\\deliverables\\IDAT7215_Baseline_First_Round_20261101.zip",
+      "sha256": "52eb021264f9e2e97d82f60ccb6ae63f9007f3e800dcad3917de1f634420fa57",
+      "bytes": 41737356
+    }
+  ]
+}

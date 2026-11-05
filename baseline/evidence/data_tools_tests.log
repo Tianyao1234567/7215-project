@@ -1,0 +1,18 @@
+test_clean_dataset (test_data_tools.DatasetTests.test_clean_dataset) ... ok
+test_damaged_image (test_data_tools.DatasetTests.test_damaged_image) ... ok
+test_duplicate_leakage (test_data_tools.DatasetTests.test_duplicate_leakage) ... ok
+test_empty_labels_are_preserved (test_data_tools.DatasetTests.test_empty_labels_are_preserved) ... ok
+test_group_leakage_and_missing_mapping (test_data_tools.DatasetTests.test_group_leakage_and_missing_mapping) ... ok
+test_invalid_numeric_and_class_values (test_data_tools.DatasetTests.test_invalid_numeric_and_class_values) ... ok
+test_legacy_single_split_api (test_data_tools.DatasetTests.test_legacy_single_split_api) ... ok
+test_manifest_is_deterministic_and_no_overwrite (test_data_tools.DatasetTests.test_manifest_is_deterministic_and_no_overwrite) ... ok
+test_missing_labels_are_preserved (test_data_tools.DatasetTests.test_missing_labels_are_preserved) ... ok
+test_missing_test (test_data_tools.DatasetTests.test_missing_test) ... ok
+test_shared_label_stems_rejected (test_data_tools.DatasetTests.test_shared_label_stems_rejected) ... ok
+test_valid_edge_and_whitespace (test_data_tools.DatasetTests.test_valid_edge_and_whitespace) ... ok
+test_yaml_manifest_paths (test_data_tools.DatasetTests.test_yaml_manifest_paths) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.586s
+
+OK

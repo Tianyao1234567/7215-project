@@ -1,0 +1,165 @@
+{
+  "schema": 1,
+  "root": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture",
+  "names": [
+    "synthetic_rectangle"
+  ],
+  "counts": {
+    "train": {
+      "images": 4,
+      "negative_images": 0,
+      "boxes_per_class": {
+        "synthetic_rectangle": 4
+      },
+      "images_per_class": {
+        "synthetic_rectangle": 4
+      }
+    },
+    "val": {
+      "images": 2,
+      "negative_images": 0,
+      "boxes_per_class": {
+        "synthetic_rectangle": 2
+      },
+      "images_per_class": {
+        "synthetic_rectangle": 2
+      }
+    },
+    "test": {
+      "images": 2,
+      "negative_images": 0,
+      "boxes_per_class": {
+        "synthetic_rectangle": 2
+      },
+      "images_per_class": {
+        "synthetic_rectangle": 2
+      }
+    }
+  },
+  "errors": [],
+  "warnings": [
+    {
+      "warning": "group_ids_missing_near_duplicates_and_related_frames_NOT_verified"
+    }
+  ],
+  "duplicates": [],
+  "orphan_labels": [],
+  "group_status": "not_verified",
+  "dataset_sha256": "e3090aea7bdea275abdbccec94dc0993641d61f963c2711aa5986329398a214d",
+  "records": [
+    {
+      "split": "train",
+      "image": "images/train/synthetic_0.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_0.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "89f2149c3dffdc4b1709be55d291a0612fc2f1ecce16f453684fc89387d406de",
+      "image_sha256": "3c15d6fbdef678d4b56539a906be73368b30f25038b37523a91eed65b6394439",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "train",
+      "image": "images/train/synthetic_1.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_1.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "b0d4102981a6e012ef299f52dd0d1df18db61cd0c949ed73021a5790573d2da5",
+      "image_sha256": "fcba4355333dcdc2c90e6c6eea983bd0527afa58b39bafd7ab6ec44f72ee4164",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "train",
+      "image": "images/train/synthetic_2.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_2.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "5ded60e9a11797ccfbf2b4d1dd88f296a79c67fab6a166551796cc7b329928e6",
+      "image_sha256": "2a427b779c0f2e528047ca42a32cb5d6ae4a96e50f1892f428ffbe65b55e6e23",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "train",
+      "image": "images/train/synthetic_3.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\train\\synthetic_3.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "ae96f7eba9ca537c8ffb484c4c2e23a5547980929b9d389095b578fa27993a83",
+      "image_sha256": "a6cb2d03309883c8b47394aedce3deeafbc40c0425b663a6d84514c9db850eb6",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "val",
+      "image": "images/val/synthetic_0.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_0.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "bde7c4f176025fb1c6857be513ff53db53db402a8865bc0a4916314f3a6dc82e",
+      "image_sha256": "76805bd8cfc949ec5818a7db28b1cf3281d9f1e4a2604f4620f21ee3cbbb9d52",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "val",
+      "image": "images/val/synthetic_1.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\val\\synthetic_1.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "83bfdd043ae804a2b0ce9fb91a814914a767cd80180e2c8bbf0b680ca3edb4ad",
+      "image_sha256": "07d815adb99dea7912ee1caa1581a9bcd94a9b63ed90403dba78ea991f07642b",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "test",
+      "image": "images/test/synthetic_0.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_0.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "6271ad318ef90cf92cd2d58c7e1e45110434398eb9a21c0c29df41b9c583f417",
+      "image_sha256": "9e2988c05feb34dbd1a1cb44629532aef3b5720a10a1a34102c16290d39c8f11",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    },
+    {
+      "split": "test",
+      "image": "images/test/synthetic_1.png",
+      "label": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\labels\\test\\synthetic_1.txt",
+      "errors": [],
+      "size": [
+        64,
+        64
+      ],
+      "pixel_sha256": "5265a412da15fff0e0a222b80e1000e9bc6ee27fe7c31c18c773841dfb710c92",
+      "image_sha256": "3dd1724c89175115367f88ad8156310d0dc5bd8fb1e70f5fee66056cab427bcb",
+      "boxes": 1,
+      "label_sha256": "a477296740bc93933dff8528df658226e1cbaa3e5b63d60337704b307577e3cc"
+    }
+  ],
+  "passed": true,
+  "limitations": "Exact file/pixel duplicates only. Group correctness needs member 3 provenance and human review."
+}

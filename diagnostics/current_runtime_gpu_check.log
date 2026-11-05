@@ -1,0 +1,26 @@
+{
+  "python": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\venv\\Scripts\\python.exe",
+  "version": "3.11.15 (main, Jun 23 2026, 15:20:37) [MSC v.1944 64 bit (AMD64)]",
+  "prefix": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\venv",
+  "environment": {
+    "CUDA_PATH": null,
+    "CUDA_VISIBLE_DEVICES": null,
+    "NVIDIA_VISIBLE_DEVICES": null,
+    "CONDA_PREFIX": null
+  },
+  "modules": {
+    "torch": true,
+    "ultralytics": true,
+    "ipykernel": false,
+    "jupyter": false
+  },
+  "torch": "2.5.1+cpu",
+  "torch_file": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\venv\\Lib\\site-packages\\torch\\__init__.py",
+  "torch_cuda": null,
+  "cuda_available": false,
+  "device_count": 0,
+  "driver_api_get_version_result": 0,
+  "driver_api_version": 11070,
+  "driver_api_cuInit_result": 0
+}
+

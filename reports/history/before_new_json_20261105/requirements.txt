@@ -1,0 +1,6 @@
+ultralytics==8.2.103
+numpy==1.26.4
+PyYAML==6.0.3
+Pillow>=10.0
+# Install matching torch/torchvision for the target CPU or CUDA environment first.
+# Actual tested full environment: evidence/requirements-tested.txt

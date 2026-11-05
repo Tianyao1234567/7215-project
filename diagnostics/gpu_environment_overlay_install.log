@@ -1,0 +1,24 @@
+Collecting numpy==1.26.4
+  Downloading numpy-1.26.4-cp310-cp310-win_amd64.whl (15.8 MB)
+     --------------------------------------- 15.8/15.8 MB 29.7 MB/s eta 0:00:00
+Collecting ultralytics==8.2.103
+  Downloading ultralytics-8.2.103-py3-none-any.whl (875 kB)
+     ------------------------------------- 875.1/875.1 kB 27.9 MB/s eta 0:00:00
+Collecting opencv-python==4.10.0.84
+  Downloading opencv_python-4.10.0.84-cp37-abi3-win_amd64.whl (38.8 MB)
+     --------------------------------------- 38.8/38.8 MB 54.7 MB/s eta 0:00:00
+Installing collected packages: ultralytics, opencv-python, numpy
+  Attempting uninstall: ultralytics
+    Found existing installation: ultralytics 8.4.10
+    Not uninstalling ultralytics at c:\users\z1234\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\Desktop\7215\project\environment\.venv_gpu
+    Can't uninstall 'ultralytics'. No files were found to uninstall.
+  Attempting uninstall: opencv-python
+    Found existing installation: opencv-python 4.13.0.90
+    Not uninstalling opencv-python at c:\users\z1234\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\Desktop\7215\project\environment\.venv_gpu
+    Can't uninstall 'opencv-python'. No files were found to uninstall.
+  Attempting uninstall: numpy
+    Found existing installation: numpy 2.2.6
+    Not uninstalling numpy at c:\users\z1234\appdata\local\programs\python\python310\lib\site-packages, outside environment D:\Desktop\7215\project\environment\.venv_gpu
+    Can't uninstall 'numpy'. No files were found to uninstall.
+Successfully installed numpy-1.26.4 opencv-python-4.10.0.84 ultralytics-8.2.103
+

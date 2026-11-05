@@ -1,0 +1,5 @@
+train: images/train
+val: images/val
+test: images/test
+nc: 5
+names: ["Cracking", "Layer_shifting", "Off_platform", "Stringing", "Warping"]

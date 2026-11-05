@@ -1,0 +1,13 @@
+{
+  "status": "completed",
+  "pid": 22416,
+  "started": "2026-11-02T09:38:50.519739+00:00",
+  "log": "D:\\Desktop\\7215\\project\\diagnostics\\organization_resume_20261102.log",
+  "command": [
+    "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+    "-B",
+    "D:\\Desktop\\7215\\project\\diagnostics\\organize_sources_20261102.py"
+  ],
+  "exit_code": 0,
+  "ended": "2026-11-02T09:38:51.037967+00:00"
+}

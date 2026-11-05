@@ -1,0 +1,93 @@
+{
+  "started_China": "2026-11-05T21:35:10.0890171+08:00",
+  "status": "completed",
+  "root": "D:\\Desktop\\7215\\project",
+  "free_bytes_before": 330761105408,
+  "preserved": [
+    "datasets/current",
+    "datasets/annotation_source",
+    "datasets/quarantine",
+    "baseline",
+    "environment",
+    "sources/member_02/reference_models",
+    "sources/shared",
+    "reports/new_json_20261105/source_evidence",
+    "C drive historical source unchanged"
+  ],
+  "items": [
+    {
+      "path": "D:\\Desktop\\7215\\project\\yolo",
+      "bytes": 7790170436,
+      "files": 4763,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\datasets\\received_20261102",
+      "bytes": 7789684906,
+      "files": 4761,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102",
+      "bytes": 103020826,
+      "files": 64,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\datasets\\repartition_draft_20261102",
+      "bytes": 1077099,
+      "files": 3,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\datasets\\resource_smoke_20261105",
+      "bytes": 110230833,
+      "files": 63,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\sources\\member_02\\yolo_dataset",
+      "bytes": 7790170436,
+      "files": 4763,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\new\\dataset-20261105T105219Z-1-001.zip",
+      "bytes": 2136684149,
+      "files": 1,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\new\\dataset-20261105T105219Z-1-002.zip",
+      "bytes": 2136764663,
+      "files": 1,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\new\\dataset-20261105T105219Z-1-003.zip",
+      "bytes": 2136458597,
+      "files": 1,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    },
+    {
+      "path": "D:\\Desktop\\7215\\project\\new\\dataset-20261105T105219Z-1-004.zip",
+      "bytes": 1384445612,
+      "files": 1,
+      "status": "deleted",
+      "reason": "Superseded data or source ZIP; current JSON-derived split, all original train JSON, quarantine and source evidence verified and preserved."
+    }
+  ],
+  "completed_China": "2026-11-05T21:35:14.2079696+08:00",
+  "free_bytes_after": 356250636288,
+  "observed_free_bytes_increase": 25489530880,
+  "deleted_logical_bytes": 31378707557.0
+}

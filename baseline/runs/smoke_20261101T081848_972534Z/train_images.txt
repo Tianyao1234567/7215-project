@@ -1,0 +1,4 @@
+D:/Desktop/7215/project/baseline/tests/synthetic_fixture/images/train/synthetic_0.png
+D:/Desktop/7215/project/baseline/tests/synthetic_fixture/images/train/synthetic_1.png
+D:/Desktop/7215/project/baseline/tests/synthetic_fixture/images/train/synthetic_2.png
+D:/Desktop/7215/project/baseline/tests/synthetic_fixture/images/train/synthetic_3.png

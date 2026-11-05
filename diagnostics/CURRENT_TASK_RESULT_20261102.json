@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "data_archives": 4,
+  "images": 2380,
+  "labels": 2380,
+  "basic_image_label_errors": 0,
+  "validation_images_duplicated_in_training": 483,
+  "validation_images_total": 619,
+  "independent_test_available": false,
+  "formal_data_accepted": false,
+  "real_gpu_smoke_status": {
+    "run_id": "smoke_20261101T185410_489568Z",
+    "mode": "smoke",
+    "status": "completed",
+    "config": "D:\\Desktop\\7215\\project\\baseline\\configs\\smoke.real_20261102.yaml",
+    "is_formal_result": false,
+    "dataset_sha256": "84fbf72bf76259e2163424145e9d022396bde906dabd2267afed7cc3dfc0cf52",
+    "fit_directory": "D:\\Desktop\\7215\\project\\baseline\\runs\\real_smoke_20261102\\smoke_20261101T185410_489568Z\\fit",
+    "prediction_count": 0
+  },
+  "best": "D:\\Desktop\\7215\\project\\baseline\\runs\\real_smoke_20261102\\smoke_20261101T185410_489568Z\\fit\\weights\\best.pt",
+  "last": "D:\\Desktop\\7215\\project\\baseline\\runs\\real_smoke_20261102\\smoke_20261101T185410_489568Z\\fit\\weights\\last.pt",
+  "formal_training_started": false,
+  "formal_blockers": [
+    "train/val exact-image leakage",
+    "independent test and verified group split missing",
+    "member1/4/5 shared protocol not recorded"
+  ]
+}

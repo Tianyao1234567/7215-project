@@ -1,0 +1,16 @@
+{
+  "run_id": "smoke_20261101T082115_071946Z",
+  "mode": "smoke",
+  "best": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T082115_071946Z\\fit\\weights\\best.pt",
+  "last": "D:\\Desktop\\7215\\project\\baseline\\runs\\smoke_20261101T082115_071946Z\\fit\\weights\\last.pt",
+  "best_sha256": "822cb7244853ffdac6b9a8e2b9974df66c304f4a04c40b7690785630c39bdc0b",
+  "last_sha256": "e7a913284ded3e390bb6e8d7f7c28487947c94fb8989dc1836b98b4601a54269",
+  "names": [
+    "synthetic_rectangle"
+  ],
+  "dataset_sha256": "e3090aea7bdea275abdbccec94dc0993641d61f963c2711aa5986329398a214d",
+  "test_used_for_training_or_selection": false,
+  "predict_sample": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\images\\val\\synthetic_0.png",
+  "validation_metrics": "validation_metrics.json",
+  "upstream_data_yaml": "D:\\Desktop\\7215\\project\\baseline\\tests\\synthetic_fixture\\data.yaml"
+}

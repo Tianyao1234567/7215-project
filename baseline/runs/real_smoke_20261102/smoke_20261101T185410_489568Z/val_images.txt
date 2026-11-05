@@ -1,0 +1,10 @@
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Cracking_Image_20240118165325161.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Cracking_Image_20240124143628916.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Layer_shifting_Image_20231128170807016_original.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Layer_shifting_Image_20240118160425164.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Off_platform_Image_20240102144050091.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Off_platform_Image_20240102174350105.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Stringing_Image_20231228205219953.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Stringing_Image_20240103174423191.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Warping_Image_20231228143327496.jpg
+D:/Desktop/7215/project/datasets/real_smoke_20261102/images/val/Warping_Image_20231228150557453.jpg

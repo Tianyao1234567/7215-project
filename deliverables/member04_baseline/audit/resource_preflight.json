@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "smoke_run": "D:\\Desktop\\7215\\project\\baseline\\runs\\resource_smoke_20261105_213208",
+  "train_images": 20,
+  "val_images": 10,
+  "epochs": 1,
+  "batch": 16,
+  "workers": 0,
+  "peak_cuda_allocated_bytes": 1853429760,
+  "vram_bytes": 8589410304,
+  "seconds": 30.81668782234192,
+  "reloaded_best_validation": {
+    "metrics/precision(B)": 0.0,
+    "metrics/recall(B)": 0.0,
+    "metrics/mAP50(B)": 0.0,
+    "metrics/mAP50-95(B)": 0.0,
+    "fitness": 0.0
+  },
+  "sample_prediction_boxes": 0,
+  "is_formal_result": false,
+  "environment": {
+    "python": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+    "torch": "2.0.1+cu117",
+    "torchvision": "0.15.2+cu117",
+    "ultralytics": "8.2.103",
+    "opencv": "4.10.0",
+    "numpy": "1.26.4",
+    "cuda_runtime": "11.7",
+    "cuda_available": true,
+    "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+    "vram_bytes": 8589410304,
+    "available_ram_bytes": 19646877696,
+    "settings_and_caches": "D:\\Desktop\\7215\\project\\.runtime\\new_json_baseline"
+  }
+}

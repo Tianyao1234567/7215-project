@@ -1,0 +1,6 @@
+
+image 1/1 C:\Users\Z1234\.codex\.chatgpt-projects\g-p-6aacb7113054819184d6120451354a0c\work\venv\Lib\site-packages\ultralytics\assets\bus.jpg: 640x480 4 persons, 1 bus, 1 stop sign, 109.1ms
+Speed: 4.6ms preprocess, 109.1ms inference, 1.5ms postprocess per image at shape (1, 3, 640, 480)
+Results saved to [1mevidence\official_inference\rendered[0m
+1 label saved to evidence\official_inference\rendered\labels
+

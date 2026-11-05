@@ -1,0 +1,1 @@
+No formal FDM baseline was trained in this session. runs/smoke_* contain synthetic engineering-test weights only. weights/yolov8n.pt is external COCO initialization. Do not submit these as completed 5-class FDM baseline results.

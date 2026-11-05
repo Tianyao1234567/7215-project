@@ -1,0 +1,20 @@
+{
+  "status": "sampled_review_passed",
+  "figure": "ground_truth_review.jpg",
+  "sample_size": 10,
+  "coverage": [
+    "Cracking",
+    "Layer_shifting",
+    "Off_platform",
+    "Stringing",
+    "Warping"
+  ],
+  "observations": [
+    "Converted rectangles align with the visible defect regions in the ten reviewed examples.",
+    "No class-ID mapping or image-scale offset was observed in those samples."
+  ],
+  "limitations": [
+    "This is a sampled visual check, not a manual review of all 1713 accepted images.",
+    "True print-process independence is not established by filename-family grouping."
+  ]
+}

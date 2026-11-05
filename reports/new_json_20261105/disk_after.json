@@ -1,0 +1,38 @@
+{
+  "logical_bytes": 6445803993,
+  "bytes_by_top_directory": {
+    "[root]": 5425,
+    ".chart-data-gm234L": 1322864,
+    ".chart-data-gnayN2": 1322750,
+    ".chart-data-MgoK52": 1322882,
+    ".chart-data-TeySgK": 1322882,
+    ".runtime": 57748251,
+    "baseline": 169245048,
+    "datasets": 5795867165,
+    "deliverables": 139077175,
+    "diagnostics": 22784079,
+    "environment": 200923170,
+    "new": 147645,
+    "reports": 13037137,
+    "sources": 41677520
+  },
+  "files_by_top_directory": {
+    "[root]": 3,
+    ".chart-data-gm234L": 2,
+    ".chart-data-gnayN2": 2,
+    ".chart-data-MgoK52": 2,
+    ".chart-data-TeySgK": 2,
+    ".runtime": 14,
+    "baseline": 401,
+    "datasets": 5339,
+    "deliverables": 1823,
+    "diagnostics": 130,
+    "environment": 3395,
+    "new": 7,
+    "reports": 69,
+    "sources": 2405
+  },
+  "reparse_paths_skipped": [],
+  "disk_free_bytes": 356140953600,
+  "note": "Logical directory entries can count hardlinked bytes more than once; physical disk savings use the observed free-space delta in cleanup_record.json."
+}

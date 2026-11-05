@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Asia/Shanghai",
+  "data_tools_regression_tests": {
+    "passed": 13,
+    "failed": 0
+  },
+  "successful_synthetic_training_runs": [
+    {
+      "run": "smoke_20261101T064554_746086Z",
+      "initialization": "random_architecture_only"
+    },
+    {
+      "run": "smoke_20261101T064724_105886Z",
+      "initialization": "random_architecture_only"
+    },
+    {
+      "run": "smoke_20261101T064847_476629Z",
+      "initialization": "official_coco"
+    }
+  ],
+  "repeat_csv_identical": true,
+  "official_pretrained_smoke": true,
+  "predict_cli_real_coco_image": true,
+  "validate_cli_synthetic": true,
+  "reference_pt_loads": 2,
+  "reference_onnx_forwards": 2,
+  "reference_pt_onnx_pairs_allclose": true,
+  "formal_unagreed_protocol_rejected": true,
+  "actual_fdm_data_received": false,
+  "formal_fdm_training_completed": false,
+  "gpu_training_completed": false,
+  "relocation_reproduction_passed": true,
+  "relocation_log": "relocation_reproduction.log"
+}

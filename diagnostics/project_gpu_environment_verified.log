@@ -1,0 +1,36 @@
+{
+  "python": "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+  "version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+  "prefix": "D:\\Desktop\\7215\\project\\environment\\.venv_gpu",
+  "environment": {
+    "CUDA_PATH": null,
+    "CUDA_VISIBLE_DEVICES": null,
+    "NVIDIA_VISIBLE_DEVICES": null,
+    "CONDA_PREFIX": null
+  },
+  "modules": {
+    "torch": true,
+    "ultralytics": true,
+    "ipykernel": true,
+    "jupyter": true
+  },
+  "torch": "2.0.1+cu117",
+  "torch_file": "C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\torch\\__init__.py",
+  "torch_cuda": "11.7",
+  "cuda_available": true,
+  "device_count": 1,
+  "gpu_name": "NVIDIA GeForce RTX 3080 Laptop GPU",
+  "cuda_forward_backward_passed": true,
+  "device": "cuda:0",
+  "numpy_version": "1.26.4",
+  "torch_numpy_bridge_passed": true,
+  "cuda_nms_indices": [
+    0,
+    2
+  ],
+  "cuda_nms_passed": true,
+  "driver_api_get_version_result": 0,
+  "driver_api_version": 11070,
+  "driver_api_cuInit_result": 0
+}
+

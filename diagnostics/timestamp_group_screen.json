@@ -1,0 +1,216 @@
+{
+  "heuristic": "class_and_capture_date_is_only_a_proxy_not_verified_print_process",
+  "groups": {
+    "Warping_20240117": {
+      "train": 101,
+      "val": 46,
+      "examples": [
+        "Warping_Image_20240117145649524.jpg",
+        "Warping_Image_20240117142819513.jpg"
+      ]
+    },
+    "Warping_20240103": {
+      "train": 35,
+      "val": 16,
+      "examples": [
+        "Warping_Image_20240103115239651.jpg",
+        "Warping_Image_20240103114409655.jpg"
+      ]
+    },
+    "Warping_20240102": {
+      "train": 203,
+      "val": 75,
+      "examples": [
+        "Warping_Image_20240102183120140_original.jpg",
+        "Warping_Image_20240102182850110.jpg"
+      ]
+    },
+    "Warping_20231228": {
+      "train": 162,
+      "val": 62,
+      "examples": [
+        "Warping_Image_20231228161327450.jpg",
+        "Warping_Image_20231228161727456.jpg"
+      ]
+    },
+    "Stringing_20240124": {
+      "train": 34,
+      "val": 14,
+      "examples": [
+        "Stringing_Image_20240124201226875.jpg",
+        "Stringing_Image_20240124200856884.jpg"
+      ]
+    },
+    "Stringing_20240118": {
+      "train": 181,
+      "val": 53,
+      "examples": [
+        "Stringing_Image_20240118125625154.jpg",
+        "Stringing_Image_20240118125855185.jpg"
+      ]
+    },
+    "Stringing_20240103": {
+      "train": 183,
+      "val": 61,
+      "examples": [
+        "Stringing_Image_20240103143216625.jpg",
+        "Stringing_Image_20240103174423191.jpg"
+      ]
+    },
+    "Stringing_20231228": {
+      "train": 23,
+      "val": 9,
+      "examples": [
+        "Stringing_Image_20231228204619983.jpg",
+        "Stringing_Image_20231228204849964.jpg"
+      ]
+    },
+    "Off_platform_20231228": {
+      "train": 22,
+      "val": 8,
+      "examples": [
+        "Off_platform_Image_20231228113232896.jpg",
+        "Off_platform_Image_20231228112832898.jpg"
+      ]
+    },
+    "Off_platform_20240102": {
+      "train": 66,
+      "val": 19,
+      "examples": [
+        "Off_platform_Image_20240102144050091.jpg",
+        "Off_platform_Image_20240102173220114.jpg"
+      ]
+    },
+    "Layer_shifting_20240118": {
+      "train": 122,
+      "val": 30,
+      "examples": [
+        "Layer_shifting_Image_20240118160155140.jpg",
+        "Layer_shifting_Image_20240118155955162.jpg"
+      ]
+    },
+    "Layer_shifting_20231128": {
+      "train": 200,
+      "val": 71,
+      "examples": [
+        "Layer_shifting_Image_20231128181036980_original.jpg",
+        "Layer_shifting_Image_20231128175806980.jpg"
+      ]
+    },
+    "Cracking_20240124": {
+      "train": 94,
+      "val": 32,
+      "examples": [
+        "Cracking_Image_20240124155858913.jpg",
+        "Cracking_Image_20240124160658964.jpg"
+      ]
+    },
+    "Cracking_20240118": {
+      "train": 94,
+      "val": 27,
+      "examples": [
+        "Cracking_Image_20240118180825153.jpg",
+        "Cracking_Image_20240118181425189.jpg"
+      ]
+    },
+    "Cracking_20231130": {
+      "train": 161,
+      "val": 74,
+      "examples": [
+        "Cracking_Image_20231130114701703.jpg",
+        "Cracking_Image_20231130114601740.jpg"
+      ]
+    },
+    "Cracking_20231128": {
+      "train": 80,
+      "val": 22,
+      "examples": [
+        "Cracking_Image_20231128200506977.jpg",
+        "Cracking_Image_20231128195537006.jpg"
+      ]
+    }
+  },
+  "sharedGroups": [
+    {
+      "key": "Warping_20240117",
+      "train": 101,
+      "val": 46
+    },
+    {
+      "key": "Warping_20240103",
+      "train": 35,
+      "val": 16
+    },
+    {
+      "key": "Warping_20240102",
+      "train": 203,
+      "val": 75
+    },
+    {
+      "key": "Warping_20231228",
+      "train": 162,
+      "val": 62
+    },
+    {
+      "key": "Stringing_20240124",
+      "train": 34,
+      "val": 14
+    },
+    {
+      "key": "Stringing_20240118",
+      "train": 181,
+      "val": 53
+    },
+    {
+      "key": "Stringing_20240103",
+      "train": 183,
+      "val": 61
+    },
+    {
+      "key": "Stringing_20231228",
+      "train": 23,
+      "val": 9
+    },
+    {
+      "key": "Off_platform_20231228",
+      "train": 22,
+      "val": 8
+    },
+    {
+      "key": "Off_platform_20240102",
+      "train": 66,
+      "val": 19
+    },
+    {
+      "key": "Layer_shifting_20240118",
+      "train": 122,
+      "val": 30
+    },
+    {
+      "key": "Layer_shifting_20231128",
+      "train": 200,
+      "val": 71
+    },
+    {
+      "key": "Cracking_20240124",
+      "train": 94,
+      "val": 32
+    },
+    {
+      "key": "Cracking_20240118",
+      "train": 94,
+      "val": 27
+    },
+    {
+      "key": "Cracking_20231130",
+      "train": 161,
+      "val": 74
+    },
+    {
+      "key": "Cracking_20231128",
+      "train": 80,
+      "val": 22
+    }
+  ],
+  "nonmatchingExamples": []
+}

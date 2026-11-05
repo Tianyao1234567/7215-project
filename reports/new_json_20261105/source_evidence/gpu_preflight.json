@@ -1,0 +1,17 @@
+{
+  "python": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+  "executable": "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+  "torch": "2.0.1+cu117",
+  "torchvision": "0.15.2+cu117",
+  "ultralytics": "8.2.103",
+  "gpu": "NVIDIA GeForce RTX 3080 Laptop GPU",
+  "vram_GB": 7.99951171875,
+  "cuda": "11.7",
+  "cuda_matmul_finite": true,
+  "cuda_nms": [
+    0
+  ],
+  "initialization_sha256": "f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36",
+  "initialization_local": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\yolov8n.pt",
+  "available_RAM_GB": 20.793216705322266
+}

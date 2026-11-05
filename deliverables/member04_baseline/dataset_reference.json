@@ -1,0 +1,15 @@
+{
+  "dataset_root": "D:\\Desktop\\7215\\project\\datasets\\current",
+  "data_yaml": "D:\\Desktop\\7215\\project\\datasets\\current\\data.yaml",
+  "annotation_source": "D:\\Desktop\\7215\\project\\datasets\\annotation_source\\json",
+  "quarantine": "D:\\Desktop\\7215\\project\\datasets\\quarantine",
+  "split_counts": {
+    "train": 1371,
+    "val": 171,
+    "test": 171
+  },
+  "manifest_csv_sha256": "ced1c4f7741e07be5bee21565d90fad6ffada852d0fc4a60843f19eea9124fab",
+  "manifest_semantic_sha256": "ec8385ce1b86748b7a49268f160084609d4ffa1ce5f275d83711be8569afca2c",
+  "images_included_in_package": false,
+  "instructions": "Images remain in the sole current project dataset. Keep this split unchanged when transferring them. Test is withheld."
+}

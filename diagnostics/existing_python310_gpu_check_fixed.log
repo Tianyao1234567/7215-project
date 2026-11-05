@@ -1,0 +1,43 @@
+{
+  "python": "C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "version": "3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]",
+  "prefix": "C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310",
+  "environment": {
+    "CUDA_PATH": null,
+    "CUDA_VISIBLE_DEVICES": null,
+    "NVIDIA_VISIBLE_DEVICES": null,
+    "CONDA_PREFIX": null
+  },
+  "modules": {
+    "torch": true,
+    "ultralytics": true,
+    "ipykernel": true,
+    "jupyter": true
+  },
+  "torch": "2.0.1+cu117",
+  "torch_file": "C:\\Users\\Z1234\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\torch\\__init__.py",
+  "torch_cuda": "11.7",
+  "cuda_available": true,
+  "device_count": 1,
+  "gpu_name": "NVIDIA GeForce RTX 3080 Laptop GPU",
+  "cuda_forward_backward_passed": true,
+  "device": "cuda:0",
+  "driver_api_get_version_result": 0,
+  "driver_api_version": 11070,
+  "driver_api_cuInit_result": 0
+}
+
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.2.6 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "D:\Desktop\7215\project\diagnostics\check_gpu_environment.py", line 12, in <module>
+    x=torch.randn(256,256,device="cuda",requires_grad=True)
+D:\Desktop\7215\project\diagnostics\check_gpu_environment.py:12: UserWarning: Failed to initialize NumPy: _ARRAY_API not found (Triggered internally at ..\torch\csrc\utils\tensor_numpy.cpp:84.)
+  x=torch.randn(256,256,device="cuda",requires_grad=True)

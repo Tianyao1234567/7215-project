@@ -1,0 +1,52 @@
+[
+  {
+    "stem": "Cracking_Image_20231130102301750_original",
+    "split": "train",
+    "class_requested": "Cracking"
+  },
+  {
+    "stem": "Cracking_Image_20240118181055200",
+    "split": "train",
+    "class_requested": "Cracking"
+  },
+  {
+    "stem": "Layer_shifting_Image_20231128165537001",
+    "split": "train",
+    "class_requested": "Layer_shifting"
+  },
+  {
+    "stem": "Layer_shifting_Image_20240118150425198",
+    "split": "val",
+    "class_requested": "Layer_shifting"
+  },
+  {
+    "stem": "Off_platform_Image_20231228113832874",
+    "split": "train",
+    "class_requested": "Off_platform"
+  },
+  {
+    "stem": "Off_platform_Image_20240102173620100",
+    "split": "val",
+    "class_requested": "Off_platform"
+  },
+  {
+    "stem": "Stringing_Image_20240103135146625",
+    "split": "train",
+    "class_requested": "Stringing"
+  },
+  {
+    "stem": "Stringing_Image_20240118124855157",
+    "split": "train",
+    "class_requested": "Stringing"
+  },
+  {
+    "stem": "Warping_Image_20231228160027490",
+    "split": "train",
+    "class_requested": "Warping"
+  },
+  {
+    "stem": "Warping_Image_20240103113909637",
+    "split": "train",
+    "class_requested": "Warping"
+  }
+]

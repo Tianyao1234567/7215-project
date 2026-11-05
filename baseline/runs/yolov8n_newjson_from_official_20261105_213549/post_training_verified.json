@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "China": "2026-11-05T22:09:17+08:00",
+  "validation_metrics": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549\\independent_validation\\validation_metrics.json",
+  "prediction_analysis": "D:\\Desktop\\7215\\project\\baseline\\runs\\yolov8n_newjson_from_official_20261105_213549\\validation_predictions\\error_analysis.json",
+  "best_reloaded_from_disk": true,
+  "test_used": false
+}

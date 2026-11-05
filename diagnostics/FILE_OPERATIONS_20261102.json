@@ -1,0 +1,389 @@
+[
+  {
+    "time": "2026-11-02T09:35:30.845595+00:00",
+    "action": "organization_started",
+    "audit": "D:\\Desktop\\7215\\project\\diagnostics\\NEW_MEMBER2_COMPARISON_20261102.json"
+  },
+  {
+    "time": "2026-11-02T09:35:30.855897+00:00",
+    "action": "move_planned",
+    "source": "yolo/yolo",
+    "target": "sources/member_02/yolo_dataset"
+  },
+  {
+    "time": "2026-11-02T09:35:30.860917+00:00",
+    "action": "move_completed",
+    "source": "yolo/yolo",
+    "target": "sources/member_02/yolo_dataset"
+  },
+  {
+    "time": "2026-11-02T09:35:30.862925+00:00",
+    "action": "removed_empty_directory",
+    "path": "yolo"
+  },
+  {
+    "time": "2026-11-02T09:35:30.867041+00:00",
+    "action": "move_planned",
+    "source": "reference_models/pre_train_model",
+    "target": "sources/member_02/reference_models/pre_train_model"
+  },
+  {
+    "time": "2026-11-02T09:35:30.868021+00:00",
+    "action": "move_completed",
+    "source": "reference_models/pre_train_model",
+    "target": "sources/member_02/reference_models/pre_train_model"
+  },
+  {
+    "time": "2026-11-02T09:35:30.872534+00:00",
+    "action": "removed_empty_directory",
+    "path": "reference_models"
+  },
+  {
+    "time": "2026-11-02T09:35:30.876048+00:00",
+    "action": "move_planned",
+    "source": "prepare_data(1).py",
+    "target": "sources/member_03/scripts/prepare_data(1).py"
+  },
+  {
+    "time": "2026-11-02T09:35:30.878048+00:00",
+    "action": "move_completed",
+    "source": "prepare_data(1).py",
+    "target": "sources/member_03/scripts/prepare_data(1).py"
+  },
+  {
+    "time": "2026-11-02T09:35:30.899093+00:00",
+    "action": "duplicate_delete_planned",
+    "path": "reference_inputs/prepare_data(1)(1).py",
+    "retained_path": "sources/member_03/scripts/prepare_data(1).py",
+    "sha256": "0910cbed774b4c4018ac02e17f6adb89a8de1643babdfbfd6e53014f8606c1d3",
+    "bytes": 1241
+  },
+  {
+    "time": "2026-11-02T09:35:30.900094+00:00",
+    "action": "duplicate_deleted",
+    "path": "reference_inputs/prepare_data(1)(1).py",
+    "retained_path": "sources/member_03/scripts/prepare_data(1).py",
+    "sha256": "0910cbed774b4c4018ac02e17f6adb89a8de1643babdfbfd6e53014f8606c1d3",
+    "bytes": 1241
+  },
+  {
+    "time": "2026-11-02T09:35:30.903600+00:00",
+    "action": "move_planned",
+    "source": "check_label(1).py",
+    "target": "sources/member_03/scripts/check_label(1).py"
+  },
+  {
+    "time": "2026-11-02T09:35:30.905607+00:00",
+    "action": "move_completed",
+    "source": "check_label(1).py",
+    "target": "sources/member_03/scripts/check_label(1).py"
+  },
+  {
+    "time": "2026-11-02T09:35:30.935706+00:00",
+    "action": "duplicate_delete_planned",
+    "path": "reference_inputs/check_label(1)(1).py",
+    "retained_path": "sources/member_03/scripts/check_label(1).py",
+    "sha256": "2028f62abc70bc939cc84dfd4be8fd7730054cc2036f18bbfe04e9a27551e078",
+    "bytes": 1766
+  },
+  {
+    "time": "2026-11-02T09:35:30.936680+00:00",
+    "action": "duplicate_deleted",
+    "path": "reference_inputs/check_label(1)(1).py",
+    "retained_path": "sources/member_03/scripts/check_label(1).py",
+    "sha256": "2028f62abc70bc939cc84dfd4be8fd7730054cc2036f18bbfe04e9a27551e078",
+    "bytes": 1766
+  },
+  {
+    "time": "2026-11-02T09:35:30.940682+00:00",
+    "action": "move_planned",
+    "source": "split_manifest(1).py",
+    "target": "sources/member_03/scripts/split_manifest(1).py"
+  },
+  {
+    "time": "2026-11-02T09:35:30.942680+00:00",
+    "action": "move_completed",
+    "source": "split_manifest(1).py",
+    "target": "sources/member_03/scripts/split_manifest(1).py"
+  },
+  {
+    "time": "2026-11-02T09:35:30.974852+00:00",
+    "action": "duplicate_delete_planned",
+    "path": "reference_inputs/split_manifest(1)(1).py",
+    "retained_path": "sources/member_03/scripts/split_manifest(1).py",
+    "sha256": "75d6ca32a010bdc6d3755cf17d8aff007809232a43f7fdfad268c52c85af3b9b",
+    "bytes": 900
+  },
+  {
+    "time": "2026-11-02T09:35:30.975859+00:00",
+    "action": "duplicate_deleted",
+    "path": "reference_inputs/split_manifest(1)(1).py",
+    "retained_path": "sources/member_03/scripts/split_manifest(1).py",
+    "sha256": "75d6ca32a010bdc6d3755cf17d8aff007809232a43f7fdfad268c52c85af3b9b",
+    "bytes": 900
+  },
+  {
+    "time": "2026-11-02T09:35:30.981857+00:00",
+    "action": "move_planned",
+    "source": "reference_inputs/IDAT7215 Group Project Guidelines.pdf",
+    "target": "sources/shared/course/Group_Project_Guidelines.pdf"
+  },
+  {
+    "time": "2026-11-02T09:35:30.983857+00:00",
+    "action": "move_completed",
+    "source": "reference_inputs/IDAT7215 Group Project Guidelines.pdf",
+    "target": "sources/shared/course/Group_Project_Guidelines.pdf"
+  },
+  {
+    "time": "2026-11-02T09:35:30.993879+00:00",
+    "action": "move_planned",
+    "source": "reference_inputs/IDAT7215_Topic3_八人分工与交接表(1).pdf",
+    "target": "sources/shared/course/Topic3_Team_Handoff.pdf"
+  },
+  {
+    "time": "2026-11-02T09:35:30.997895+00:00",
+    "action": "move_completed",
+    "source": "reference_inputs/IDAT7215_Topic3_八人分工与交接表(1).pdf",
+    "target": "sources/shared/course/Topic3_Team_Handoff.pdf"
+  },
+  {
+    "time": "2026-11-02T09:35:31.001900+00:00",
+    "action": "move_planned",
+    "source": "reference_inputs/List of projects -HKU (IDAT7215).pdf",
+    "target": "sources/shared/course/Project_Topics.pdf"
+  },
+  {
+    "time": "2026-11-02T09:35:31.003901+00:00",
+    "action": "move_completed",
+    "source": "reference_inputs/List of projects -HKU (IDAT7215).pdf",
+    "target": "sources/shared/course/Project_Topics.pdf"
+  },
+  {
+    "time": "2026-11-02T09:35:31.157621+00:00",
+    "action": "move_planned",
+    "source": "GPU_MIGRATION_STATUS.md",
+    "target": "reports/history/GPU_MIGRATION_STATUS.md"
+  },
+  {
+    "time": "2026-11-02T09:35:31.158622+00:00",
+    "action": "move_completed",
+    "source": "GPU_MIGRATION_STATUS.md",
+    "target": "reports/history/GPU_MIGRATION_STATUS.md"
+  },
+  {
+    "time": "2026-11-02T09:35:31.162622+00:00",
+    "action": "move_planned",
+    "source": "DATA_ACCEPTANCE_20261102.md",
+    "target": "reports/DATA_ACCEPTANCE_20261102.md"
+  },
+  {
+    "time": "2026-11-02T09:35:31.163622+00:00",
+    "action": "move_completed",
+    "source": "DATA_ACCEPTANCE_20261102.md",
+    "target": "reports/DATA_ACCEPTANCE_20261102.md"
+  },
+  {
+    "time": "2026-11-02T09:35:31.167721+00:00",
+    "action": "move_planned",
+    "source": "examples",
+    "target": "reports/examples"
+  },
+  {
+    "time": "2026-11-02T09:35:31.169225+00:00",
+    "action": "move_completed",
+    "source": "examples",
+    "target": "reports/examples"
+  },
+  {
+    "time": "2026-11-02T09:35:31.174800+00:00",
+    "action": "move_planned",
+    "source": "reference_inputs/IMG_9981.png",
+    "target": "sources/shared/chat/IMG_9981.png"
+  },
+  {
+    "time": "2026-11-02T09:35:31.176800+00:00",
+    "action": "move_completed",
+    "source": "reference_inputs/IMG_9981.png",
+    "target": "sources/shared/chat/IMG_9981.png"
+  },
+  {
+    "time": "2026-11-02T09:35:31.183800+00:00",
+    "action": "move_planned",
+    "source": "reference_inputs/IMG_9982.png",
+    "target": "sources/shared/chat/IMG_9982.png"
+  },
+  {
+    "time": "2026-11-02T09:35:31.184898+00:00",
+    "action": "move_completed",
+    "source": "reference_inputs/IMG_9982.png",
+    "target": "sources/shared/chat/IMG_9982.png"
+  },
+  {
+    "time": "2026-11-02T09:35:31.188914+00:00",
+    "action": "move_planned",
+    "source": "reference_inputs/IMG_9983.png",
+    "target": "sources/shared/chat/IMG_9983.png"
+  },
+  {
+    "time": "2026-11-02T09:35:31.190902+00:00",
+    "action": "move_completed",
+    "source": "reference_inputs/IMG_9983.png",
+    "target": "sources/shared/chat/IMG_9983.png"
+  },
+  {
+    "time": "2026-11-02T09:35:33.442009+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "dataset-20261101T184211Z-1-001.zip",
+    "bytes": 2147617512,
+    "sha256": "97138546e1266d521549d12374cdd35140fbb8a8bc5dd7798f3971c5272798b5",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:33.951662+00:00",
+    "action": "verified_archive_deleted",
+    "path": "dataset-20261101T184211Z-1-001.zip",
+    "bytes": 2147617512,
+    "sha256": "97138546e1266d521549d12374cdd35140fbb8a8bc5dd7798f3971c5272798b5",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:36.240087+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "dataset-20261101T184211Z-1-002.zip",
+    "bytes": 2147677066,
+    "sha256": "57db9cce562c733c66419ad2956264a54d315c9abd217496422f44edd3320618",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:36.585300+00:00",
+    "action": "verified_archive_deleted",
+    "path": "dataset-20261101T184211Z-1-002.zip",
+    "bytes": 2147677066,
+    "sha256": "57db9cce562c733c66419ad2956264a54d315c9abd217496422f44edd3320618",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:38.860199+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "dataset-20261101T184211Z-1-003.zip",
+    "bytes": 2147358603,
+    "sha256": "1bf93e91756ebdddaa9c9e6b180f6f91b27a7ea9ccbb78e96f2499d9f04d418e",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:39.123722+00:00",
+    "action": "verified_archive_deleted",
+    "path": "dataset-20261101T184211Z-1-003.zip",
+    "bytes": 2147358603,
+    "sha256": "1bf93e91756ebdddaa9c9e6b180f6f91b27a7ea9ccbb78e96f2499d9f04d418e",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:40.545351+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "dataset-20261101T184211Z-1-004.zip",
+    "bytes": 1349790287,
+    "sha256": "022b5c7b56dd1794bc939380849f48f05763c2109bac0620d5bf8aac35a80725",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:40.733738+00:00",
+    "action": "verified_archive_deleted",
+    "path": "dataset-20261101T184211Z-1-004.zip",
+    "bytes": 1349790287,
+    "sha256": "022b5c7b56dd1794bc939380849f48f05763c2109bac0620d5bf8aac35a80725",
+    "type": "member3_dataset_part"
+  },
+  {
+    "time": "2026-11-02T09:35:48.938515+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "yolo.zip",
+    "bytes": 7774344252,
+    "sha256": "afff1cea88f3b5ab2ffbaa47c66a0a3144b41d2d00cc048ca383a410ee478824",
+    "type": "member3_forwarded_yolo_archive"
+  },
+  {
+    "time": "2026-11-02T09:35:49.942459+00:00",
+    "action": "verified_archive_deleted",
+    "path": "yolo.zip",
+    "bytes": 7774344252,
+    "sha256": "afff1cea88f3b5ab2ffbaa47c66a0a3144b41d2d00cc048ca383a410ee478824",
+    "type": "member3_forwarded_yolo_archive"
+  },
+  {
+    "time": "2026-11-02T09:36:06.441797+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "labels(1).zip",
+    "bytes": 732572,
+    "sha256": "edd9959d8615a151fb332a0c6d87f2f0dd049ac5f15b915b9725c01949043b77",
+    "type": "member2_labels"
+  },
+  {
+    "time": "2026-11-02T09:36:06.443783+00:00",
+    "action": "verified_archive_deleted",
+    "path": "labels(1).zip",
+    "bytes": 732572,
+    "sha256": "edd9959d8615a151fb332a0c6d87f2f0dd049ac5f15b915b9725c01949043b77",
+    "type": "member2_labels"
+  },
+  {
+    "time": "2026-11-02T09:36:06.548641+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "pre_train_model(1).zip",
+    "bytes": 33257076,
+    "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+    "type": "member2_reference_models"
+  },
+  {
+    "time": "2026-11-02T09:38:50.731717+00:00",
+    "action": "organization_started",
+    "audit": "D:\\Desktop\\7215\\project\\diagnostics\\NEW_MEMBER2_COMPARISON_20261102.json"
+  },
+  {
+    "time": "2026-11-02T09:38:50.902976+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "pre_train_model(1).zip",
+    "bytes": 33257076,
+    "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+    "type": "member2_reference_models"
+  },
+  {
+    "time": "2026-11-02T09:38:50.903974+00:00",
+    "action": "readonly_attribute_cleared_for_authorized_delete",
+    "path": "pre_train_model(1).zip"
+  },
+  {
+    "time": "2026-11-02T09:38:50.912029+00:00",
+    "action": "verified_archive_deleted",
+    "path": "pre_train_model(1).zip",
+    "bytes": 33257076,
+    "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+    "type": "member2_reference_models"
+  },
+  {
+    "time": "2026-11-02T09:38:51.014630+00:00",
+    "action": "verified_archive_delete_planned",
+    "path": "reference_inputs/pre_train_model(1)(1).zip",
+    "bytes": 33257076,
+    "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+    "type": "member2_reference_models"
+  },
+  {
+    "time": "2026-11-02T09:38:51.021155+00:00",
+    "action": "verified_archive_deleted",
+    "path": "reference_inputs/pre_train_model(1)(1).zip",
+    "bytes": 33257076,
+    "sha256": "74c9cb5bd46b15b8f5451402b885494f4f4d59412eea3853c8f6f67bb1fd0bfd",
+    "type": "member2_reference_models"
+  },
+  {
+    "time": "2026-11-02T09:38:51.023648+00:00",
+    "action": "removed_empty_directory",
+    "path": "reference_inputs"
+  },
+  {
+    "time": "2026-11-02T09:38:51.024655+00:00",
+    "action": "organization_completed",
+    "deleted_archive_bytes": 15634034444
+  }
+]

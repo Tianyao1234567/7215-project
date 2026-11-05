@@ -1,0 +1,1289 @@
+{
+  "status": "prepared",
+  "train_images_received": 1761,
+  "json_files": 1761,
+  "json_boxes_per_class": {
+    "Cracking": 542,
+    "Layer_shifting": 322,
+    "Off_platform": 88,
+    "Stringing": 474,
+    "Warping": 912
+  },
+  "new_delivery_comparison": {
+    "old_labels_train_matches_json": 0,
+    "extra_export_matches_json": 429,
+    "extra_export_empty": 1332,
+    "new_json_differs_from_version_1": 1761,
+    "old_txt_unchanged_vs_version_1": 1761,
+    "photo_unchanged_vs_version_1": 1761,
+    "new_json_differs_from_version_2": 1761,
+    "old_txt_unchanged_vs_version_2": 1761,
+    "photo_unchanged_vs_version_2": 1761
+  },
+  "unique_decoded_images": 1745,
+  "same_pixel_conflict_groups": 16,
+  "consistent_duplicate_copies_omitted": 0,
+  "conflict_files_excluded": 32,
+  "related_files_excluded": 16,
+  "accepted_images": 1713,
+  "split_counts": {
+    "train": 1371,
+    "val": 171,
+    "test": 171
+  },
+  "seed": 42,
+  "images_per_class": {
+    "train": {
+      "Cracking": 336,
+      "Layer_shifting": 246,
+      "Off_platform": 70,
+      "Stringing": 327,
+      "Warping": 392
+    },
+    "val": {
+      "Cracking": 42,
+      "Layer_shifting": 30,
+      "Off_platform": 9,
+      "Stringing": 41,
+      "Warping": 49
+    },
+    "test": {
+      "Cracking": 42,
+      "Layer_shifting": 31,
+      "Off_platform": 9,
+      "Stringing": 41,
+      "Warping": 48
+    }
+  },
+  "data_yaml": "C:\\Users\\Z1234\\.codex\\.chatgpt-projects\\g-p-6aacb7113054819184d6120451354a0c\\work\\new_delivery_20261105_105219\\dataset_train_only_811\\data.yaml",
+  "manifest_sha256": "ec8385ce1b86748b7a49268f160084609d4ffa1ce5f275d83711be8569afca2c",
+  "validation_from_delivery_used": false,
+  "labels_source": "new per-image JSON; both delivered TXT locations rejected as training source",
+  "group_status": "filename_original_aug_family_inferred_NOT_verified_print_process_ids",
+  "metadata_checked_flags": {
+    "False": 1761
+  },
+  "metadata_review_status": {
+    "pending": 2338
+  },
+  "limitations": [
+    "Machine integrity and sampled visual review do not prove all annotations are semantically correct.",
+    "Filename-family grouping is not a verified independent-print split.",
+    "Metadata checked=false/review_status=pending do not independently prove human review."
+  ],
+  "excluded_conflicts": [
+    {
+      "pixel_sha256": "1d217a42ba4df86dfbfd0e0b465397816d550b3aae9ae8fb8ae4bd7a55176af0",
+      "variants": [
+        {
+          "stem": "Cracking_Image_20231128201037000_aug",
+          "image": "images/train/Cracking_Image_20231128201037000_aug.jpg",
+          "json": "images/train/Cracking_Image_20231128201037000_aug.json",
+          "image_sha256": "2b7b6060104c6eb4536674538758fdb0217fc29a93e52ba6205e63eed0042d81",
+          "boxes": [
+            [
+              0,
+              0.2651317866161616,
+              0.767666903409091,
+              0.23595328282828285,
+              0.10771780303030332
+            ]
+          ],
+          "classes": [
+            0
+          ],
+          "family": "Cracking_Image_20231128201037000",
+          "pixel_sha256": "1d217a42ba4df86dfbfd0e0b465397816d550b3aae9ae8fb8ae4bd7a55176af0"
+        },
+        {
+          "stem": "Cracking_Image_20231128201037000_original",
+          "image": "images/train/Cracking_Image_20231128201037000_original.jpg",
+          "json": "images/train/Cracking_Image_20231128201037000_original.json",
+          "image_sha256": "2b7b6060104c6eb4536674538758fdb0217fc29a93e52ba6205e63eed0042d81",
+          "boxes": [
+            [
+              0,
+              0.24777067550505047,
+              0.7735854640151516,
+              0.23437499999999997,
+              0.09824810606060619
+            ]
+          ],
+          "classes": [
+            0
+          ],
+          "family": "Cracking_Image_20231128201037000",
+          "pixel_sha256": "1d217a42ba4df86dfbfd0e0b465397816d550b3aae9ae8fb8ae4bd7a55176af0"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "226bf9d92f360736aad3e5a4935f292459cd394e4b0eebaad8408415695844f8",
+      "variants": [
+        {
+          "stem": "Layer_shifting_Image_20231128160036961_aug",
+          "image": "images/train/Layer_shifting_Image_20231128160036961_aug.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128160036961_aug.json",
+          "image_sha256": "e9d85fe8e8baa75aa909c0f47eeb600499f5d92b78f831c0143f47bcb553492d",
+          "boxes": [
+            [
+              1,
+              0.46991398358585856,
+              0.7854225852272729,
+              0.6392045454545453,
+              0.06747159090909094
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128160036961",
+          "pixel_sha256": "226bf9d92f360736aad3e5a4935f292459cd394e4b0eebaad8408415695844f8"
+        },
+        {
+          "stem": "Layer_shifting_Image_20231128160036961_original",
+          "image": "images/train/Layer_shifting_Image_20231128160036961_original.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128160036961_original.json",
+          "image_sha256": "e9d85fe8e8baa75aa909c0f47eeb600499f5d92b78f831c0143f47bcb553492d",
+          "boxes": [
+            [
+              1,
+              0.4422940340909091,
+              0.7883818655303032,
+              0.6092171717171717,
+              0.08522727272727282
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128160036961",
+          "pixel_sha256": "226bf9d92f360736aad3e5a4935f292459cd394e4b0eebaad8408415695844f8"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "2c3219689e6e1ece9a0d54b84f1806d3eec0f151bd29edaad01f2486689ae04a",
+      "variants": [
+        {
+          "stem": "Stringing_Image_20240103134916647_aug",
+          "image": "images/train/Stringing_Image_20240103134916647_aug.jpg",
+          "json": "images/train/Stringing_Image_20240103134916647_aug.json",
+          "image_sha256": "122bb5827cb57b161464d3fe0acc9af5b21b5b952cc0be516998da40043d5817",
+          "boxes": [
+            [
+              3,
+              0.35114820075757575,
+              0.6836233428030305,
+              0.4142992424242424,
+              0.28764204545454564
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103134916647",
+          "pixel_sha256": "2c3219689e6e1ece9a0d54b84f1806d3eec0f151bd29edaad01f2486689ae04a"
+        },
+        {
+          "stem": "Stringing_Image_20240103134916647_original",
+          "image": "images/train/Stringing_Image_20240103134916647_original.jpg",
+          "json": "images/train/Stringing_Image_20240103134916647_original.json",
+          "image_sha256": "122bb5827cb57b161464d3fe0acc9af5b21b5b952cc0be516998da40043d5817",
+          "boxes": [
+            [
+              3,
+              0.3598287563131313,
+              0.6812559185606062,
+              0.3890467171717172,
+              0.2687026515151517
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103134916647",
+          "pixel_sha256": "2c3219689e6e1ece9a0d54b84f1806d3eec0f151bd29edaad01f2486689ae04a"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "327c2685f28baaf21d8f26774c3edfd27b641cea8f3b58b7d81182e48f5f064d",
+      "variants": [
+        {
+          "stem": "Layer_shifting_Image_20231128171806982_aug",
+          "image": "images/train/Layer_shifting_Image_20231128171806982_aug.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128171806982_aug.json",
+          "image_sha256": "d91c3d09a917c456c4a51920f2e77336d86f188d033f1db59bc187c8226a5a1b",
+          "boxes": [
+            [
+              1,
+              0.4691248421717172,
+              0.7818714488636365,
+              0.47348484848484845,
+              0.12192234848484851
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128171806982",
+          "pixel_sha256": "327c2685f28baaf21d8f26774c3edfd27b641cea8f3b58b7d81182e48f5f064d"
+        },
+        {
+          "stem": "Layer_shifting_Image_20231128171806982_original",
+          "image": "images/train/Layer_shifting_Image_20231128171806982_original.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128171806982_original.json",
+          "image_sha256": "d91c3d09a917c456c4a51920f2e77336d86f188d033f1db59bc187c8226a5a1b",
+          "boxes": [
+            [
+              1,
+              0.4632062815656566,
+              0.7800958806818183,
+              0.472695707070707,
+              0.11600378787878773
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128171806982",
+          "pixel_sha256": "327c2685f28baaf21d8f26774c3edfd27b641cea8f3b58b7d81182e48f5f064d"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "5daccc465be857e0c4835a55977ee0ae23d93eff0315b44e5d5a2b4fe60434db",
+      "variants": [
+        {
+          "stem": "Stringing_Image_20240103121946641_aug",
+          "image": "images/train/Stringing_Image_20240103121946641_aug.jpg",
+          "json": "images/train/Stringing_Image_20240103121946641_aug.json",
+          "image_sha256": "b95a25b60fad38cc2fc6cd2d9ed20a5646c48ec190d4e5d7c35e4f6333e12417",
+          "boxes": [
+            [
+              3,
+              0.450580018939394,
+              0.6907256155303032,
+              0.4427083333333335,
+              0.24029356060606066
+            ],
+            [
+              3,
+              0.7334872159090908,
+              0.7552379261363638,
+              0.0599747474747474,
+              0.08522727272727282
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103121946641",
+          "pixel_sha256": "5daccc465be857e0c4835a55977ee0ae23d93eff0315b44e5d5a2b4fe60434db"
+        },
+        {
+          "stem": "Stringing_Image_20240103121946641_original",
+          "image": "images/train/Stringing_Image_20240103121946641_original.jpg",
+          "json": "images/train/Stringing_Image_20240103121946641_original.json",
+          "image_sha256": "b95a25b60fad38cc2fc6cd2d9ed20a5646c48ec190d4e5d7c35e4f6333e12417",
+          "boxes": [
+            [
+              3,
+              0.7267795138888888,
+              0.7540542140151515,
+              0.0654987373737373,
+              0.08522727272727271
+            ],
+            [
+              3,
+              0.4415048926767677,
+              0.6812559185606061,
+              0.4545454545454546,
+              0.22608901515151514
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103121946641",
+          "pixel_sha256": "5daccc465be857e0c4835a55977ee0ae23d93eff0315b44e5d5a2b4fe60434db"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "609b6c6c238e058526001c41f64ac92b225480e5f84136a0f07e62da0fab5452",
+      "variants": [
+        {
+          "stem": "Warping_Image_20240103114339643_aug",
+          "image": "images/train/Warping_Image_20240103114339643_aug.jpg",
+          "json": "images/train/Warping_Image_20240103114339643_aug.json",
+          "image_sha256": "39322f51fd2d667e50113cd6c8593b56eb673e601884d26c713b4849586d2113",
+          "boxes": [
+            [
+              4,
+              0.6494436553030303,
+              0.8292199337121213,
+              0.11758207070707065,
+              0.06273674242424254
+            ],
+            [
+              4,
+              0.23238241792929296,
+              0.8416489109848486,
+              0.06155303030303039,
+              0.04971590909090906
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240103114339643",
+          "pixel_sha256": "609b6c6c238e058526001c41f64ac92b225480e5f84136a0f07e62da0fab5452"
+        },
+        {
+          "stem": "Warping_Image_20240103114339643_original",
+          "image": "images/train/Warping_Image_20240103114339643_original.jpg",
+          "json": "images/train/Warping_Image_20240103114339643_original.json",
+          "image_sha256": "39322f51fd2d667e50113cd6c8593b56eb673e601884d26c713b4849586d2113",
+          "boxes": [
+            [
+              4,
+              0.22843671085858588,
+              0.8440163352272729,
+              0.07891414141414144,
+              0.05208333333333326
+            ],
+            [
+              4,
+              0.6245857007575758,
+              0.8286280776515154,
+              0.17045454545454541,
+              0.0639204545454547
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240103114339643",
+          "pixel_sha256": "609b6c6c238e058526001c41f64ac92b225480e5f84136a0f07e62da0fab5452"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "7e32ace05c78c038a436c0d48519d31a158f3866664b8372931dbe279e39323f",
+      "variants": [
+        {
+          "stem": "Layer_shifting_Image_20231128170807016_aug",
+          "image": "images/train/Layer_shifting_Image_20231128170807016_aug.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128170807016_aug.json",
+          "image_sha256": "dd4b435d8802a547071a59104a8af4496dcfd9a3c174df88fcbe68aec128a832",
+          "boxes": [
+            [
+              1,
+              0.4691248421717171,
+              0.7765447443181819,
+              0.4750631313131312,
+              0.11363636363636387
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128170807016",
+          "pixel_sha256": "7e32ace05c78c038a436c0d48519d31a158f3866664b8372931dbe279e39323f"
+        },
+        {
+          "stem": "Layer_shifting_Image_20231128170807016_original",
+          "image": "images/train/Layer_shifting_Image_20231128170807016_original.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128170807016_original.json",
+          "image_sha256": "dd4b435d8802a547071a59104a8af4496dcfd9a3c174df88fcbe68aec128a832",
+          "boxes": [
+            [
+              1,
+              0.4667574179292929,
+              0.7795040246212122,
+              0.4955808080808081,
+              0.12428977272727304
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128170807016",
+          "pixel_sha256": "7e32ace05c78c038a436c0d48519d31a158f3866664b8372931dbe279e39323f"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "81d90cac726ad957453ba63975bf0bdd5303fd3dab97996354830b05d9257c04",
+      "variants": [
+        {
+          "stem": "Layer_shifting_Image_20231128165306962_aug",
+          "image": "images/train/Layer_shifting_Image_20231128165306962_aug.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128165306962_aug.json",
+          "image_sha256": "012a59b5f540dca02748790bd049e670bf9dd96f6c1bb5d2fa1733a6462a0580",
+          "boxes": [
+            [
+              1,
+              0.46794113005050514,
+              0.7883818655303032,
+              0.4648042929292928,
+              0.09706439393939392
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128165306962",
+          "pixel_sha256": "81d90cac726ad957453ba63975bf0bdd5303fd3dab97996354830b05d9257c04"
+        },
+        {
+          "stem": "Layer_shifting_Image_20231128165306962_original",
+          "image": "images/train/Layer_shifting_Image_20231128165306962_original.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128165306962_original.json",
+          "image_sha256": "012a59b5f540dca02748790bd049e670bf9dd96f6c1bb5d2fa1733a6462a0580",
+          "boxes": [
+            [
+              1,
+              0.4671519886363636,
+              0.787198153409091,
+              0.46638257575757586,
+              0.09232954545454575
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128165306962",
+          "pixel_sha256": "81d90cac726ad957453ba63975bf0bdd5303fd3dab97996354830b05d9257c04"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "81d943ac7fe4c8536ab25b974861aab83621c2133354aa6031f24c0065907b8a",
+      "variants": [
+        {
+          "stem": "Cracking_Image_20231130103801735_aug",
+          "image": "images/train/Cracking_Image_20231130103801735_aug.jpg",
+          "json": "images/train/Cracking_Image_20231130103801735_aug.json",
+          "image_sha256": "16103f261edfefc25724caa2492f4845f4da5780ead3b04379cfc0e92ba948a4",
+          "boxes": [
+            [
+              0,
+              0.5693458017676768,
+              0.5664358428030303,
+              0.1467803030303029,
+              0.06036931818181823
+            ],
+            [
+              0,
+              0.31918797348484856,
+              0.8008108428030305,
+              0.22253787878787876,
+              0.09351325757575779
+            ]
+          ],
+          "classes": [
+            0
+          ],
+          "family": "Cracking_Image_20231130103801735",
+          "pixel_sha256": "81d943ac7fe4c8536ab25b974861aab83621c2133354aa6031f24c0065907b8a"
+        },
+        {
+          "stem": "Cracking_Image_20231130103801735_original",
+          "image": "images/train/Cracking_Image_20231130103801735_original.jpg",
+          "json": "images/train/Cracking_Image_20231130103801735_original.json",
+          "image_sha256": "16103f261edfefc25724caa2492f4845f4da5780ead3b04379cfc0e92ba948a4",
+          "boxes": [
+            [
+              0,
+              0.556719539141414,
+              0.5611091382575758,
+              0.15782828282828287,
+              0.07575757575757569
+            ],
+            [
+              0,
+              0.3207662563131313,
+              0.807321259469697,
+              0.20833333333333334,
+              0.09706439393939392
+            ]
+          ],
+          "classes": [
+            0
+          ],
+          "family": "Cracking_Image_20231130103801735",
+          "pixel_sha256": "81d943ac7fe4c8536ab25b974861aab83621c2133354aa6031f24c0065907b8a"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "846640f5805eff85e4f32f72a725a2e54bc5fe740021b56022f0ddf623c1dab3",
+      "variants": [
+        {
+          "stem": "Layer_shifting_Image_20231128181036980_aug",
+          "image": "images/train/Layer_shifting_Image_20231128181036980_aug.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128181036980_aug.json",
+          "image_sha256": "704af4cfb236ed2cb437d8f9445af4d248dc723d69b4ce346010abd567e8f785",
+          "boxes": [
+            [
+              1,
+              0.3941564078282829,
+              0.7321555397727274,
+              0.4608585858585859,
+              0.13612689393939426
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128181036980",
+          "pixel_sha256": "846640f5805eff85e4f32f72a725a2e54bc5fe740021b56022f0ddf623c1dab3"
+        },
+        {
+          "stem": "Layer_shifting_Image_20231128181036980_original",
+          "image": "images/train/Layer_shifting_Image_20231128181036980_original.jpg",
+          "json": "images/train/Layer_shifting_Image_20231128181036980_original.json",
+          "image_sha256": "704af4cfb236ed2cb437d8f9445af4d248dc723d69b4ce346010abd567e8f785",
+          "boxes": [
+            [
+              1,
+              0.3937618371212121,
+              0.7291962594696969,
+              0.4884785353535354,
+              0.11837121212121215
+            ]
+          ],
+          "classes": [
+            1
+          ],
+          "family": "Layer_shifting_Image_20231128181036980",
+          "pixel_sha256": "846640f5805eff85e4f32f72a725a2e54bc5fe740021b56022f0ddf623c1dab3"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "9436197225232381477a2dc637348cc4481cbcda05b4bfc7cbf8f03aa39c4fef",
+      "variants": [
+        {
+          "stem": "Warping_Image_20240102182020103_aug",
+          "image": "images/train/Warping_Image_20240102182020103_aug.jpg",
+          "json": "images/train/Warping_Image_20240102182020103_aug.json",
+          "image_sha256": "159c08d823bee506ecb92363e09c4d729bfb6be978b392c6022b0416ba3146df",
+          "boxes": [
+            [
+              4,
+              0.7638691603535354,
+              0.83395478219697,
+              0.19649621212121193,
+              0.08404356060606077
+            ],
+            [
+              4,
+              0.10967092803030304,
+              0.8333629261363638,
+              0.11600378787878789,
+              0.08996212121212144
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240102182020103",
+          "pixel_sha256": "9436197225232381477a2dc637348cc4481cbcda05b4bfc7cbf8f03aa39c4fef"
+        },
+        {
+          "stem": "Warping_Image_20240102182020103_original",
+          "image": "images/train/Warping_Image_20240102182020103_original.jpg",
+          "json": "images/train/Warping_Image_20240102182020103_original.json",
+          "image_sha256": "159c08d823bee506ecb92363e09c4d729bfb6be978b392c6022b0416ba3146df",
+          "boxes": [
+            [
+              4,
+              0.7587397411616162,
+              0.8268525094696971,
+              0.19255050505050506,
+              0.0887784090909094
+            ],
+            [
+              4,
+              0.10690893308080808,
+              0.8292199337121214,
+              0.1057449494949495,
+              0.07930871212121215
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240102182020103",
+          "pixel_sha256": "9436197225232381477a2dc637348cc4481cbcda05b4bfc7cbf8f03aa39c4fef"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "b17e1bf4aa3da8e84ba31a7ab9d67ad6d2190767257e62dbf0be932bc36e0f37",
+      "variants": [
+        {
+          "stem": "Stringing_Image_20240103135916664_aug",
+          "image": "images/train/Stringing_Image_20240103135916664_aug.jpg",
+          "json": "images/train/Stringing_Image_20240103135916664_aug.json",
+          "image_sha256": "f422fad9b92b4d7a4f3bc8b04c7f33dc7617f1e524ec547ac794e72b7cf76ecd",
+          "boxes": [
+            [
+              3,
+              0.36495817550505044,
+              0.5978042140151517,
+              0.3961489898989899,
+              0.45928030303030315
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103135916664",
+          "pixel_sha256": "b17e1bf4aa3da8e84ba31a7ab9d67ad6d2190767257e62dbf0be932bc36e0f37"
+        },
+        {
+          "stem": "Stringing_Image_20240103135916664_original",
+          "image": "images/train/Stringing_Image_20240103135916664_original.jpg",
+          "json": "images/train/Stringing_Image_20240103135916664_original.json",
+          "image_sha256": "f422fad9b92b4d7a4f3bc8b04c7f33dc7617f1e524ec547ac794e72b7cf76ecd",
+          "boxes": [
+            [
+              3,
+              0.3539101957070708,
+              0.6007634943181819,
+              0.4071969696969698,
+              0.4391571969696968
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103135916664",
+          "pixel_sha256": "b17e1bf4aa3da8e84ba31a7ab9d67ad6d2190767257e62dbf0be932bc36e0f37"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "b3cb73c1f063926ef7bac2f6d8989e01e465e945120fcf68189f919a2f13bccf",
+      "variants": [
+        {
+          "stem": "Warping_Image_20240102150850090_aug",
+          "image": "images/train/Warping_Image_20240102150850090_aug.jpg",
+          "json": "images/train/Warping_Image_20240102150850090_aug.json",
+          "image_sha256": "f66596e9ac2ecef9942e50a0377ccb5b080e728bb0a336dfe4bdc755af21be4a",
+          "boxes": [
+            [
+              4,
+              0.7413786300505051,
+              0.862955729166667,
+              0.17361111111111102,
+              0.10179924242424232
+            ],
+            [
+              4,
+              0.1806936553030303,
+              0.854077888257576,
+              0.16019570707070704,
+              0.09351325757575757
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240102150850090",
+          "pixel_sha256": "b3cb73c1f063926ef7bac2f6d8989e01e465e945120fcf68189f919a2f13bccf"
+        },
+        {
+          "stem": "Warping_Image_20240102150850090_original",
+          "image": "images/train/Warping_Image_20240102150850090_original.jpg",
+          "json": "images/train/Warping_Image_20240102150850090_original.json",
+          "image_sha256": "f66596e9ac2ecef9942e50a0377ccb5b080e728bb0a336dfe4bdc755af21be4a",
+          "boxes": [
+            [
+              4,
+              0.17516966540404041,
+              0.8747928503787881,
+              0.15072601010101008,
+              0.06628787878787878
+            ],
+            [
+              4,
+              0.7595288825757577,
+              0.8777521306818181,
+              0.15151515151515169,
+              0.08167613636363658
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240102150850090",
+          "pixel_sha256": "b3cb73c1f063926ef7bac2f6d8989e01e465e945120fcf68189f919a2f13bccf"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "db443d2bc6db44bfaf9edc5d7ca39bf61871a55c214fbfdf34fd9b08dcb5b5ee",
+      "variants": [
+        {
+          "stem": "Warping_Image_20240102161320087_aug",
+          "image": "images/train/Warping_Image_20240102161320087_aug.jpg",
+          "json": "images/train/Warping_Image_20240102161320087_aug.json",
+          "image_sha256": "c87d6824e1acfc76868b5d7e715409fe366fcd2dc06d65a1ecc2c88c38ae0d9a",
+          "boxes": [
+            [
+              4,
+              0.23159327651515152,
+              0.8765684185606061,
+              0.11837121212121211,
+              0.07694128787878785
+            ],
+            [
+              4,
+              0.6403685290404041,
+              0.8682824337121215,
+              0.1530934343434344,
+              0.08877840909090906
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240102161320087",
+          "pixel_sha256": "db443d2bc6db44bfaf9edc5d7ca39bf61871a55c214fbfdf34fd9b08dcb5b5ee"
+        },
+        {
+          "stem": "Warping_Image_20240102161320087_original",
+          "image": "images/train/Warping_Image_20240102161320087_original.jpg",
+          "json": "images/train/Warping_Image_20240102161320087_original.json",
+          "image_sha256": "c87d6824e1acfc76868b5d7e715409fe366fcd2dc06d65a1ecc2c88c38ae0d9a",
+          "boxes": [
+            [
+              4,
+              0.6762744633838383,
+              0.8712417140151516,
+              0.1270517676767676,
+              0.07575757575757547
+            ],
+            [
+              4,
+              0.2343552714646465,
+              0.8670987215909094,
+              0.12073863636363635,
+              0.08641098484848475
+            ]
+          ],
+          "classes": [
+            4
+          ],
+          "family": "Warping_Image_20240102161320087",
+          "pixel_sha256": "db443d2bc6db44bfaf9edc5d7ca39bf61871a55c214fbfdf34fd9b08dcb5b5ee"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "de4fc636616f8a35e1f50ba565af772666417ce6df4c153c4959a09b30bb55c2",
+      "variants": [
+        {
+          "stem": "Cracking_Image_20231130114001723_aug",
+          "image": "images/train/Cracking_Image_20231130114001723_aug.jpg",
+          "json": "images/train/Cracking_Image_20231130114001723_aug.json",
+          "image_sha256": "f6de82b2ff378a25f109b2d59b28b83693d8f5b68746b8dd32dee944e03303e3",
+          "boxes": [
+            [
+              0,
+              0.5330452967171717,
+              0.7700343276515154,
+              0.22885101010101008,
+              0.12192234848484862
+            ],
+            [
+              0,
+              0.3018268623737374,
+              0.5214547821969697,
+              0.17834595959595953,
+              0.08404356060606055
+            ]
+          ],
+          "classes": [
+            0
+          ],
+          "family": "Cracking_Image_20231130114001723",
+          "pixel_sha256": "de4fc636616f8a35e1f50ba565af772666417ce6df4c153c4959a09b30bb55c2"
+        },
+        {
+          "stem": "Cracking_Image_20231130114001723_original",
+          "image": "images/train/Cracking_Image_20231130114001723_original.jpg",
+          "json": "images/train/Cracking_Image_20231130114001723_original.json",
+          "image_sha256": "f6de82b2ff378a25f109b2d59b28b83693d8f5b68746b8dd32dee944e03303e3",
+          "boxes": [
+            [
+              0,
+              0.3037997159090909,
+              0.5327000473484849,
+              0.17913510101010102,
+              0.0899621212121211
+            ],
+            [
+              0,
+              0.528705018939394,
+              0.7735854640151516,
+              0.234375,
+              0.08641098484848497
+            ]
+          ],
+          "classes": [
+            0
+          ],
+          "family": "Cracking_Image_20231130114001723",
+          "pixel_sha256": "de4fc636616f8a35e1f50ba565af772666417ce6df4c153c4959a09b30bb55c2"
+        }
+      ]
+    },
+    {
+      "pixel_sha256": "f82d490859a8320933deb8dbbd645571893210be4873bb9d2c6085db691ea9bb",
+      "variants": [
+        {
+          "stem": "Stringing_Image_20240103123446678_aug",
+          "image": "images/train/Stringing_Image_20240103123446678_aug.jpg",
+          "json": "images/train/Stringing_Image_20240103123446678_aug.json",
+          "image_sha256": "fcca4a224842767fa963c3203496596093eb4bbedb933197c272e8c5e1d75d75",
+          "boxes": [
+            [
+              3,
+              0.7374329229797979,
+              0.748727509469697,
+              0.06628787878787874,
+              0.10771780303030298
+            ],
+            [
+              3,
+              0.4474234532828283,
+              0.4149206912878788,
+              0.45849116161616155,
+              0.7753314393939394
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103123446678",
+          "pixel_sha256": "f82d490859a8320933deb8dbbd645571893210be4873bb9d2c6085db691ea9bb"
+        },
+        {
+          "stem": "Stringing_Image_20240103123446678_original",
+          "image": "images/train/Stringing_Image_20240103123446678_original.jpg",
+          "json": "images/train/Stringing_Image_20240103123446678_original.json",
+          "image_sha256": "fcca4a224842767fa963c3203496596093eb4bbedb933197c272e8c5e1d75d75",
+          "boxes": [
+            [
+              3,
+              0.44860716540404044,
+              0.42320667613636365,
+              0.43876262626262647,
+              0.7421875
+            ],
+            [
+              3,
+              0.7315143623737373,
+              0.7599727746212123,
+              0.05918560606060611,
+              0.08996212121212133
+            ]
+          ],
+          "classes": [
+            3
+          ],
+          "family": "Stringing_Image_20240103123446678",
+          "pixel_sha256": "f82d490859a8320933deb8dbbd645571893210be4873bb9d2c6085db691ea9bb"
+        }
+      ]
+    }
+  ],
+  "excluded_related": [
+    {
+      "stem": "Cracking_Image_20231130103801735",
+      "image": "images/train/Cracking_Image_20231130103801735.jpg",
+      "json": "images/train/Cracking_Image_20231130103801735.json",
+      "image_sha256": "32e656d210d9ba31d2ba8174e5030f3e3418d979b87f845d285a7c10f74dfd40",
+      "boxes": [
+        [
+          0,
+          0.5705295138888888,
+          0.5617009943181819,
+          0.15388257575757583,
+          0.06747159090909083
+        ],
+        [
+          0,
+          0.3207662563131313,
+          0.8031782670454548,
+          0.22411616161616155,
+          0.10298295454545447
+        ]
+      ],
+      "classes": [
+        0
+      ],
+      "family": "Cracking_Image_20231130103801735",
+      "pixel_sha256": "0ebe8394f9fc68388e7215eb59d8dddf457e5c06fa006d2aaa8a056b8180ad98"
+    },
+    {
+      "stem": "Warping_Image_20240103114339643",
+      "image": "images/train/Warping_Image_20240103114339643.jpg",
+      "json": "images/train/Warping_Image_20240103114339643.json",
+      "image_sha256": "fa9b47ac95adcb536a6d86b3b565f10b6809231306d2620bbdc413cd5a1813da",
+      "boxes": [
+        [
+          4,
+          0.23553898358585856,
+          0.8404651988636367,
+          0.0536616161616161,
+          0.037878787878787845
+        ],
+        [
+          4,
+          0.6494436553030304,
+          0.8357303503787881,
+          0.12705176767676774,
+          0.0733901515151516
+        ]
+      ],
+      "classes": [
+        4
+      ],
+      "family": "Warping_Image_20240103114339643",
+      "pixel_sha256": "1da1028a1d64d66efd1e8d1bd108c333dc8b727a034a36872f8f08f8f1a00102"
+    },
+    {
+      "stem": "Warping_Image_20240102161320087",
+      "image": "images/train/Warping_Image_20240102161320087.jpg",
+      "json": "images/train/Warping_Image_20240102161320087.json",
+      "image_sha256": "d41672a0ddc28ab8777284f6001c153be2f1967d40e1ddffda9aa158ed05b5b2",
+      "boxes": [
+        [
+          4,
+          0.649838226010101,
+          0.8635475852272728,
+          0.15309343434343411,
+          0.09114583333333304
+        ],
+        [
+          4,
+          0.22330729166666666,
+          0.8676905776515154,
+          0.11442550505050501,
+          0.08522727272727271
+        ]
+      ],
+      "classes": [
+        4
+      ],
+      "family": "Warping_Image_20240102161320087",
+      "pixel_sha256": "2239f408070677d1a525d064b8ee870eb5456bb76af2d9772634a4a0cf272173"
+    },
+    {
+      "stem": "Layer_shifting_Image_20231128171806982",
+      "image": "images/train/Layer_shifting_Image_20231128171806982.jpg",
+      "json": "images/train/Layer_shifting_Image_20231128171806982.json",
+      "image_sha256": "0fbce8ebe58f021619f5827576ef5ef4a758b84aabedf6dcf2c4ad959cd493eb",
+      "boxes": [
+        [
+          1,
+          0.4651791351010101,
+          0.7712180397727274,
+          0.47979797979797983,
+          0.1337594696969695
+        ]
+      ],
+      "classes": [
+        1
+      ],
+      "family": "Layer_shifting_Image_20231128171806982",
+      "pixel_sha256": "30a07525ae4faa129ed78ecae4df7868365cf3a87f762512d593de0168e066f0"
+    },
+    {
+      "stem": "Stringing_Image_20240103121946641",
+      "image": "images/train/Stringing_Image_20240103121946641.jpg",
+      "json": "images/train/Stringing_Image_20240103121946641.json",
+      "image_sha256": "7deb30f6a1f0fc750c38386aca31edcc71756471d452937f85537f02f8cfae5b",
+      "boxes": [
+        [
+          3,
+          0.730725220959596,
+          0.7658913352272729,
+          0.06076388888888884,
+          0.06865530303030332
+        ],
+        [
+          3,
+          0.4509745896464647,
+          0.688950047348485,
+          0.44191919191919204,
+          0.24621212121212155
+        ]
+      ],
+      "classes": [
+        3
+      ],
+      "family": "Stringing_Image_20240103121946641",
+      "pixel_sha256": "521bec90e45503fb0d6bbcd881eddacd664416a169c8e500c479cb0d970cc1d3"
+    },
+    {
+      "stem": "Stringing_Image_20240103135916664",
+      "image": "images/train/Stringing_Image_20240103135916664.jpg",
+      "json": "images/train/Stringing_Image_20240103135916664.json",
+      "image_sha256": "8a26ede3be4709e12feecac46a1f83a92b2c9c9a2881f4b555a0b63e57e6ff48",
+      "boxes": [
+        [
+          3,
+          0.3594341856060606,
+          0.6037227746212124,
+          0.39614898989899006,
+          0.44744318181818193
+        ]
+      ],
+      "classes": [
+        3
+      ],
+      "family": "Stringing_Image_20240103135916664",
+      "pixel_sha256": "56e8aba6302d909331f2aeee0035a161b68fc8f8f02c5462de00a8863d1ee293"
+    },
+    {
+      "stem": "Layer_shifting_Image_20231128181036980",
+      "image": "images/train/Layer_shifting_Image_20231128181036980.jpg",
+      "json": "images/train/Layer_shifting_Image_20231128181036980.json",
+      "image_sha256": "1ac1a58593c78fffc0ba4d9f0afef72db0fddc761bdd8ebb4ad4937df3ccfdc0",
+      "boxes": [
+        [
+          1,
+          0.4067826704545454,
+          0.7404415246212123,
+          0.5192550505050505,
+          0.12665719696969724
+        ]
+      ],
+      "classes": [
+        1
+      ],
+      "family": "Layer_shifting_Image_20231128181036980",
+      "pixel_sha256": "680cc390bcce6be11255279e4496825e7d45c2b1d8f378833074eab6007b9491"
+    },
+    {
+      "stem": "Stringing_Image_20240103134916647",
+      "image": "images/train/Stringing_Image_20240103134916647.jpg",
+      "json": "images/train/Stringing_Image_20240103134916647.json",
+      "image_sha256": "1ca9e705e6ec8c6aa69446981a850ed3047363e4d54d920cb7ff849572053323",
+      "boxes": [
+        [
+          3,
+          0.35825047348484856,
+          0.6836233428030305,
+          0.3985164141414142,
+          0.29000946969696983
+        ]
+      ],
+      "classes": [
+        3
+      ],
+      "family": "Stringing_Image_20240103134916647",
+      "pixel_sha256": "872ae6e7d68095f091ef8224d86c1b3b344b8b3e4d1db8fbfe872eaa93920875"
+    },
+    {
+      "stem": "Warping_Image_20240102150850090",
+      "image": "images/train/Warping_Image_20240102150850090.jpg",
+      "json": "images/train/Warping_Image_20240102150850090.json",
+      "image_sha256": "c7e86b90997ab2327e6d5e7681378ada82414d3c142e40af807d08702be59527",
+      "boxes": [
+        [
+          4,
+          0.1814827967171717,
+          0.8611801609848487,
+          0.17597853535353536,
+          0.09824810606060597
+        ],
+        [
+          4,
+          0.7480863320707072,
+          0.8629557291666667,
+          0.15230429292929296,
+          0.10179924242424265
+        ]
+      ],
+      "classes": [
+        4
+      ],
+      "family": "Warping_Image_20240102150850090",
+      "pixel_sha256": "8e07628e15ab4f46c5c2e1a726f747c0487a8ad4e1f3950776f4cd6f63f02f03"
+    },
+    {
+      "stem": "Cracking_Image_20231128201037000",
+      "image": "images/train/Cracking_Image_20231128201037000.jpg",
+      "json": "images/train/Cracking_Image_20231128201037000.json",
+      "image_sha256": "62c79617e1434af5cf049eeb97be215fc9bdc77fe60682a8f534e0c913d6af96",
+      "boxes": [
+        [
+          0,
+          0.25881865530303033,
+          0.778912168560606,
+          0.2312184343434344,
+          0.10653409090909094
+        ]
+      ],
+      "classes": [
+        0
+      ],
+      "family": "Cracking_Image_20231128201037000",
+      "pixel_sha256": "9876cd21c1e4011dd4356c38da314f57e00c3e1d14bb7ee38bf5fbd7e5ba46da"
+    },
+    {
+      "stem": "Layer_shifting_Image_20231128165306962",
+      "image": "images/train/Layer_shifting_Image_20231128165306962.jpg",
+      "json": "images/train/Layer_shifting_Image_20231128165306962.json",
+      "image_sha256": "034b968d9df277f8dde5bbc7a5cd281ecc6dc6d0c60d1885365afdcfab2be8cd",
+      "boxes": [
+        [
+          1,
+          0.4620225694444444,
+          0.7795040246212124,
+          0.46401515151515155,
+          0.1266571969696969
+        ]
+      ],
+      "classes": [
+        1
+      ],
+      "family": "Layer_shifting_Image_20231128165306962",
+      "pixel_sha256": "a73ff7f42df1e49130006c2e0ba6f00841898d988f0d43d8c3c5d7872956ef61"
+    },
+    {
+      "stem": "Warping_Image_20240102182020103",
+      "image": "images/train/Warping_Image_20240102182020103.jpg",
+      "json": "images/train/Warping_Image_20240102182020103.json",
+      "image_sha256": "dc65dc6753621fde1cb30255a6b443894de4e8359eba0b09bdf77c2f568b1ada",
+      "boxes": [
+        [
+          4,
+          0.11085464015151515,
+          0.8345466382575759,
+          0.11363636363636365,
+          0.08522727272727293
+        ],
+        [
+          4,
+          0.7796519886363636,
+          0.8333629261363638,
+          0.17282196969696972,
+          0.08996212121212144
+        ]
+      ],
+      "classes": [
+        4
+      ],
+      "family": "Warping_Image_20240102182020103",
+      "pixel_sha256": "d10a0c67c1b54963f412291f096e30d6f2b8444e94d5b73fc3e2d907c4292d85"
+    },
+    {
+      "stem": "Layer_shifting_Image_20231128170807016",
+      "image": "images/train/Layer_shifting_Image_20231128170807016.jpg",
+      "json": "images/train/Layer_shifting_Image_20231128170807016.json",
+      "image_sha256": "1166fbd7ae9968552a9e151b10a8efde9454e73401e11d5502c58d3e887c80d2",
+      "boxes": [
+        [
+          1,
+          0.46636284722222227,
+          0.7729936079545454,
+          0.4663825757575757,
+          0.11837121212121215
+        ]
+      ],
+      "classes": [
+        1
+      ],
+      "family": "Layer_shifting_Image_20231128170807016",
+      "pixel_sha256": "e77360e491562d8f89c78d96b8de4032e2011ea686a0a4b8ba81b7dcb7ca3bef"
+    },
+    {
+      "stem": "Layer_shifting_Image_20231128160036961",
+      "image": "images/train/Layer_shifting_Image_20231128160036961.jpg",
+      "json": "images/train/Layer_shifting_Image_20231128160036961.json",
+      "image_sha256": "5e10526e6c312737fe79df43df8a9adf92946fe0591543c5a220896e05f2a79e",
+      "boxes": [
+        [
+          1,
+          0.4474234532828283,
+          0.7925248579545456,
+          0.6068497474747474,
+          0.07694128787878807
+        ]
+      ],
+      "classes": [
+        1
+      ],
+      "family": "Layer_shifting_Image_20231128160036961",
+      "pixel_sha256": "eb2abd61d2582ed59403f4095e9936b57f78f017a7ae90d31fa21f6803e860b9"
+    },
+    {
+      "stem": "Stringing_Image_20240103123446678",
+      "image": "images/train/Stringing_Image_20240103123446678.jpg",
+      "json": "images/train/Stringing_Image_20240103123446678.json",
+      "image_sha256": "ec3454aeabe6ef92dfb8afb55537430b0fcaa7f3b0379ae9117c455ff06f7f22",
+      "boxes": [
+        [
+          3,
+          0.4466343118686869,
+          0.4202473958333335,
+          0.453756313131313,
+          0.7457386363636365
+        ],
+        [
+          3,
+          0.7244120896464645,
+          0.7564216382575759,
+          0.06234217171717171,
+          0.09469696969696983
+        ]
+      ],
+      "classes": [
+        3
+      ],
+      "family": "Stringing_Image_20240103123446678",
+      "pixel_sha256": "f25991628f68d441d585011cfc874fc5679e66559c967597811174fb4943fbea"
+    },
+    {
+      "stem": "Cracking_Image_20231130114001723",
+      "image": "images/train/Cracking_Image_20231130114001723.jpg",
+      "json": "images/train/Cracking_Image_20231130114001723.json",
+      "image_sha256": "d8fa17748cf48d53da4467681cabbca7f15d00cb788947050db4a860ea228bee",
+      "boxes": [
+        [
+          0,
+          0.5251538825757577,
+          0.7712180397727275,
+          0.2414772727272728,
+          0.105350378787879
+        ],
+        [
+          0,
+          0.2974865845959596,
+          0.5202710700757576,
+          0.17282196969696972,
+          0.08877840909090906
+        ]
+      ],
+      "classes": [
+        0
+      ],
+      "family": "Cracking_Image_20231130114001723",
+      "pixel_sha256": "f5bcf0d20c28dc157586721b06934b7f63367c2ae523078577b360da25e9ff8d"
+    }
+  ],
+  "deduplication": [],
+  "D_project_modified": false,
+  "formal_training_started": false
+}

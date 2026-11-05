@@ -1,0 +1,9 @@
+{
+  "run_id": "smoke_20261101T081848_972534Z",
+  "mode": "smoke",
+  "status": "failed",
+  "config": "D:\\Desktop\\7215\\project\\baseline\\configs\\smoke.gpu.yaml",
+  "is_formal_result": false,
+  "dataset_sha256": "e3090aea7bdea275abdbccec94dc0993641d61f963c2711aa5986329398a214d",
+  "error": "[Errno 22] Invalid argument"
+}

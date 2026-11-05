@@ -1,0 +1,17 @@
+{
+  "status": "completed",
+  "pid": 2844,
+  "started": "2026-11-01T18:54:09.896397+00:00",
+  "log": "D:\\Desktop\\7215\\project\\diagnostics\\real_fdm_smoke_20261102.log",
+  "command": [
+    "D:\\Desktop\\7215\\project\\environment\\.venv_gpu\\Scripts\\python.exe",
+    "-B",
+    "D:\\Desktop\\7215\\project\\baseline\\train_baseline.py",
+    "--config",
+    "D:\\Desktop\\7215\\project\\baseline\\configs\\smoke.real_20261102.yaml",
+    "--data",
+    "D:\\Desktop\\7215\\project\\datasets\\real_smoke_20261102\\data.yaml"
+  ],
+  "exit_code": 0,
+  "ended": "2026-11-01T18:55:42.381878+00:00"
+}
